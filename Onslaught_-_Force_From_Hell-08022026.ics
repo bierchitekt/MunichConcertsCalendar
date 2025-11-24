@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20260208T190000
 DTEND:20260208T210000
 SUMMARY:Onslaught - Force From Hell
 TZID:Europe/Berlin
-UID:f8ab8f91-e318-41f6-92d9-1165a6db9fb3
+UID:26b99b67-e46b-4c4e-bc0b-ff76c8858b6b
 URL:https://backstage.eu/onslaught-force-from-hell.html
 DESCRIPTION:+support: Persecutor
 LOCATION:Backstage Club

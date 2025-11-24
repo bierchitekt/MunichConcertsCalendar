@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20260527T200000
 DTEND:20260527T220000
 SUMMARY:High Desert Queen
 TZID:Europe/Berlin
-UID:9d09cd9e-e196-4a34-a041-051955f87b3d
+UID:7d2ac7e5-4de3-4a3b-bd0e-7e6f0ccf0531
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/27-05-2026_hig
  h-desert-queen
 DESCRIPTION:High Desert Queen

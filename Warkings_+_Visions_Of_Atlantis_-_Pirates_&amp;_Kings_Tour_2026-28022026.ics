@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20260228T190000
 DTEND:20260228T210000
 SUMMARY:Warkings + Visions Of Atlantis - Pirates & Kings Tour 2026
 TZID:Europe/Berlin
-UID:68cfcd52-4869-4136-bc60-b91f9e12f909
+UID:1784310e-cb52-40a4-a910-9c71af3649ce
 URL:https://backstage.eu/warkings-visions-of-atlantis-pirates-kings-tour-
  2026.html
 DESCRIPTION:Induction

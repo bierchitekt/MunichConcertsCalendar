@@ -2,14 +2,14 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20260314T200000
 DTEND:20260314T220000
 SUMMARY:Der W
 TZID:Europe/Berlin
-UID:8da7dc2d-3ae3-4e17-b265-b3e110d78fb1
-URL:https://www.eventfabrik-muenchen.de/event/der-w/
+UID:01f9a081-9f79-4cfe-88ae-12bea5ef4a61
+URL:https://muenchen.motorworld.de/veranstaltungen/der-w/
 DESCRIPTION:
-LOCATION:EventFabrik
+LOCATION:Zenith
 END:VEVENT
 END:VCALENDAR

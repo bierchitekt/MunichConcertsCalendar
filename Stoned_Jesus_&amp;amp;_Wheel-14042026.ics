@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20260414T200000
 DTEND:20260414T220000
 SUMMARY:Stoned Jesus &amp\; Wheel
 TZID:Europe/Berlin
-UID:477bf8af-3d8e-447c-b2fd-86ad0edaaf80
+UID:abf54fe9-9fda-4e03-b9cf-b6c743f2e7e9
 URL:https://www.eventfabrik-muenchen.de/event/stoned-jesus-wheel/
 DESCRIPTION:
 LOCATION:EventFabrik

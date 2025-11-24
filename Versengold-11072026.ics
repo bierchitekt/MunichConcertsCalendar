@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20260711T180000
 DTEND:20260711T200000
 SUMMARY:Versengold
 TZID:Europe/Berlin
-UID:fd08f624-ab06-438a-85bc-0095864fa6cd
+UID:275ca44f-2134-4ffd-a6b3-aadd778416de
 URL:https://www.tollwood.de/veranstaltungen/2026/versengold-fiddlersgreen
  -paddyhats/
 DESCRIPTION:Fiddler's Green\,Paddyhats

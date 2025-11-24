@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20260421T200000
 DTEND:20260421T220000
 SUMMARY:Khirki - Through The Clashing Rocks Tour
 TZID:Europe/Berlin
-UID:b564c8e1-a50f-47b5-945f-2eea56566778
+UID:f0b35d2f-6908-4851-bba4-46b377b23322
 URL:https://backstage.eu/khirki-through-the-clashing-rocks-tour.html
 DESCRIPTION:+ Support
 LOCATION:Backstage Club

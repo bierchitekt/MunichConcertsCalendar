@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20260219T200000
 DTEND:20260219T220000
 SUMMARY:Glen Matlock - Live 2026
 TZID:Europe/Berlin
-UID:8093db1e-a91e-4b69-8d1f-58efeb1024d4
+UID:f8ac0054-1527-4af1-95c4-9266ec3c8b26
 URL:https://backstage.eu/glen-matlock-live-2026.html
 DESCRIPTION:Glen Matlock Kommt Im Februar 2026 Mit Band Auf Exklusiver Cl
  ubtour Nach Deutschland Und Österreich!

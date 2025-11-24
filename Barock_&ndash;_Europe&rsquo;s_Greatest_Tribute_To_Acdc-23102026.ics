@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20261023T200000
 DTEND:20261023T220000
 SUMMARY:Barock – Europe’s Greatest Tribute To Ac/dc
 TZID:Europe/Berlin
-UID:a74dba0e-a790-4911-8b9d-050dfeb57f29
+UID:61b31f8c-3b95-4a58-84a1-f6b5605c9cba
 URL:https://bau.circus-krone.com/veranstaltungen/barock-europes-greatest-
  tribute-to-ac-dc/
 DESCRIPTION:

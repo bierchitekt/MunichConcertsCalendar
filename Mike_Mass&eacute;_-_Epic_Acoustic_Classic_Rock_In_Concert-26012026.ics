@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20260126T200000
 DTEND:20260126T220000
 SUMMARY:Mike Massé - Epic Acoustic Classic Rock In Concert
 TZID:Europe/Berlin
-UID:23fe2ee4-47e3-478a-81d0-9a2af510b66a
+UID:6cf7fab2-4869-4e1c-940f-4aa4bde2b2ed
 URL:https://backstage.eu/mike-masse-epic-acoustic-classic-rock-in-concert
  .html
 DESCRIPTION:

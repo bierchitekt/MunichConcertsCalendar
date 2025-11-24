@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20260418T183000
 DTEND:20260418T203000
 SUMMARY:Bobby & Max - Die Legende Der Goldenen Krone - Live Tour 2026
 TZID:Europe/Berlin
-UID:8ed3b848-a428-4556-aeca-caa117244389
+UID:f8594f69-d3b8-48ba-9046-bd948e53dbd6
 URL:https://backstage.eu/bobby-max-die-legende-der-goldenen-krone-live-to
  ur-2026.html
 DESCRIPTION:Die Originalstimmen Aus Den Hörspielen Präsentieren Live Auf 

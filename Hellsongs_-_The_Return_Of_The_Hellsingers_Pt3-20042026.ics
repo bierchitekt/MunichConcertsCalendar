@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20260420T200000
 DTEND:20260420T220000
 SUMMARY:Hellsongs - The Return Of The Hellsingers Pt3
 TZID:Europe/Berlin
-UID:6d6cec36-eb49-4fb3-877f-1f8ba9b76fbf
+UID:56289cfc-6caa-44b7-b1ab-d35f431445e2
 URL:https://backstage.eu/hellsongs-the-return-of-the-hellsingers-pt3.html
  
 DESCRIPTION:

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20260318T200000
 DTEND:20260318T220000
 SUMMARY:greenwald
 TZID:Europe/Berlin
-UID:dcf82a86-7ecd-43ac-acdd-a3f521cbd5e6
+UID:8ca6cc00-9e11-4b9b-81ae-aad4b7992b2a
 URL:https://t.rausgegangen.de/tickets/shop/sun-king-music-artists-concert
  s
 DESCRIPTION:

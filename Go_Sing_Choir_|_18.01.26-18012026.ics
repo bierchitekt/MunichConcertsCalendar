@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20260118T190000
 DTEND:20260118T210000
 SUMMARY:Go Sing Choir | 18.01.26
 TZID:Europe/Berlin
-UID:939cb8cc-b2f4-4239-b000-19b1974d7be2
+UID:30ca3663-bb6e-4b4d-9b45-7cc7ff344e81
 URL:https://backstage.eu/go-sing-choir-18-01-26.html
 DESCRIPTION:Münchens Grösster Mitmach-popchor Jetzt In Der Backstage Aren
  a!

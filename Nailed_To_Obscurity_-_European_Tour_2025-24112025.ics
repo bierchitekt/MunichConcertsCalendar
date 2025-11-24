@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200409Z
 DTSTART:20251124T200000
 DTEND:20251124T220000
 SUMMARY:Nailed To Obscurity - European Tour 2025
 TZID:Europe/Berlin
-UID:cc5f79ef-02ef-4ca5-b803-bb44272d2f8b
+UID:d2e83fd3-b1a9-458b-9af8-5fbdd3678de9
 URL:https://backstage.eu/nailed-to-obscurity-european-tour-2025.html
 DESCRIPTION:Nailed To Obscurity + Yoth Iria + Oak\, Ash & Thorn
 LOCATION:Backstage Club

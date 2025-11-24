@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20260502T200000
 DTEND:20260502T220000
 SUMMARY:Colour Haze & My Sleeping Karma
 TZID:Europe/Berlin
-UID:6132201c-af65-4802-bfae-058f0d156320
+UID:a8094567-d069-40ba-b3ec-0f96350c54d4
 URL:https://backstage.eu/colour-haze-my-sleeping-karma.html
 DESCRIPTION:"the Karma Haze" - Tour 2026 (30 Years Colour Haze / 20 Years
   My Sleeping Karma)

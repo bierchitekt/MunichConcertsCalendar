@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20251211T193000
 DTEND:20251211T213000
 SUMMARY:Seraina Telli - Xmas Acoustic Nights
 TZID:Europe/Berlin
-UID:5d4b2315-8131-41db-9c92-59a976b81121
+UID:ee9ca9e2-191c-40a7-bfff-ca862d341b93
 URL:https://backstage.eu/seraina-telli-xmas-acoustic-nights.html
 DESCRIPTION:Die Veranstaltung Ist Bestuhlt Bei Freier Platzwahl.
 LOCATION:Backstage Arena

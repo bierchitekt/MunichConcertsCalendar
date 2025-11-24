@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20260309T200000
 DTEND:20260309T220000
 SUMMARY:Edenbridge - Set The Dark On Fire Tour 2026
 TZID:Europe/Berlin
-UID:3f8f7ade-5385-45ff-87f0-452003eaf997
+UID:fe957381-8578-4a9d-aed1-9de6decde091
 URL:https://backstage.eu/edenbridge-set-the-dark-on-fire-tour-2026.html
 DESCRIPTION:Edenbridge + Flowerleaf + Miracle Flair
 LOCATION:Backstage Club

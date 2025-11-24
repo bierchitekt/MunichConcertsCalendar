@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20251216T200000
 DTEND:20251216T220000
 SUMMARY:Monosphere + Despite Exile - Co-headliners Germany 2025
 TZID:Europe/Berlin
-UID:70e0e5fd-657a-47aa-a13c-d0678a191a08
+UID:150295e7-ab3e-457f-8901-6855cca40b74
 URL:https://backstage.eu/monosphere-despite-exile-co-headliners-germany-2
  025.html
 DESCRIPTION:

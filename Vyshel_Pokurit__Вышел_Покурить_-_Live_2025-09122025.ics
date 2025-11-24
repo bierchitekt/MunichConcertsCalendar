@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20251209T200000
 DTEND:20251209T220000
 SUMMARY:Vyshel Pokurit / Вышел Покурить - Live 2025
 TZID:Europe/Berlin
-UID:f3c3bc35-aae4-4502-acbf-0a022d4cbcb8
+UID:9599f28d-160d-49ed-8445-ec8484a6ac13
 URL:https://backstage.eu/vyshel-pokurit-vyshel-pokurit-live-2025.html
 DESCRIPTION:
 LOCATION:Backstage Halle

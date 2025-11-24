@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20251217T200000
 DTEND:20251217T220000
 SUMMARY:Chesney Hawkes
 TZID:Europe/Berlin
-UID:943c7741-6fcb-46c3-952a-06478ceca398
+UID:859b399b-3e5b-4a1a-9eac-bd71dbcf5bfb
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/17-12-2025_che
  sney-hawkes
 DESCRIPTION:Chesney Hawkes

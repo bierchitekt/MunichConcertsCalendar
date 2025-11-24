@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20260226T190000
 DTEND:20260226T210000
 SUMMARY:Stesy Vs. Kng - „bier & Burger Tour 2026“
 TZID:Europe/Berlin
-UID:bee432bc-1d4a-47f4-9a37-ca161b9eed9c
+UID:be788f4a-8597-4756-ae44-cd30455bb793
 URL:https://backstage.eu/stesy-vs-kng-tour-up-the-crazy.html
 DESCRIPTION:Caught In A Mirror
 LOCATION:Backstage Club

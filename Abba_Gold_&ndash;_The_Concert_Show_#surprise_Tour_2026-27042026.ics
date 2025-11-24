@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20260427T200000
 DTEND:20260427T220000
 SUMMARY:Abba Gold – The Concert Show #surprise Tour 2026
 TZID:Europe/Berlin
-UID:223cc271-07bd-43ce-a0a2-70ba2162bcbe
+UID:cbaaeb53-dd5c-4b65-97fc-6b72c6170505
 URL:https://bau.circus-krone.com/veranstaltungen/abba-gold-the-concert-sh
  ow-surprise-tour-2026/
 DESCRIPTION:

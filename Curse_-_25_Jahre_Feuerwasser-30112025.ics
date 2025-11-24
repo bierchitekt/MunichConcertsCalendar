@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200409Z
 DTSTART:20251130T190000
 DTEND:20251130T210000
 SUMMARY:Curse - 25 Jahre Feuerwasser
 TZID:Europe/Berlin
-UID:3e4a8548-14d1-41ef-a420-798e108af5dd
+UID:ef295577-ca02-4a52-ac60-55fb74930228
 URL:https://backstage.eu/curse-25-jahre-feuerwasser.html
 DESCRIPTION:Italo Reno\, Germany\, Alyzah\, Dj Big Toni
 LOCATION:Backstage Werk

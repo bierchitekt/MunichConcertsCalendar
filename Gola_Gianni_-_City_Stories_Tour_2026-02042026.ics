@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200411Z
 DTSTART:20260402T200000
 DTEND:20260402T220000
 SUMMARY:Gola Gianni - City Stories Tour 2026
 TZID:Europe/Berlin
-UID:4d8dd87b-d47a-4a59-ba84-bab77e677c91
+UID:b7f5d1c6-9eca-4f97-8bba-de45eeefdf5f
 URL:https://backstage.eu/gola-gianni-city-stories-tour-2026.html
 DESCRIPTION:
 LOCATION:Backstage Halle

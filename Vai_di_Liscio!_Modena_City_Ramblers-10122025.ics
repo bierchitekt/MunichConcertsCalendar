@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20251210T200000
 DTEND:20251210T220000
 SUMMARY:Vai di Liscio! Modena City Ramblers
 TZID:Europe/Berlin
-UID:ad8f78db-c351-4f75-9faa-554fdb411f5b
+UID:686d131f-fbb9-4391-90fb-a16d60759584
 URL:https://import-export.cc/event/vai-di-liscio-modena-city-ramblers-len
  non-kelly/
 DESCRIPTION:Lennon Kelly

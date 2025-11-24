@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20251219T203000
 DTEND:20251219T223000
 SUMMARY:new basement pres. Winter Basement Vol. 4
 TZID:Europe/Berlin
-UID:9fea655f-b80f-4fef-bb4e-7ee49972e4e4
+UID:9af2ae91-8815-4e62-8e46-05f661f22010
 URL:https://import-export.cc/event/new-basement-pres-winter-basement-vol-
  4/
 DESCRIPTION:

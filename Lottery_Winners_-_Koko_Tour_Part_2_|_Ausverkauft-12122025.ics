@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20251212T200000
 DTEND:20251212T220000
 SUMMARY:Lottery Winners - Koko Tour Part 2 | Ausverkauft
 TZID:Europe/Berlin
-UID:39f9fa2d-332b-4e40-b6e8-c040ca4117d4
+UID:97506e42-1950-4412-a208-4e2edbfd4010
 URL:https://backstage.eu/lottery-winners-koko-tour-part-2.html
 DESCRIPTION:Saint Raymond
 LOCATION:Backstage Halle

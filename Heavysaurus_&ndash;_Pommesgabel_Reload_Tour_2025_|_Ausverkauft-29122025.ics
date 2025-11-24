@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200410Z
 DTSTART:20251229T170000
 DTEND:20251229T190000
 SUMMARY:Heavysaurus – Pommesgabel Reload Tour 2025 | Ausverkauft
 TZID:Europe/Berlin
-UID:c76426ec-8a8e-4544-8749-ebca1f0909b2
+UID:715b7824-1393-4780-826c-99fabb80bf2f
 URL:https://backstage.eu/heavysaurus-pommesgabel-reload-tour-2025.html
 DESCRIPTION:Präsentiert Von: Rock Antenne\, Metal Hammer\, Emp\, Hard Roc
  k Café\, Die Arche\, Viva Con Agua

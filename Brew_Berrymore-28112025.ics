@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T160205Z
+DTSTAMP:20251124T200409Z
 DTSTART:20251128T200000
 DTEND:20251128T220000
 SUMMARY:Brew Berrymore
 TZID:Europe/Berlin
-UID:6ccb0026-ab4b-405f-bf76-c378beefc793
+UID:15fc9bad-6b34-4dcf-bc10-0fffab4a6893
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/28-11-2025_bre
  w-berrymore
 DESCRIPTION:Brew Berrymore\, Popcorn Molecule
