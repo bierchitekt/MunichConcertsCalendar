@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260308T200000
 DTEND:20260308T220000
 SUMMARY:Die Herren Wesselsky - Heute Schon Gelebt? | Leider Abgesagt
 TZID:Europe/Berlin
-UID:2c99e908-1189-43d5-8575-4360cb4bee25
+UID:ede76e55-45f5-46a5-add7-8497878dd8c1
 URL:https://backstage.eu/die-herren-wesselsky-heute-schon-gelebt-tour-202
  5.html
 DESCRIPTION:+ Special Guest

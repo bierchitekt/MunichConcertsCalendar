@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20260123T200000
 DTEND:20260123T220000
 SUMMARY:Born Of Osiris - Through Shadows Eu/uk Tour 2026
 TZID:Europe/Berlin
-UID:61e8f974-13a3-425b-bd5e-b63617c1c52b
+UID:dbd8495c-93ca-443b-9e06-ecd20cf27676
 URL:https://backstage.eu/born-of-osiris-through-shadows-eu-uk-tour-2026.h
  tml
 DESCRIPTION:Within Destruction + Aversions Crown + Larcenia Roe

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200411Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260620T110000
 DTEND:20260620T130000
 SUMMARY:Simone Sommerland Kinder-mitmach-konzert
 TZID:Europe/Berlin
-UID:14693105-fbcc-4fa0-9685-92e2201d47ba
+UID:3cf30af1-c1ee-45e6-b0ae-9e953954326d
 URL:https://bau.circus-krone.com/veranstaltungen/simone-sommerland-kinder
  -mitmach-konzert/
 DESCRIPTION:

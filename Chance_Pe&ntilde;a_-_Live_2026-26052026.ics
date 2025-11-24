@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200411Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260526T200000
 DTEND:20260526T220000
 SUMMARY:Chance Peña - Live 2026
 TZID:Europe/Berlin
-UID:ff193e9a-273a-40b1-854f-1738a114b8f7
+UID:e8f3c607-3609-48d2-9cfe-9b42a9db6aae
 URL:https://backstage.eu/chance-pe-a-live-2026.html
 DESCRIPTION:Folk-singer-songwriter Aus Den Usa Für Drei Shows Im Frühjahr
   2026 In Deutschland

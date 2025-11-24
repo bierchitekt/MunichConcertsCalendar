@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200409Z
+DTSTAMP:20251124T202901Z
 DTSTART:20251128T200000
 DTEND:20251128T220000
 SUMMARY:Water From Your Eyes
 TZID:Europe/Berlin
-UID:46c6470b-b1ee-40ff-8003-6ec2922b7599
+UID:e75deff7-40d1-487a-a981-b0ec9e50d6b6
 URL:https://import-export.cc/event/new-basement-pres-water-from-your-eyes
  /
 DESCRIPTION:Silver Gore

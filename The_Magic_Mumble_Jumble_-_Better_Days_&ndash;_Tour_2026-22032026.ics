@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200411Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260322T200000
 DTEND:20260322T220000
 SUMMARY:The Magic Mumble Jumble - Better Days – Tour 2026
 TZID:Europe/Berlin
-UID:458e88d7-ca61-48fd-82f4-d5b93b9faa26
+UID:621f6e25-f711-4a50-939e-5bb2141c6f9e
 URL:https://backstage.eu/the-magic-mumble-jumble-better-days-tour-2026.ht
  ml
 DESCRIPTION:

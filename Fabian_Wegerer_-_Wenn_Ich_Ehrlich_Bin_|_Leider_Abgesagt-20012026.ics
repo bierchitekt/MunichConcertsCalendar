@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20260120T200000
 DTEND:20260120T220000
 SUMMARY:Fabian Wegerer - Wenn Ich Ehrlich Bin | Leider Abgesagt
 TZID:Europe/Berlin
-UID:3d1b5f50-63a5-4c69-916c-983f7cfc2640
+UID:bd986085-d17c-44b6-8ba9-462ea5a4a1f2
 URL:https://backstage.eu/fabian-wegerer-wenn-ich-ehrlich-bin-tour-2025.ht
  ml
 DESCRIPTION:

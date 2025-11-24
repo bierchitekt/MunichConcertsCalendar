@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200411Z
+DTSTAMP:20251124T202903Z
 DTSTART:20261101T193000
 DTEND:20261101T213000
 SUMMARY:Joe Jackson + Band – Hope And Fury Tour 2026
 TZID:Europe/Berlin
-UID:edd6aa15-de9b-4fac-8306-cc1b5d106a66
+UID:240ec69b-2b6c-4d68-bce9-24acfdac9dad
 URL:https://bau.circus-krone.com/veranstaltungen/joe-jackson-band-hope-an
  d-fury-tour-2026/
 DESCRIPTION:

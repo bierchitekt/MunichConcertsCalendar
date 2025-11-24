@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20251231T220000
 DTEND:20260101T000000
 SUMMARY:Muffatwerk Silvesterparty
 TZID:Europe/Berlin
-UID:53ecedc6-4b42-4fe2-ac2a-319a156f8f77
+UID:b333acaf-66f2-4b57-a624-d15ab7bfcb41
 URL:https://www.muffatwerk.de/de/events/view/7767/muffatwerk-silvesterpar
  ty
 DESCRIPTION:

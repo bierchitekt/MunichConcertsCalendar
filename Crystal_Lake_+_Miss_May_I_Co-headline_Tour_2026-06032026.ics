@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260306T200000
 DTEND:20260306T220000
 SUMMARY:Crystal Lake + Miss May I Co-headline Tour 2026
 TZID:Europe/Berlin
-UID:64f94837-eca1-425d-a6e8-e39142cec281
+UID:2d28febb-6b72-4f1f-9071-bf8848858300
 URL:https://backstage.eu/crystal-lake-miss-may-i-co-headline-tour-2026.ht
  ml
 DESCRIPTION:Great American Ghost + Diesect

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260301T200000
 DTEND:20260301T220000
 SUMMARY:Leif Vollebekk - Live 2026
 TZID:Europe/Berlin
-UID:b4428d7b-ad52-4901-9aa0-e85c6d9c1751
+UID:88d7d67c-1efc-4d1f-9fe0-5ea776b1a940
 URL:https://backstage.eu/leif-vollebekk-live-2026.html
 DESCRIPTION:Leif Vollebekk Im Frühjahr 2026 Für Drei Konzerte In Deutschl
  and

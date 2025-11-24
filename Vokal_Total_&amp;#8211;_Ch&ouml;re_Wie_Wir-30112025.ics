@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200409Z
+DTSTAMP:20251124T202901Z
 DTSTART:20251130T190000
 DTEND:20251130T210000
 SUMMARY:Vokal Total &#8211\; Chöre Wie Wir
 TZID:Europe/Berlin
-UID:bf7058cb-c7a8-40f9-8059-51e4a5497e6c
+UID:300fdcae-fc91-4b0c-a2e5-0ce29cf80e7b
 URL:https://www.eventfabrik-muenchen.de/event/vokal-total-choere-wie-wir/
  
 DESCRIPTION:

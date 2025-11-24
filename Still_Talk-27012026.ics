@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20260127T200000
 DTEND:20260127T220000
 SUMMARY:Still Talk
 TZID:Europe/Berlin
-UID:a08bee41-6a9e-445c-b637-1ea47a88741e
+UID:bc7c9b20-b2c0-4606-ba9c-c98ee0b17adc
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/27-01-2026_sti
  ll-talk-attic-stories
 DESCRIPTION:Still Talk\, Attic Stories

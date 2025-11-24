@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20251221T150000
 DTEND:20251221T170000
 SUMMARY:Sportfreunde Stiller
 TZID:Europe/Berlin
-UID:dde6c21d-39e7-40d5-ae2f-ad4ff6065c10
+UID:6e5b4f84-43ae-43af-9eec-f5640fdd1be5
 URL:https://www.muffatwerk.de/de/events/view/7833/sportfreunde-stiller
 DESCRIPTION:
 LOCATION:Muffathalle

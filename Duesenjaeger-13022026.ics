@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20260213T203000
 DTEND:20260213T223000
 SUMMARY:Duesenjaeger
 TZID:Europe/Berlin
-UID:82dd64ae-b638-4a69-aa9e-17ddb50fc94b
+UID:4772a020-0b5e-4a7c-812c-8093a198df13
 URL:https://www.kafekult.de/wordpress/event/duesenjaeger-kollateralschade
  n/
 DESCRIPTION:Kollateralschaden

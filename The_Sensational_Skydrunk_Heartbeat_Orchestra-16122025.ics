@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20251216T193000
 DTEND:20251216T213000
 SUMMARY:The Sensational Skydrunk Heartbeat Orchestra
 TZID:Europe/Berlin
-UID:47dc50ff-4b46-49e6-ae79-fad6317a366f
+UID:6949e173-6953-4473-9e55-b828bcd3e884
 URL:https://www.tollwood.de/veranstaltungen/2025/the-sensational-skydrunk
  -heartbeat-orchestra/
 DESCRIPTION:

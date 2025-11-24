@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200411Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260928T200000
 DTEND:20260928T220000
 SUMMARY:Mike Oldfield’s Tubular Bells
 TZID:Europe/Berlin
-UID:634c4e85-5acd-41bd-bea3-39d6d7c3728a
+UID:ee85a048-8858-4961-a996-8ecdd916373e
 URL:https://bau.circus-krone.com/veranstaltungen/mike-oldfields-tubular-b
  ells/
 DESCRIPTION:

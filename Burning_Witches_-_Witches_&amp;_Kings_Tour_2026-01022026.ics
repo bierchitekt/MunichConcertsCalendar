@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20260201T200000
 DTEND:20260201T220000
 SUMMARY:Burning Witches - Witches & Kings Tour 2026
 TZID:Europe/Berlin
-UID:034c6eb7-f9d0-41c2-b500-13287a0404bf
+UID:8efd0f1d-98c4-415e-bfeb-f9d0173764a4
 URL:https://backstage.eu/burning-witches-witches-kings-tour-2026.html
 DESCRIPTION:Hammer King
 LOCATION:Backstage Halle

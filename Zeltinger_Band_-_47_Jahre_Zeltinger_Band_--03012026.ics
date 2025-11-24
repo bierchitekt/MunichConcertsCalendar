@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20260103T200000
 DTEND:20260103T220000
 SUMMARY:Zeltinger Band - 47 Jahre Zeltinger Band -
 TZID:Europe/Berlin
-UID:e37e258a-dde4-4997-a84c-2e54b9cb88eb
+UID:ccd0ac5e-48f4-4842-bd7a-54380747fed2
 URL:https://backstage.eu/zeltinger-band-47-jahre-zeltinger-band.html
 DESCRIPTION:+ Very Special Guest
 LOCATION:Backstage Club

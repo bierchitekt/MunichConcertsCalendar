@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200411Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260315T183000
 DTEND:20260315T203000
 SUMMARY:Angus Mcsix - Tour Of The All-seeing-astral Eye 2026
 TZID:Europe/Berlin
-UID:cb7968e2-806c-4970-a657-ae05f2d28a4b
+UID:29132959-638c-4c06-ade1-0dd602855c56
 URL:https://backstage.eu/angus-mcsix-tour-of-the-all-seeing-astral-eye-20
  26.html
 DESCRIPTION:+ Bloodbound + Brainstorm

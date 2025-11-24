@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200409Z
+DTSTAMP:20251124T202902Z
 DTSTART:20251207T153000
 DTEND:20251207T173000
 SUMMARY:Benefizkonzert: Paul Daly Band feat. Dieter Reiter
 TZID:Europe/Berlin
-UID:7f3199c3-ff13-4304-9f2e-6a4a8d70b555
+UID:7fb16921-3428-4b6a-8c33-f698aba7c020
 URL:https://www.tollwood.de/veranstaltungen/2025/benefizkonzert-paul-daly
  -band-feat-dieter-reiter/
 DESCRIPTION:

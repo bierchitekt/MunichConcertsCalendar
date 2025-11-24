@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200409Z
+DTSTAMP:20251124T202901Z
 DTSTART:20251129T200000
 DTEND:20251129T220000
 SUMMARY:Newton Faulkner
 TZID:Europe/Berlin
-UID:d5ba26dd-4956-4871-ad8f-598aefe5bddf
+UID:b4fd8b22-b6cf-4ffe-b84a-b8f9c8738d92
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/29-11-2025_new
  ton-faulkner
 DESCRIPTION:Newton Faulkner

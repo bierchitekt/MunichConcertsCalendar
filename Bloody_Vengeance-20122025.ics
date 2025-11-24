@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20251220T174000
 DTEND:20251220T194000
 SUMMARY:Bloody Vengeance
 TZID:Europe/Berlin
-UID:cfcfb566-96de-4bdd-bb34-d7071cfb3102
+UID:5d3d7cb3-dfb0-47d7-95d2-976cfc8d5a88
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/20-12-2025_nec
  rosabbat-ritual-bloody-vengeance-prehistoric-war-cult-schlingen-sacroscu
  m-transilvania-victims-of-classwar

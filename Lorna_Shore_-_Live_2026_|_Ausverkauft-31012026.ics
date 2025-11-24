@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20260131T180000
 DTEND:20260131T200000
 SUMMARY:Lorna Shore - Live 2026 | Ausverkauft
 TZID:Europe/Berlin
-UID:a7b2099f-3aaa-4696-9178-2288a670db7f
+UID:09fffa70-8f53-4cfd-bcdc-8f11a9c713af
 URL:https://backstage.eu/lorna-shore-live-2026.html
 DESCRIPTION:+ Whitechapel\, Shadow Of Intent\, Humanity´s Last Breath
 LOCATION:Zenith

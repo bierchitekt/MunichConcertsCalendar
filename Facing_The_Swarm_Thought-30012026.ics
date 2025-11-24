@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202902Z
 DTSTART:20260130T200000
 DTEND:20260130T220000
 SUMMARY:Facing The Swarm Thought
 TZID:Europe/Berlin
-UID:9e2275d1-756b-487e-8b4f-7b9ba5f7dbf3
+UID:a1cb5022-4c6e-43a6-8ef9-ef596ecedca5
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/30-01-2026_sun
  ny-hell-facing-the-swarm-thought-discure-ad-nemori-todz
 DESCRIPTION:Facing The Swarm Thought\, Discure\, Ad Nemori\, TØDZ

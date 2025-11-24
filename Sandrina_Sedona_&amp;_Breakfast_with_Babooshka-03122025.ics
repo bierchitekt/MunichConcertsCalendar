@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200409Z
+DTSTAMP:20251124T202902Z
 DTSTART:20251203T193000
 DTEND:20251203T213000
 SUMMARY:Sandrina Sedona & Breakfast with Babooshka
 TZID:Europe/Berlin
-UID:ec9fe998-a430-4b4a-81b5-09ca55931766
+UID:e3108cfe-77f1-4c35-b122-ceabb51b4c99
 URL:https://www.tollwood.de/veranstaltungen/2025/sandrina-sedona-breakfas
  t-with-babooshka/
 DESCRIPTION:

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200411Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260428T200000
 DTEND:20260428T220000
 SUMMARY:Cosmic Psychos
 TZID:Europe/Berlin
-UID:77abac41-7d94-45ed-bffc-803a790185f7
+UID:1ecf62f9-43c7-4eb9-8cf6-fe68ec455ce2
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/28-04-2026_cos
  mic-psychos
 DESCRIPTION:Cosmic Psychos

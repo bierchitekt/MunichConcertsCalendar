@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200411Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260508T200000
 DTEND:20260508T220000
 SUMMARY:Andreas Kümmert & The Electric Circus - A.live! Tour 2026
 TZID:Europe/Berlin
-UID:295487ef-17b7-4b2c-898a-4d3484387202
+UID:e86727ca-45e8-499c-be03-712f919ad93a
 URL:https://backstage.eu/andreas-kummert-the-electric-circus-a-live-tour-
  2026.html
 DESCRIPTION:Claudia Cane Trio

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260222T190000
 DTEND:20260222T210000
 SUMMARY:Das Phantom der Oper
 TZID:Europe/Berlin
-UID:d1b8fab7-faad-492a-a8ca-f961f8f19c83
+UID:7d7accea-6616-44ff-8b37-185adc96776c
 URL:https://www.olympiapark.de/de/veranstaltungen/das-phantom-der-oper-n5
  115
 DESCRIPTION:

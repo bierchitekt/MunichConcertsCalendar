@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200410Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260306T200000
 DTEND:20260306T220000
 SUMMARY:Of Monsters And Men - Live 2026 | Ausverkauft
 TZID:Europe/Berlin
-UID:04a3d536-e173-48e5-b6ec-86629ebe6caf
+UID:9fdd36a1-7054-4dc6-bee2-30501f8c829e
 URL:https://backstage.eu/of-monsters-and-men-live-2026.html
 DESCRIPTION:Indie-folk-band Aus Island Im März Für Vier Konzerte In Deuts
  chland

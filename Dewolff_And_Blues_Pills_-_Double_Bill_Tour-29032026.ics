@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T200411Z
+DTSTAMP:20251124T202903Z
 DTSTART:20260329T200000
 DTEND:20260329T220000
 SUMMARY:Dewolff And Blues Pills - Double Bill Tour
 TZID:Europe/Berlin
-UID:ca63e905-63f1-4abc-9abc-9ce35a65c597
+UID:f65f44f3-8c6e-4221-8124-17d1d9eff696
 URL:https://backstage.eu/dewolff-and-blues-pills-double-bill-tour.html
 DESCRIPTION:
 LOCATION:Backstage Werk
