@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251221T120000
+DTEND:20251221T140000
+SUMMARY:The Hot Stuff Jazzband
+TZID:Europe/Berlin
+UID:ec66d986-c9f6-46b9-8f4f-2fd1fe177e6e
+URL:https://www.tollwood.de/veranstaltungen/2025/the-hot-stuff-jazzband/
+DESCRIPTION:
+LOCATION:Winter Tollwood
+END:VEVENT
+END:VCALENDAR

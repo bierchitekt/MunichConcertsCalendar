@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260307T190000
+DTEND:20260307T210000
+SUMMARY:Waterparks - The Prowler Tour 2026
+TZID:Europe/Berlin
+UID:0a3a8fa2-a48c-4e7e-ba59-543e9dfa0a7c
+URL:https://backstage.eu/waterparks-the-prowler-tour-2026.html
+DESCRIPTION:
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

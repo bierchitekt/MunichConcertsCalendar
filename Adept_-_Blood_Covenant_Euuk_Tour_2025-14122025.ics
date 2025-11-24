@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251214T190000
+DTEND:20251214T210000
+SUMMARY:Adept - Blood Covenant Eu/uk Tour 2025
+TZID:Europe/Berlin
+UID:c8987454-0c3c-4518-afc1-1269181c95bd
+URL:https://backstage.eu/adept-blood-covenant-eu-uk-tour-2025.html
+DESCRIPTION:Thousand Below\, Ocean Sleeper\, Hopes Die Last
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

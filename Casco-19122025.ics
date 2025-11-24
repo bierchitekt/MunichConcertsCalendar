@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251219T230000
+DTEND:20251220T010000
+SUMMARY:Casco
+TZID:Europe/Berlin
+UID:4c369257-0fe6-4a82-9943-7546fc2ce15d
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/19-12-2025_bre
+ ak-it-down
+DESCRIPTION:Casco\, Polaster\, Kit Curse\, Cruel Culture
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

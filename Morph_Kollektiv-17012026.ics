@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260117T220000
+DTEND:20260118T000000
+SUMMARY:Morph Kollektiv
+TZID:Europe/Berlin
+UID:e6812511-4a8c-471e-90e1-0847652e9f30
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/17-01-2026_mor
+ ph-kollektiv
+DESCRIPTION:Morph Kollektiv
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260511T200000
+DTEND:20260511T220000
+SUMMARY:Crippled Black Phoenix - Sceaduhelm Tour 2026
+TZID:Europe/Berlin
+UID:6a0d59f0-3e0b-4fa7-805e-14b347ec083a
+URL:https://backstage.eu/crippled-black-phoenix-sceaduhelm-tour-2026.html
+ 
+DESCRIPTION:Support: Temple Fang
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

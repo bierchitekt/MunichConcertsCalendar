@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260508T200000
+DTEND:20260508T220000
+SUMMARY:Disillusion - "live Spring 2026"
+TZID:Europe/Berlin
+UID:bbb695e0-8d6f-47d7-b6d0-30023b00b8b8
+URL:https://backstage.eu/disillusion-live-spring-2026.html
+DESCRIPTION:An Abstract Illusion
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20261008T200000
+DTEND:20261008T220000
+SUMMARY:Bluthund - Modus Moshpit Tour 2026
+TZID:Europe/Berlin
+UID:716c79db-0fae-4abc-bb26-36a0e88a25a0
+URL:https://backstage.eu/bluthund-modus-moshpit-tour-2026.html
+DESCRIPTION:Zombiez
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

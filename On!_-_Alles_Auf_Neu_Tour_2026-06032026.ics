@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260306T200000
+DTEND:20260306T220000
+SUMMARY:On! - Alles Auf Neu Tour 2026
+TZID:Europe/Berlin
+UID:eeab9d7a-3c2d-46d2-b058-a59444852de4
+URL:https://backstage.eu/on-alles-auf-neu-tour-2026.html
+DESCRIPTION:"aka Tequila And The Sunrise Gang"
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260408T200000
+DTEND:20260408T220000
+SUMMARY:Dark Suns
+TZID:Europe/Berlin
+UID:adafe714-14c1-4eb4-ae54-39768295596a
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/08-04-2026_dar
+ k-suns-7for4-kali
+DESCRIPTION:Dark Suns\, 7for4\, Kali
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

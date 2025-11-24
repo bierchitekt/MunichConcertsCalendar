@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251201T200000
+DTEND:20251201T220000
+SUMMARY:Massive Wagons - The Blood & Bone Tour
+TZID:Europe/Berlin
+UID:7db5ef2b-4510-48e6-ba7f-2941d27f587b
+URL:https://backstage.eu/massive-wagons-the-blood-bone-tour.html
+DESCRIPTION:The Virginmarys / The Hot Damn!
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

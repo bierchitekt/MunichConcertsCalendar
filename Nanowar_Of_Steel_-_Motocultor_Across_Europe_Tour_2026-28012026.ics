@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260128T181500
+DTEND:20260128T201500
+SUMMARY:Nanowar Of Steel - Motocultor Across Europe Tour 2026
+TZID:Europe/Berlin
+UID:2be0b8e0-19d5-4bb6-ada8-f899a653d331
+URL:https://backstage.eu/nanowar-of-steel-motocultor-across-europe-tour-2
+ 026.html
+DESCRIPTION:Nanowar Of Steel + Uuhai + Guests
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

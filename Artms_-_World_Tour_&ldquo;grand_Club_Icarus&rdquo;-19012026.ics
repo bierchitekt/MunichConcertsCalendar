@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260119T200000
+DTEND:20260119T220000
+SUMMARY:Artms - World Tour “grand Club Icarus”
+TZID:Europe/Berlin
+UID:9d723df7-d949-4883-9de2-545e0016f84a
+URL:https://backstage.eu/artms-world-tour-grand-club-icarus.html
+DESCRIPTION:
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

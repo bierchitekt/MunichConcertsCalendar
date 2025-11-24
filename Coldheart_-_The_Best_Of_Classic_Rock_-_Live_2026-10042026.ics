@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260410T203000
+DTEND:20260410T223000
+SUMMARY:Coldheart - The Best Of Classic Rock - Live 2026
+TZID:Europe/Berlin
+UID:b5273df4-9525-450d-a0c7-3d7dcc355149
+URL:https://backstage.eu/coldheart-the-best-of-classic-rock-live-2026.htm
+ l
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

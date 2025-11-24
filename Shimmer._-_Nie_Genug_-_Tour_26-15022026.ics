@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260215T193000
+DTEND:20260215T213000
+SUMMARY:Shimmer. - Nie Genug - Tour 26
+TZID:Europe/Berlin
+UID:6db72eb1-da7f-4f6d-acc9-d2c9fdb644e1
+URL:https://backstage.eu/shimmer-nie-genug-tour-26.html
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

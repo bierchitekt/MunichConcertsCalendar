@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251127T200000
+DTEND:20251127T220000
+SUMMARY:Aviana – Europe Tour 2025
+TZID:Europe/Berlin
+UID:cdb7d9cf-9c9b-437d-ae8d-7e7fbd77ec8c
+URL:https://backstage.eu/aviana-europe-tour-2025.html
+DESCRIPTION:+ The Gloom In The Corner + Diamond Construct + Atena
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

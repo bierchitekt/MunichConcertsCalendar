@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251128T200000
+DTEND:20251128T220000
+SUMMARY:Kupfergold - Fasan Alarm Tour
+TZID:Europe/Berlin
+UID:b3a9a61e-3437-4cd4-85f2-e117e47c8e20
+URL:https://backstage.eu/kupfergold-fasan-alarm-tour.html
+DESCRIPTION:Kupfergold + Special Guest
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260519T200000
+DTEND:20260519T220000
+SUMMARY:The Undertones - Live 2026
+TZID:Europe/Berlin
+UID:eedd776c-ce3b-494d-b89b-6eef9d2a481c
+URL:https://backstage.eu/the-undertones-live-2026.html
+DESCRIPTION:Präsentiert Von Rock Antenne
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

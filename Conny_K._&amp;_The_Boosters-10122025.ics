@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251210T193000
+DTEND:20251210T213000
+SUMMARY:Conny K. & The Boosters
+TZID:Europe/Berlin
+UID:a3b4ec4a-01f5-43c0-9523-b6a03db5810f
+URL:https://www.tollwood.de/veranstaltungen/2025/conny-k-and-the-boosters
+ /
+DESCRIPTION:
+LOCATION:Winter Tollwood
+END:VEVENT
+END:VCALENDAR

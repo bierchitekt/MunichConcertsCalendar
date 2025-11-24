@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251207T210000
+DTEND:20251207T230000
+SUMMARY:Getdown Services
+TZID:Europe/Berlin
+UID:cb0c3202-0017-4cd0-bd9c-cd8fe447777a
+URL:https://import-export.cc/event/club-zwei-pres-getdown-services/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

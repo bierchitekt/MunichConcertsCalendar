@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251128T193000
+DTEND:20251128T213000
+SUMMARY:Kuult
+TZID:Europe/Berlin
+UID:2ff1d2bd-1c10-4ca6-ab22-78eaabdbd538
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/28-11-2025_kuu
+ lt-kuult
+DESCRIPTION:Kuult
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

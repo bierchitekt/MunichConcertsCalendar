@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251205T190000
+DTEND:20251205T210000
+SUMMARY:Battle Beast - European Tour 2025
+TZID:Europe/Berlin
+UID:543d8e38-13ea-4e8e-aed8-7ccb747e189f
+URL:https://backstage.eu/battle-beast-european-tour-2025.html
+DESCRIPTION:Dominum + Majestica
+LOCATION:Tonhalle (werksviertel-mitte)
+END:VEVENT
+END:VCALENDAR

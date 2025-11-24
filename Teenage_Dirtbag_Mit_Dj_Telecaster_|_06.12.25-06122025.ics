@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251206T230000
+DTEND:20251207T010000
+SUMMARY:Teenage Dirtbag Mit Dj Telecaster | 06.12.25
+TZID:Europe/Berlin
+UID:a5ad1b6d-6779-4d05-a635-f607d86b2ab8
+URL:https://backstage.eu/teenage-dirtbag-mit-dj-telecaster-06-12-25.html
+DESCRIPTION:Alternative Rock Party
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

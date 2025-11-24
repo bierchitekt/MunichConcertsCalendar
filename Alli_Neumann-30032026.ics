@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260330T200000
+DTEND:20260330T220000
+SUMMARY:Alli Neumann
+TZID:Europe/Berlin
+UID:a7d23143-ea54-4f5c-b7b6-0fef80b27eeb
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/30-03-2026_all
+ i-neumann
+DESCRIPTION:Alli Neumann
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

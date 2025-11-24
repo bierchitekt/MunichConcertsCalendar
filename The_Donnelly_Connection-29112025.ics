@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251129T160000
+DTEND:20251129T180000
+SUMMARY:The Donnelly Connection
+TZID:Europe/Berlin
+UID:69a1610b-134e-4aae-b0b8-27e41455ebff
+URL:https://www.tollwood.de/veranstaltungen/2025/the-donnelly-connection/
+ 
+DESCRIPTION:
+LOCATION:Winter Tollwood
+END:VEVENT
+END:VCALENDAR

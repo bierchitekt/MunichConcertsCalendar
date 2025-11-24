@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260507T200000
+DTEND:20260507T220000
+SUMMARY:La Sonora Dinamita
+TZID:Europe/Berlin
+UID:47b853d1-b928-4b48-9ff2-943a2731c8b2
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/07-05-2026_la-
+ sonora-dinamita
+DESCRIPTION:La Sonora Dinamita
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

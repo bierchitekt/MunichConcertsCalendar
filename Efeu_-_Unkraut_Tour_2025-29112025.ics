@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251129T200000
+DTEND:20251129T220000
+SUMMARY:Efeu - Unkraut Tour 2025
+TZID:Europe/Berlin
+UID:e238ba16-b502-4248-a4bb-576826ea4d10
+URL:https://backstage.eu/efeu-unkraut-tour-2025.html
+DESCRIPTION:Das Konzert Findet In Der "roten Sonne" Statt. Maximilianspl.
+  5\, 80333 München
+LOCATION:Rote Sonne
+END:VEVENT
+END:VCALENDAR

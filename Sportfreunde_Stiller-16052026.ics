@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260516T173000
+DTEND:20260516T193000
+SUMMARY:Sportfreunde Stiller
+TZID:Europe/Berlin
+UID:b1840c93-88ac-4283-8f69-34d3dc9d8686
+URL:https://www.olympiapark.de/de/veranstaltungen/sportfreunde-stiller-n4
+ 738
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR

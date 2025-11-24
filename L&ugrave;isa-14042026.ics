@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260414T200000
+DTEND:20260414T220000
+SUMMARY:Lùisa
+TZID:Europe/Berlin
+UID:abeace17-5c4c-4de1-bfab-f45e06cbbf14
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/14-04-2026_lui
+ sa-luisa
+DESCRIPTION:Lùisa
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251127T200000
+DTEND:20251127T220000
+SUMMARY:Cardinal Black - Midnight At The Valencia Tour
+TZID:Europe/Berlin
+UID:50fb27f7-63f4-4ef0-a53d-e88b1b9ca28a
+URL:https://backstage.eu/cardinal-black-midnight-at-the-valencia-tour.htm
+ l
+DESCRIPTION:+ Special Guest: Ellis Mano Band
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

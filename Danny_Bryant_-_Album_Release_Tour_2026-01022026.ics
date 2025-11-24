@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260201T200000
+DTEND:20260201T220000
+SUMMARY:Danny Bryant - Album Release Tour 2026
+TZID:Europe/Berlin
+UID:e0ee59e9-5678-4bfe-aaa3-956e21cccf5c
+URL:https://backstage.eu/danny-bryant-album-release-tour-2026.html
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

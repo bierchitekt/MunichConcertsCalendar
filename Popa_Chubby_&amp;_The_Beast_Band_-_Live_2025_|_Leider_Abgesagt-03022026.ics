@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260203T200000
+DTEND:20260203T220000
+SUMMARY:Popa Chubby & The Beast Band - Live 2025 | Leider Abgesagt
+TZID:Europe/Berlin
+UID:3ea163c9-3aab-4488-add2-e9643c73472e
+URL:https://backstage.eu/popa-chubby-the-beast-band.html
+DESCRIPTION:Die Veranstaltung Musste Jetzt Leider Endgültig Abgesagt Werd
+ en. Bereits Erworbene Tickets Können Bei Den Jeweiligen Vvks Stellen Zur
+ ück Gegeben Werden.
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

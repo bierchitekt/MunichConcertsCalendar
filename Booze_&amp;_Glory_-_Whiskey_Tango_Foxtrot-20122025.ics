@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251220T200000
+DTEND:20251220T220000
+SUMMARY:Booze & Glory - Whiskey Tango Foxtrot
+TZID:Europe/Berlin
+UID:d9ce1e00-ffa4-448d-8e8e-1d8f98c474cc
+URL:https://backstage.eu/booze-glory-whiskey-tango-foxtrot.html
+DESCRIPTION:Split Dogs + The Runnings
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

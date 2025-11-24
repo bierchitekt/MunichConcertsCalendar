@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260125T190000
+DTEND:20260125T210000
+SUMMARY:Resolve - Europe & Uk 2026
+TZID:Europe/Berlin
+UID:90d00d07-db2c-4827-9107-bd2dc7c9280c
+URL:https://backstage.eu/resolve-europe-uk-2026.html
+DESCRIPTION:Resolve + Windwaker + Ashen + Tropic Gold
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

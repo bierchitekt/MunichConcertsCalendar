@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260708T160000
+DTEND:20260708T180000
+SUMMARY:Die Toten Hosen
+TZID:Europe/Berlin
+UID:fd923f0c-1e5f-495e-9719-07740ffc9609
+URL:https://www.olympiapark.de/de/veranstaltungen/die-toten-hosen-n5015
+DESCRIPTION:
+LOCATION:Hans-Jochen-Vogel-Platz (ehemals Coubertinplatz)
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251209T200000
+DTEND:20251209T220000
+SUMMARY:Og Lu - Assig Aber Cute Tour 2025 - Verlegt Ins Milla
+TZID:Europe/Berlin
+UID:0e481022-373b-419d-8e4c-8ecb8ada12ae
+URL:https://backstage.eu/og-lu-assig-aber-cute-tour-2025.html
+DESCRIPTION:Das Konzert Wurde Ins Milla Verlegt: Holzstraße 28\, 80469 Mü
+ nchen - Tickets Behalten Ihre Gültigkeit Für Die Neue Location.
+LOCATION:Milla Club München
+END:VEVENT
+END:VCALENDAR

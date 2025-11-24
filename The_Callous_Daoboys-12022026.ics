@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260212T200000
+DTEND:20260212T220000
+SUMMARY:The Callous Daoboys
+TZID:Europe/Berlin
+UID:84ce9e90-9bdb-4271-aa8c-75f9b0dd28d1
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/12-02-2026_the
+ -callous-daoboys
+DESCRIPTION:The Callous Daoboys
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260214T200000
+DTEND:20260214T220000
+SUMMARY:Dymytry Paradox - Born From Chaos Tour 2026
+TZID:Europe/Berlin
+UID:f96ba904-fe9f-4c55-bc5c-032ff0519dea
+URL:https://backstage.eu/dymytry-paradox.html
+DESCRIPTION:+ Special Guest: Space Of Variations
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

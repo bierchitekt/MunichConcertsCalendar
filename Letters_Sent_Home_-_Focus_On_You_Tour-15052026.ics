@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260515T200000
+DTEND:20260515T220000
+SUMMARY:Letters Sent Home - Focus On You Tour
+TZID:Europe/Berlin
+UID:b590ffcb-8d8b-448e-8c87-7dea094b02a1
+URL:https://backstage.eu/letters-sent-home-focus-on-you-tour.html
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

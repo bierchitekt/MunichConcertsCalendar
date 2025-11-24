@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260315T160000
+DTEND:20260315T180000
+SUMMARY:Der Herr der Ringe: Die Rückkehr des Königs -  Zusatzshow
+TZID:Europe/Berlin
+UID:62e2e8b3-fd76-4a47-a14c-a165e5b90676
+URL:https://www.olympiapark.de/de/veranstaltungen/der-herr-der-ringe-die-
+ ruckkehr-des-konigs-zusatzshow-n4757
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR

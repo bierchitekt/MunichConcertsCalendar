@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251207T200000
+DTEND:20251207T220000
+SUMMARY:Rise Of The Northstar - Neo Tour 2025
+TZID:Europe/Berlin
+UID:3a135f38-9e0e-45f3-b630-03afaa94c635
+URL:https://backstage.eu/rise-of-the-northstar-neo-tour-2025.html
+DESCRIPTION:Deez Nuts + Half Me
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

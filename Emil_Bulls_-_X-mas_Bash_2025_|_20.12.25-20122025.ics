@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251220T192500
+DTEND:20251220T212500
+SUMMARY:Emil Bulls - X-mas Bash 2025 | 20.12.25
+TZID:Europe/Berlin
+UID:9e0699f8-cd93-449f-8d55-cfd2d3a39bf4
+URL:https://backstage.eu/emil-bulls-x-mas-bash-2025-20-12-25.html
+DESCRIPTION:Es Sind Noch Tickets Für Die Show Vom 19.12. Verfügbar!
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260219T200000
+DTEND:20260219T220000
+SUMMARY:Matilda Mann
+TZID:Europe/Berlin
+UID:2a6ea45b-2c1e-47be-a968-965e4f034079
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/19-02-2026_mat
+ ilda-mann
+DESCRIPTION:Matilda Mann
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

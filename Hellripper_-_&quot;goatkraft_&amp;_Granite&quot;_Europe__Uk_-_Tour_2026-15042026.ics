@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260415T200000
+DTEND:20260415T220000
+SUMMARY:Hellripper - "goatkraft & Granite" Europe / Uk - Tour 2026
+TZID:Europe/Berlin
+UID:e9af391f-0857-421d-a9ac-94052cf06118
+URL:https://backstage.eu/hellripper-goatkraft-granite-europe-uk-tour-2026
+ .html
+DESCRIPTION:Hellripper + Schizophrenia + Sarcator
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260225T200000
+DTEND:20260225T220000
+SUMMARY:verlegt auf 26.04.2026 Wolfgang Haffner Trio
+TZID:Europe/Berlin
+UID:f3634fed-1a3a-42a4-94e5-dcb0e7d0c39d
+URL:https://www.muffatwerk.de/de/events/view/7738/wolfgang-haffner-trio
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR

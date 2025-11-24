@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260124T200000
+DTEND:20260124T220000
+SUMMARY:Shantel & Bucovina Club Soundsystem
+TZID:Europe/Berlin
+UID:d4d1b609-fffa-4270-9a1c-886f24bc2ce0
+URL:https://www.muffatwerk.de/de/events/view/7611/shantel-bucovina-club-s
+ oundsystem
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR

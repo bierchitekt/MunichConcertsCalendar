@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251228T200000
+DTEND:20251228T220000
+SUMMARY:Stresshotel Mutti + Knochenlos + Piss-test | X-mas Chill Out Week
+  2025
+TZID:Europe/Berlin
+UID:968a216f-0262-4391-a4c2-1f55fb120797
+URL:https://backstage.eu/stresshotel-mutti-knochenlos-piss-test-x-mas-chi
+ ll-out-week-2025.html
+DESCRIPTION:Eintritt Frei!
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

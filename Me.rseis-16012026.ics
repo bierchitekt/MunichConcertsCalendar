@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260116T220000
+DTEND:20260117T000000
+SUMMARY:Me.rseis
+TZID:Europe/Berlin
+UID:131f0eb8-e19f-4fc1-a9dc-5256e7373954
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/16-01-2026_dee
+ p-down-dirty
+DESCRIPTION:Me.rseis\, Jalaska\, Hichissm\, Linedancer\, sG4rY
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

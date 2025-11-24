@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260328T200000
+DTEND:20260328T220000
+SUMMARY:Julian Sommer - Jetzt Kommt Der Sommer - Tour 2026
+TZID:Europe/Berlin
+UID:92d78717-0a6d-4d51-912b-ecd06c0c66d2
+URL:https://backstage.eu/julian-sommer-jetzt-kommt-der-sommer-tour-2026.h
+ tml
+DESCRIPTION:
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

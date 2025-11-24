@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260304T190000
+DTEND:20260304T210000
+SUMMARY:Florence + the Machine
+TZID:Europe/Berlin
+UID:0066de85-ff7d-4f1e-b334-1c569d7518f5
+URL:https://www.olympiapark.de/de/veranstaltungen/florence-the-machine-n5
+ 244
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR

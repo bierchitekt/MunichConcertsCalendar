@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260528T183000
+DTEND:20260528T203000
+SUMMARY:Die Prinzen – Die Große „symphonica“-tour
+TZID:Europe/Berlin
+UID:57bb02be-7c7e-4cfd-9920-a838032c0521
+URL:https://bau.circus-krone.com/veranstaltungen/die-prinzen-die-grosse-s
+ ymphonica-tour/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

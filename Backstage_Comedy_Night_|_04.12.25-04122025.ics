@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251204T200000
+DTEND:20251204T220000
+SUMMARY:Backstage Comedy Night | 04.12.25
+TZID:Europe/Berlin
+UID:5ee818ea-b4fb-4e06-b688-fe4861fd810f
+URL:https://backstage.eu/backstage-comedy-night-04-12-25.html
+DESCRIPTION:By Steh Auf Comedy & Geistesblitz Comedy
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

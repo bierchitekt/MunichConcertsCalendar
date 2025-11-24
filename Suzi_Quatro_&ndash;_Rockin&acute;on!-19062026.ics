@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260619T200000
+DTEND:20260619T220000
+SUMMARY:Suzi Quatro – Rockin´on!
+TZID:Europe/Berlin
+UID:eb06bc6e-2035-4aa9-88ec-b00980281997
+URL:https://bau.circus-krone.com/veranstaltungen/suzi-quatro-rockinon/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

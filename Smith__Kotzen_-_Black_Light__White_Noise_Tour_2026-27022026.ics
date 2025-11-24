@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260227T200000
+DTEND:20260227T220000
+SUMMARY:Smith / Kotzen - Black Light / White Noise Tour 2026
+TZID:Europe/Berlin
+UID:f416d721-bdd5-4af2-95a4-c13135c1970a
+URL:https://backstage.eu/smith-kotzen-black-light-white-noise-tour-2026.h
+ tml
+DESCRIPTION:Kris Barras Band
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

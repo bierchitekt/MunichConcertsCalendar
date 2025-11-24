@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260220T200000
+DTEND:20260220T220000
+SUMMARY:Nitrogods // Valley Of The Gods - Tour 2026
+TZID:Europe/Berlin
+UID:baa5f712-c24b-404e-8fd9-abb56294bdb0
+URL:https://backstage.eu/nitrogods-valley-of-the-gods-tour-2026.html
+DESCRIPTION:Dust & Bones
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

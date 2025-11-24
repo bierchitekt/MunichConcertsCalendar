@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260423T193000
+DTEND:20260423T213000
+SUMMARY:Iggi Kelly - No Matter What – Tour 2026
+TZID:Europe/Berlin
+UID:eda87d08-09a0-4c4c-b583-6b35e67e3d4d
+URL:https://backstage.eu/iggi-kelly-no-matter-what-tour-2026.html
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

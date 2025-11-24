@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260417T200000
+DTEND:20260417T220000
+SUMMARY:Tide Lines
+TZID:Europe/Berlin
+UID:19faf2e8-59ad-4bd2-b528-0f0a09c68c6d
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/17-04-2026_tid
+ e-lines
+DESCRIPTION:Tide Lines
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

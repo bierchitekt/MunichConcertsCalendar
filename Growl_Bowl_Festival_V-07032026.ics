@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260307T173000
+DTEND:20260307T193000
+SUMMARY:Growl Bowl Festival V
+TZID:Europe/Berlin
+UID:40f41ace-b80a-4ed9-a8d6-02c8a91c72e2
+URL:https://backstage.eu/growl-bowl-festival-v.html
+DESCRIPTION:Fleshcrawl + Seasons In Black + Commander + Funeral Pile + Ce
+ metery + Public Grave
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

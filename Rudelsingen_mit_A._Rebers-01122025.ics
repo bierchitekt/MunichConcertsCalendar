@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251201T190000
+DTEND:20251201T210000
+SUMMARY:Rudelsingen mit A. Rebers
+TZID:Europe/Berlin
+UID:9a460ab7-cbb8-4890-bebf-81146b9f0252
+URL:https://www.tollwood.de/veranstaltungen/2025/rudelsingen-mit-andreas-
+ rebers/
+DESCRIPTION:
+LOCATION:Winter Tollwood
+END:VEVENT
+END:VCALENDAR

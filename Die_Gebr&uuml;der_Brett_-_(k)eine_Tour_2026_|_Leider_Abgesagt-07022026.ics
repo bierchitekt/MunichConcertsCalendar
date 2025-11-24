@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260207T200000
+DTEND:20260207T220000
+SUMMARY:Die Gebrüder Brett - (k)eine Tour 2026 | Leider Abgesagt
+TZID:Europe/Berlin
+UID:eccf56ae-bb49-41a3-b0fd-c29975c0e246
+URL:https://backstage.eu/die-gebruder-brett-eine-tour-26.html
+DESCRIPTION:Levt
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260115T210000
+DTEND:20260115T230000
+SUMMARY:Lära
+TZID:Europe/Berlin
+UID:6e68dae3-6c7f-48d8-8f38-bb47a12cb604
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/15-01-2026_bla
+ ck-rat
+DESCRIPTION:Lära\, Schmiere Stehen\, Scho
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

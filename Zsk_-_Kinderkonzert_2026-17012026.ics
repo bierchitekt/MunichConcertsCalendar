@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260117T153000
+DTEND:20260117T173000
+SUMMARY:Zsk - Kinderkonzert 2026
+TZID:Europe/Berlin
+UID:f5734c97-4b60-4ded-8a85-e9ba3351d422
+URL:https://backstage.eu/zsk-kinderkonzert-2026.html
+DESCRIPTION:Altersbeschränkung: 4-11 (kein Einlass Unter 4 Jahren\, Ab 11
+  Jahren Ohne Begleitung Einer Erziehungsberechtigten Oder -beauftragten 
+ Person
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251220T210000
+DTEND:20251220T230000
+SUMMARY:All my hate for
+TZID:Europe/Berlin
+UID:8028676d-9739-4146-ae73-451ea5a36f1d
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/20-12-2025_sch
+ lecht-und-schwindlig-all-my-hate-for-kollateralschaden-oyster-fight
+DESCRIPTION:All my hate for\, Kollateralschaden\, Oyster Fight
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260522T200000
+DTEND:20260522T220000
+SUMMARY:The Umbilical Brothers
+TZID:Europe/Berlin
+UID:a8e195d2-adeb-45e9-b263-32e3aee45823
+URL:https://www.eventfabrik-muenchen.de/event/the-umbilical-brothers-3/
+DESCRIPTION:
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR

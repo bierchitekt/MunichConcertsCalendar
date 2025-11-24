@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260131T180000
+DTEND:20260131T200000
+SUMMARY:Apex Ten
+TZID:Europe/Berlin
+UID:508ce691-da8b-4b92-b522-baaf64aed686
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/31-01-2026_tem
+ pel-festival-apex-ten-atomic-mold-hidas-mount-hush-the-spacelords
+DESCRIPTION:Apex Ten\, Atomic Mold\, Hidas\, Mount Hush\, The Spacelords
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

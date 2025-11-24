@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260114T200000
+DTEND:20260114T220000
+SUMMARY:Rain City Drive & Honey Revenge - Eu/uk Tour 2026
+TZID:Europe/Berlin
+UID:fbf42b65-9dc6-476c-a5e9-3b8a6109846b
+URL:https://backstage.eu/rain-city-drive-honey-revenge-eu-uk-tour-2026.ht
+ ml
+DESCRIPTION:Belmont
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

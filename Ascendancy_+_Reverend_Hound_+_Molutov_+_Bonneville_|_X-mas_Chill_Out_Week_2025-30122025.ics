@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251230T200000
+DTEND:20251230T220000
+SUMMARY:Ascendancy + Reverend Hound + Molutov + Bonneville | X-mas Chill 
+ Out Week 2025
+TZID:Europe/Berlin
+UID:d3ac979a-bd3e-42ac-a752-fbae098e4dc6
+URL:https://backstage.eu/ascendancy-reverend-hound-molutov-bonneville-x-m
+ as-chill-out-week-2025.html
+DESCRIPTION:Eintritt Frei!
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

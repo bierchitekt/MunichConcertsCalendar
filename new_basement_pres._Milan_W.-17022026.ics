@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260217T203000
+DTEND:20260217T223000
+SUMMARY:new basement pres. Milan W.
+TZID:Europe/Berlin
+UID:2a2e9586-20f4-4dc2-a018-330a44fba4c0
+URL:https://import-export.cc/event/new-basement-pres-milan-w/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

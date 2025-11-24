@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260204T200000
+DTEND:20260204T220000
+SUMMARY:Earl Sweatshirt - Live 2026
+TZID:Europe/Berlin
+UID:bde08a7b-0b0b-459a-9b8c-2fc6114d7cb6
+URL:https://backstage.eu/earl-sweatshirt-live-2026.html
+DESCRIPTION:Der Us-amerikanische Rapper Und Producer Kommt Mit Neuem Albu
+ m Im Januar / Februar Für Fünf Konzerte Nach Deutschland
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

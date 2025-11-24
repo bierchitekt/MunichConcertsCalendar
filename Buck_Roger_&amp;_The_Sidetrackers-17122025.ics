@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20251217T193000
+DTEND:20251217T213000
+SUMMARY:Buck Roger & The Sidetrackers
+TZID:Europe/Berlin
+UID:569836b4-408f-46e9-b866-6c9a6c95d495
+URL:https://www.tollwood.de/veranstaltungen/2025/buck-roger-the-sidetrack
+ ers/
+DESCRIPTION:
+LOCATION:Winter Tollwood
+END:VEVENT
+END:VCALENDAR

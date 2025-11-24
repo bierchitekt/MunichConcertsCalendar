@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260320T200000
+DTEND:20260320T220000
+SUMMARY:Kikuo - Kikuoland: Above All Bounds World Tour 2026
+TZID:Europe/Berlin
+UID:3faa2c6b-b517-460e-9280-d996e38f9982
+URL:https://backstage.eu/kikuo-kikuoland-above-all-bounds-world-tour-2026
+ .html
+DESCRIPTION:Meet&greet Einlass: 18:00h / Einlass Regulär: 19:00h / Beginn
+ : 20:00h
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

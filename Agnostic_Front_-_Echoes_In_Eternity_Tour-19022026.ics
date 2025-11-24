@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260219T174500
+DTEND:20260219T194500
+SUMMARY:Agnostic Front - Echoes In Eternity Tour
+TZID:Europe/Berlin
+UID:f34dca10-6f15-492f-9609-c001195e190f
+URL:https://backstage.eu/agnostic-front-echoes-in-eternity-tour.html
+DESCRIPTION:Wisdom In Chains + Raw Brigade
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20261110T200000
+DTEND:20261110T220000
+SUMMARY:Aesthetic Perfection - Suckers For Punishment 2026
+TZID:Europe/Berlin
+UID:c07d5149-3e71-4d59-9a7a-e9a601bd701e
+URL:https://backstage.eu/aesthetic-perfection-suckers-for-punishment-2026
+ .html
+DESCRIPTION:+ Special Guests
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

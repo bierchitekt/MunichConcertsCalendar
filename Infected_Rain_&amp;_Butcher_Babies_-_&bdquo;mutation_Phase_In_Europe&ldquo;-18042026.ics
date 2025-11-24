@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20260418T191500
+DTEND:20260418T211500
+SUMMARY:Infected Rain & Butcher Babies - „mutation Phase In Europe“
+TZID:Europe/Berlin
+UID:298c063f-74bb-49ec-b9ab-f99595690317
+URL:https://backstage.eu/infected-rain-butcher-babies-mutation-phase-in-e
+ urope.html
+DESCRIPTION:Black Spikes
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

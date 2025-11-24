@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T160205Z
+DTSTART:20270521T200000
+DTEND:20270521T220000
+SUMMARY:Greenbeats Momentum Tour
+TZID:Europe/Berlin
+UID:b4667746-920a-46f7-a2e7-b2d593edcc8e
+URL:https://bau.circus-krone.com/veranstaltungen/greenbeats-momentum-tour
+ -2/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
