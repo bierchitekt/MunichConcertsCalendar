@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251211T190000
 DTEND:20251211T210000
 SUMMARY:Bonneville
 TZID:Europe/Berlin
-UID:32d7d62b-ca69-4822-be43-a7e775239e7d
+UID:d0b52916-d2a1-4c5d-b894-cbc4dde0c40f
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/11-12-2025_spr
  ungbrett-liveshow-finale-0
 DESCRIPTION:Bonneville\, Drea and the Band\, Nice Inc.\, Rosa Rost

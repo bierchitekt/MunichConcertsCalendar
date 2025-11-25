@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260415T200000
 DTEND:20260415T220000
 SUMMARY:Subway To Sally - Nackt Iii - Lügen & Legenden
 TZID:Europe/Berlin
-UID:cac9d8d4-0f10-498c-93f5-155a9e058340
+UID:429d7c7e-b70c-4b91-a4c8-d3d8fe94d110
 URL:https://backstage.eu/subway-to-sally-nackt-iii-lugen-legenden.html
 DESCRIPTION:Präsentiert Von Extratours Konzertbüro\, Sonic Seducer\, Kult
  urnews\, Rock Antenne\, Metal Hammer

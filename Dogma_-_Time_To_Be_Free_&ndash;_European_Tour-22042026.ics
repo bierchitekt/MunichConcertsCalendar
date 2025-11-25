@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260422T200000
 DTEND:20260422T220000
 SUMMARY:Dogma - Time To Be Free – European Tour
 TZID:Europe/Berlin
-UID:21fcd876-9ac8-4e76-9d2d-e72ae6f17d55
+UID:3d612e57-6166-4701-abee-80c0b532f0bc
 URL:https://backstage.eu/dogma-time-to-be-free-european-tour.html
 DESCRIPTION:
 LOCATION:Backstage Halle

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251217T200000
 DTEND:20251217T220000
 SUMMARY:...and Oceans - The European Regeneration Tour Mmxxv
 TZID:Europe/Berlin
-UID:796489c7-37d0-4405-b229-15e228c0aafd
+UID:7f6c09c7-4b4a-434c-8b6f-c6dc51b3d7bb
 URL:https://backstage.eu/and-oceans-the-european-regeneration-tour-mmxxv.
  html
 DESCRIPTION:...and Oceans + Môrk Gryning + Angstskrig

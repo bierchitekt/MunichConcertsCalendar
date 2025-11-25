@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260412T200000
 DTEND:20260412T220000
 SUMMARY:En6o - The Official Handychillen World Tour!!!
 TZID:Europe/Berlin
-UID:36216915-4642-48c8-ae73-b1bedb49e1ba
+UID:8cfcfc9c-fffb-4bdf-a592-b42e3bf45710
 URL:https://backstage.eu/en6o-the-official-handychillen-world-tour.html
 DESCRIPTION:
 LOCATION:Backstage Club

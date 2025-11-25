@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260214T194500
 DTEND:20260214T214500
 SUMMARY:Klangstabil
 TZID:Europe/Berlin
-UID:e559d76b-936c-4545-9d06-d87079173437
+UID:0fc947ba-a485-482c-a14a-ec400db772ca
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/14-02-2026_kat
  zenclub-klangstabil-emmon
 DESCRIPTION:Klangstabil\, Emmon

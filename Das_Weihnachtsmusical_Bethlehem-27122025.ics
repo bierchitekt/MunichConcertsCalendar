@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251227T170000
 DTEND:20251227T190000
 SUMMARY:Das Weihnachtsmusical Bethlehem
 TZID:Europe/Berlin
-UID:d68daede-307d-40e0-b090-c6d86560c5af
+UID:c7b5d5e8-8bd5-4e98-8adb-eb4cd6919752
 URL:https://www.olympiapark.de/de/veranstaltungen/das-weihnachtsmusical-b
  ethlehem-n5105
 DESCRIPTION:

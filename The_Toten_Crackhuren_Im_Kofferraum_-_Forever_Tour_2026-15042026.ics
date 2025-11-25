@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260415T200000
 DTEND:20260415T220000
 SUMMARY:The Toten Crackhuren Im Kofferraum - Forever Tour 2026
 TZID:Europe/Berlin
-UID:e8e0a4ac-fe99-47c3-a6dc-d47d2bc60805
+UID:9b60b51a-e499-42b0-b9cb-fc8103b98961
 URL:https://backstage.eu/the-toten-crackhuren-im-kofferraum-forever-tour-
  2026.html
 DESCRIPTION:

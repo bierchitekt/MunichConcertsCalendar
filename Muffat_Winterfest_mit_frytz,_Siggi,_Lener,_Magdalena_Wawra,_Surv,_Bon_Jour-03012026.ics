@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20260103T203000
 DTEND:20260103T223000
 SUMMARY:Muffat Winterfest mit frytz\, Siggi\, Lener\, Magdalena Wawra\, S
  urv\, Bon Jour
 TZID:Europe/Berlin
-UID:0521a7c5-a12b-4588-8e33-6a146c2ca494
+UID:82667e2a-48bc-4b94-9659-bfbee7ca3050
 URL:https://www.muffatwerk.de/de/events/view/7781/muffat-winterfest-mit-f
  rytz-siggi-lener-magdalena-wawra-surv-bon-jour
 DESCRIPTION:

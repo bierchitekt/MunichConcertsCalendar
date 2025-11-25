@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251215T183000
 DTEND:20251215T203000
 SUMMARY:Chelsea Grin - European Tour 2025
 TZID:Europe/Berlin
-UID:ed06c0b7-181f-4ad6-b397-3ae8a3732d48
+UID:7037b14b-10f2-4730-8f32-174ac05d37d7
 URL:https://backstage.eu/chelsea-grin-european-tour-2025.html
 DESCRIPTION:Chelsea Grin + Signs Of The Swarm + Mugshot + Crown Magnetar
 LOCATION:Backstage Halle

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251208T200000
 DTEND:20251208T220000
 SUMMARY:Warhaus - Live 2025
 TZID:Europe/Berlin
-UID:eedf28b0-3acd-4792-a5f8-579277cbfda5
+UID:1dc880fb-ad74-4959-bfb9-7575367716cf
 URL:https://backstage.eu/warhaus-live-2025.html
 DESCRIPTION:Warhaus Spielt Mit Seinem Vierten Album Weitere Deutschland-k
  onzerte

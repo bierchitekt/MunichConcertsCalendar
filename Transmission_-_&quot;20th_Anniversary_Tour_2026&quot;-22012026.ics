@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20260122T200000
 DTEND:20260122T220000
 SUMMARY:Transmission - "20th Anniversary Tour 2026"
 TZID:Europe/Berlin
-UID:30f6a7cb-8bde-46eb-a8dc-b06160ab7ed7
+UID:0ebfefd9-e637-4617-a911-347eb180738a
 URL:https://backstage.eu/transmission-20th-anniversary-tour-2026.html
 DESCRIPTION:The Sound Of Joy Division
 LOCATION:Backstage Club

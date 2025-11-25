@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20260116T200000
 DTEND:20260116T220000
 SUMMARY:Casino Blackout – Fallen Lassen Tour 2026
 TZID:Europe/Berlin
-UID:6a9c7c10-52c3-4a08-864e-2781038fddce
+UID:34efd9f4-1560-4d45-817c-dc855e48109b
 URL:https://backstage.eu/casino-blackout-fallen-lassen-tour-2026.html
 DESCRIPTION:Peter Aus Der Mozartstrasse
 LOCATION:Backstage Club

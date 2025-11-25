@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260606T200000
 DTEND:20260606T220000
 SUMMARY:The Ten Tenors – Time Of Your Life
 TZID:Europe/Berlin
-UID:cda0bffe-2511-4e51-8549-7f2460c82c01
+UID:acbd63de-c382-4b13-9a00-10990b43861d
 URL:https://bau.circus-krone.com/veranstaltungen/the-ten-tenors-time-of-y
  our-life/
 DESCRIPTION:

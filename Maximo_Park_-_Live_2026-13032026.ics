@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260313T200000
 DTEND:20260313T220000
 SUMMARY:Maximo Park - Live 2026
 TZID:Europe/Berlin
-UID:c19387e8-d4cc-4fe9-af3b-f46be322260e
+UID:4e78dd44-27a8-41d5-aa04-4d6644700bd2
 URL:https://backstage.eu/maximo-park-live-2026.html
 DESCRIPTION:Maxïmo Park Feiern Im März 20 Jahre „a Certain Trigger“ Mit F
  ünf Shows In Deutschland

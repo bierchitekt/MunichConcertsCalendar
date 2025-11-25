@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260320T203000
 DTEND:20260320T223000
 SUMMARY:The Ruby Sea
 TZID:Europe/Berlin
-UID:a619509d-09f5-4098-a31b-588a7e8aa8cf
+UID:c50ed92c-f3fe-4768-afd9-a8751cfeb030
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/20-03-2026_dre
  iklangdimensionen-the-ruby-sea-marvpaul-sofaprojekt-3elvis
 DESCRIPTION:The Ruby Sea\, Marvpaul\, Sofaprojekt\, 3Elvis

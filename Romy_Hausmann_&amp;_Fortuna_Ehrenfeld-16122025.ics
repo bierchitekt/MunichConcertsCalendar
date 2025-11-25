@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251216T200000
 DTEND:20251216T220000
 SUMMARY:Romy Hausmann & Fortuna Ehrenfeld
 TZID:Europe/Berlin
-UID:9ddce8a0-fc88-4110-af47-5232bdd2b854
+UID:e43e8881-bec7-4de2-be54-b2f6e21da84b
 URL:https://www.muffatwerk.de/de/events/view/7400/romy-hausmann-fortuna-e
  hrenfeld
 DESCRIPTION:

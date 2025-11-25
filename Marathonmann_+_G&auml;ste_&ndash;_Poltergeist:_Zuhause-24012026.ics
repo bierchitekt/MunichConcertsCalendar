@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20260124T200000
 DTEND:20260124T220000
 SUMMARY:Marathonmann + Gäste – Poltergeist: Zuhause
 TZID:Europe/Berlin
-UID:51deec8c-4f83-48a1-b6dc-0f9465eb1110
+UID:e9266758-d112-49ac-b3ed-037499f7caf5
 URL:https://backstage.eu/marathonmann-gaste-poltergeist-zuhause.html
 DESCRIPTION:– Jahreseröffnung '26
 LOCATION:Backstage Halle

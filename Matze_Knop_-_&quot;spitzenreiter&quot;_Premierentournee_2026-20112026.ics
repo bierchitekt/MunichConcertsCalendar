@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202904Z
+DTSTAMP:20251125T091523Z
 DTSTART:20261120T200000
 DTEND:20261120T220000
 SUMMARY:Matze Knop - "spitzenreiter"// Premierentournee 2026
 TZID:Europe/Berlin
-UID:33b54a8d-8958-4abf-9293-d580987e3101
+UID:61247b00-4c5c-49d5-bbff-857fb6b886fd
 URL:https://backstage.eu/matze-knop-spitzenreiter-premierentournee-2026.h
  tml
 DESCRIPTION:Die Veranstaltung Findet Bestuhlt Bei Freier Platzwahl Statt.

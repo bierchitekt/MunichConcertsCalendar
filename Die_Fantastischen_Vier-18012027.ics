@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202904Z
+DTSTAMP:20251125T091523Z
 DTSTART:20270118T190000
 DTEND:20270118T210000
 SUMMARY:Die Fantastischen Vier
 TZID:Europe/Berlin
-UID:d98ca0a4-32dc-4ba7-8e9d-879cad8bd260
+UID:bfcf09a9-066b-43ec-bbf0-6f8b0748990f
 URL:https://www.olympiapark.de/de/veranstaltungen/die-fantastischen-vier-
  n5450
 DESCRIPTION:

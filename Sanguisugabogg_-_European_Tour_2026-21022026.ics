@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260221T190000
 DTEND:20260221T210000
 SUMMARY:Sanguisugabogg - European Tour 2026
 TZID:Europe/Berlin
-UID:ab3d0e40-4b7d-4213-8013-9878945e484c
+UID:e37e313f-bdc6-46c6-88e2-d2c40cda6b9b
 URL:https://backstage.eu/sanguisugabogg-european-tour-2026.html
 DESCRIPTION:Fulci + Gates To Hell + Celestial Sanctuary
 LOCATION:Backstage Halle

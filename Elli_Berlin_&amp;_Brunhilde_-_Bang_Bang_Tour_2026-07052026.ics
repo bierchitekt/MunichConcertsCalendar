@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260507T193000
 DTEND:20260507T213000
 SUMMARY:Elli Berlin & Brunhilde - Bang Bang Tour 2026
 TZID:Europe/Berlin
-UID:688dcc9d-f4c0-4a30-8982-5b0a498dc31e
+UID:5c1ee355-862a-4b3c-855e-671b7db6a428
 URL:https://backstage.eu/elli-berlin-brunhilde-bang-bang-tour-2026.html
 DESCRIPTION:+ Support
 LOCATION:Backstage Halle

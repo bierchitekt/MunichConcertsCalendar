@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260602T200000
 DTEND:20260602T220000
 SUMMARY:Der Herr Der Ringe & Der Hobbit – Das Konzert
 TZID:Europe/Berlin
-UID:f32774c4-1bd8-4b25-8561-0cf3e96e90b1
+UID:9b5c2d10-edac-446d-abdc-079c080bef51
 URL:https://bau.circus-krone.com/veranstaltungen/der-herr-der-ringe-der-h
  obbit-das-konzert/
 DESCRIPTION:

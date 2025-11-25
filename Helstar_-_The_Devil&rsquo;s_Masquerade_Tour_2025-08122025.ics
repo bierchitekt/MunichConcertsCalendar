@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251208T200000
 DTEND:20251208T220000
 SUMMARY:Helstar - The Devil’s Masquerade Tour 2025
 TZID:Europe/Berlin
-UID:177e6d21-99b4-4fd2-a00f-690fa6d86821
+UID:d76c7a64-1f0d-4c69-8506-ef858bb9ff68
 URL:https://backstage.eu/helstar-the-devil-s-masquerade-tour-2025.html
 DESCRIPTION:Reverend Hound
 LOCATION:Backstage Club

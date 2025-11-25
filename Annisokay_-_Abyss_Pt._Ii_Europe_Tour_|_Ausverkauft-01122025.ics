@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202901Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251201T200000
 DTEND:20251201T220000
 SUMMARY:Annisokay - Abyss Pt. Ii Europe Tour | Ausverkauft
 TZID:Europe/Berlin
-UID:fc69ad36-8280-4f93-91c9-8c3a0251dbb8
+UID:f72ef135-6e09-45e5-ae02-24e382f6ef8b
 URL:https://backstage.eu/annisokay-abyss-pt-ii-europe-tour.html
 DESCRIPTION:+ Very Special Guest: Our Promise
 LOCATION:Backstage Werk

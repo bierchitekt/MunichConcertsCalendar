@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251212T220000
 DTEND:20251213T000000
 SUMMARY:DJ Moryty
 TZID:Europe/Berlin
-UID:17cb84e4-99f2-47eb-a3f8-90c1bc970364
+UID:e086082a-bc9e-408e-8cc7-2e7e6706fe70
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/12-12-2025_unt
  erwelt-dj-moryty-dj-kai-ser
 DESCRIPTION:DJ Moryty\, DJ Kai.ser

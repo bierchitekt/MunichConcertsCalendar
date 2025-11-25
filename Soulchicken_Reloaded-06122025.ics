@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251206T160000
 DTEND:20251206T180000
 SUMMARY:Soulchicken Reloaded
 TZID:Europe/Berlin
-UID:d465bbda-907a-4580-a76e-e3374f76bc24
+UID:53eeffbe-db0e-4f61-a2a8-b19be023ee2a
 URL:https://www.tollwood.de/veranstaltungen/2025/soulchicken-reloaded/
 DESCRIPTION:
 LOCATION:Winter Tollwood

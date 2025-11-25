@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20260130T200000
 DTEND:20260130T220000
 SUMMARY:Elwood Stray & Our Mirage - Co-headline Tour 2026
 TZID:Europe/Berlin
-UID:a63b675d-18ba-47db-93cd-45d89e2dc6ab
+UID:7d66890e-a203-4614-8b5d-472b858c6f8f
 URL:https://backstage.eu/elwood-stray-our-mirage-co-headline-tour-2026.ht
  ml
 DESCRIPTION:Impvlse

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20260130T210000
 DTEND:20260130T230000
 SUMMARY:Stygian Bough
 TZID:Europe/Berlin
-UID:b26991eb-c216-44eb-b395-91bb26341f7e
+UID:1dd8f732-cacc-41aa-929c-351db71ac193
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/30-01-2026_bel
  l-witch-stygian-bough
 DESCRIPTION:Stygian Bough\, 40 Watt Sun

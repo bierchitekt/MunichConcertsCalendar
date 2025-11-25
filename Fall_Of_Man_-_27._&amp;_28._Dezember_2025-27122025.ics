@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251227T170000
 DTEND:20251227T190000
 SUMMARY:Fall Of Man - 27. & 28. Dezember 2025
 TZID:Europe/Berlin
-UID:fb3b4331-ffcb-474c-95ac-a8bba495aa2e
+UID:86555ebe-ab87-404d-98b2-4271e045bf3e
 URL:https://backstage.eu/fall-of-man-27-28-dezember-2025.html
 DESCRIPTION:Mit Hexvessel\, Graven\, Wolvennest\, Bad Omen\, Spada Intrae
  sofagea\, Ars Goatia\, Lvthn\, Verrottet\, Nekus\, Claustrum\, Illusive 

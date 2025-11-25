@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260430T193000
 DTEND:20260430T213000
 SUMMARY:Christopher Cross – Tour 2026
 TZID:Europe/Berlin
-UID:bc3fabe3-0a1a-4aad-9154-aef19fa7f722
+UID:9477fbcd-4e66-4b5c-b79c-b9d17130ea5d
 URL:https://bau.circus-krone.com/veranstaltungen/christopher-cross-tour-2
  026/
 DESCRIPTION:

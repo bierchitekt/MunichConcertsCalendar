@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202904Z
+DTSTAMP:20251125T091523Z
 DTSTART:20270302T183000
 DTEND:20270302T203000
 SUMMARY:One Vision of Queen feat. Marc Martel
 TZID:Europe/Berlin
-UID:e8e9514a-ee71-456b-ba71-959cc70b9b28
+UID:bb44db7a-95da-4293-a83e-bb560e6def90
 URL:https://www.olympiapark.de/de/veranstaltungen/one-vision-of-queen-fea
  t-marc-martel-n5399
 DESCRIPTION:

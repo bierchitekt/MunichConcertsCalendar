@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260523T190000
 DTEND:20260523T210000
 SUMMARY:We Salute You – World’s Biggest Tribute To Ac/dc
 TZID:Europe/Berlin
-UID:0a8c18a6-ffb0-4f95-80d7-e9714e565e26
+UID:2b51acf4-81d0-4ae6-b8e8-d6828fa225aa
 URL:https://bau.circus-krone.com/veranstaltungen/we-salute-you-worlds-big
  gest-tribute-to-ac-dc/
 DESCRIPTION:

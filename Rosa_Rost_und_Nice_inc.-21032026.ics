@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20260321T200000
 DTEND:20260321T220000
 SUMMARY:Rosa Rost und Nice inc.
 TZID:Europe/Berlin
-UID:b3a11bda-22f1-424c-b26a-cc020325ed04
+UID:bec0ef9a-3fcd-4805-ae7f-f8cdc6c59955
 URL:https://t.rausgegangen.de/tickets/shop/sun-king-music-artists-concert
  s
 DESCRIPTION:

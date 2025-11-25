@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202903Z
+DTSTAMP:20251125T091523Z
 DTSTART:20261013T200000
 DTEND:20261013T220000
 SUMMARY:Heinz Rudolf Kunze & Verstärkung „angebot Und Nachfrage Tour 2026
  “
 TZID:Europe/Berlin
-UID:8e2b43d8-b36b-431b-a7f9-d8298909ecaa
+UID:7883781d-925e-4c64-a1cb-110f93b2e743
 URL:https://bau.circus-krone.com/veranstaltungen/heinz-rudolf-kunze-verst
  aerkung-angebot-und-nachfrage-tour-2026/
 DESCRIPTION:

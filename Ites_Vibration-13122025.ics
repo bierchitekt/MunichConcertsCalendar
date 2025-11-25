@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251213T230000
 DTEND:20251214T010000
 SUMMARY:Ites Vibration
 TZID:Europe/Berlin
-UID:ae92f489-9788-4426-86e4-4d79d66d99eb
+UID:0c4a2db7-80d9-44f4-a847-cd5a2159c9f9
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/13-12-2025_ome
  ga-dub-circle
 DESCRIPTION:Ites Vibration\, Sista Science

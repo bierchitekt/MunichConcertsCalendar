@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20251213T200000
 DTEND:20251213T220000
 SUMMARY:Florian Paul & die Kapelle der letzten Hoffnung
 TZID:Europe/Berlin
-UID:f86fb3b1-eddb-4f47-8f31-6b15ffdc38b6
+UID:7b1eb141-ee1a-44d3-b376-7f743b51204c
 URL:https://www.muffatwerk.de/de/events/view/7497/florian-paul-die-kapell
  e-der-letzten-hoffnung
 DESCRIPTION:

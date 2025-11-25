@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251124T202902Z
+DTSTAMP:20251125T091522Z
 DTSTART:20260129T200000
 DTEND:20260129T220000
 SUMMARY:Militarie Gun - Live 2026
 TZID:Europe/Berlin
-UID:7280570e-f2ca-4442-84a4-efb9eda75ac8
+UID:54bfb373-eb54-4a7c-b7bd-98420f41efa2
 URL:https://backstage.eu/militarie-gun-live-2026.html
 DESCRIPTION:Militarie Gun Anfang 2026 Mit Neuem Album „god Save The Gun” 
  Für Vier Shows In Deutschland
