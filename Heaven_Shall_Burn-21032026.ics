@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251125T172430Z
+DTSTART:20260321T183000
+DTEND:20260321T203000
+SUMMARY:Heaven Shall Burn
+TZID:Europe/Berlin
+UID:accbbb13-b0bd-4e97-b7c2-62fcc111f4f0
+URL:https://muenchen.motorworld.de/veranstaltungen/heaven-shall-burn/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

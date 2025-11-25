@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251125T172430Z
+DTSTART:20260131T180000
+DTEND:20260131T200000
+SUMMARY:Lorna Shore
+TZID:Europe/Berlin
+UID:29fb5aac-79d7-4a25-8a94-a6e226f704ca
+URL:https://muenchen.motorworld.de/veranstaltungen/lorna-shore-ausverkauf
+ t/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

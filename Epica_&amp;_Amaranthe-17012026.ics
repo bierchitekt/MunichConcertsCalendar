@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251125T172430Z
+DTSTART:20260117T183000
+DTEND:20260117T203000
+SUMMARY:Epica & Amaranthe
+TZID:Europe/Berlin
+UID:827d575e-c5e1-4fda-bc94-4bdcfcc1a768
+URL:https://muenchen.motorworld.de/veranstaltungen/epica-amaranthe/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

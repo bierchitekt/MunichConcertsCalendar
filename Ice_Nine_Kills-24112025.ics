@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251124T205333Z
+DTSTART:20251124T183000
+DTEND:20251124T203000
+SUMMARY:Ice Nine Kills
+TZID:Europe/Berlin
+UID:f9181fd1-a29e-4ebe-8d5f-c12b26add557
+URL:https://muenchen.motorworld.de/veranstaltungen/ice-nine-kills/
+DESCRIPTION:The Devil Wears Prada + Creeper + TX2
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR
