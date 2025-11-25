@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260114T200000
 DTEND:20260114T220000
 SUMMARY:Rain City Drive & Honey Revenge - Eu/uk Tour 2026
 TZID:Europe/Berlin
-UID:fbc47268-6dde-4036-94e7-3df073c3a246
+UID:dfdb4b76-83a9-413f-bf67-3df224643beb
 URL:https://backstage.eu/rain-city-drive-honey-revenge-eu-uk-tour-2026.ht
  ml
 DESCRIPTION:Belmont

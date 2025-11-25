@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20251202T200000
 DTEND:20251202T220000
 SUMMARY:The Deadnotes
 TZID:Europe/Berlin
-UID:332c1319-3dc3-47b9-bcd6-1cb1d7f1835d
+UID:f79badfd-74cf-40c6-86e5-541ced6f6784
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/02-12-2025_the
  -deadnotes
 DESCRIPTION:The Deadnotes\, Fine and Great

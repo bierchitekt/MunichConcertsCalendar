@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20251129T160000
 DTEND:20251129T180000
 SUMMARY:The Donnelly Connection
 TZID:Europe/Berlin
-UID:ae4ebf92-89cb-40e7-be04-8edce8fa3fc8
+UID:bb66770c-09ec-49fc-a31c-9e61c61a31ae
 URL:https://www.tollwood.de/veranstaltungen/2025/the-donnelly-connection/
  
 DESCRIPTION:

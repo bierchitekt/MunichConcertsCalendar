@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172431Z
 DTSTART:20261029T200000
 DTEND:20261029T220000
 SUMMARY:Philipp Lumpp
 TZID:Europe/Berlin
-UID:1fcd2346-036a-49dd-bef5-ffaae5c5688c
+UID:90f7bf03-a8a7-4c5b-a4d3-1a776868a4a1
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/29-10-2026_phi
  lipp-lumpp
 DESCRIPTION:Philipp Lumpp

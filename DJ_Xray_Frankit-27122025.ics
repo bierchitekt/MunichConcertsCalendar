@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20251227T220000
 DTEND:20251228T000000
 SUMMARY:DJ Xray Frankit
 TZID:Europe/Berlin
-UID:dddac1a0-bc2b-4087-b0d1-2204d6562a7a
+UID:e8447e4b-154d-49dd-9b2c-a2b5b7dba269
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/27-12-2025_sac
  red-bones-dj-xray-frankit-dj-stefan-robota
 DESCRIPTION:DJ Xray Frankit\, DJ Stefan Robota

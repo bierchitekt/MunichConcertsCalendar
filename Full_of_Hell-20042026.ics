@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260420T200000
 DTEND:20260420T220000
 SUMMARY:Full of Hell
 TZID:Europe/Berlin
-UID:7ca28217-d624-4c79-8480-52e83436f16e
+UID:54bdbd54-e315-4abc-86dc-ac9d1afc9a6c
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/20-04-2026_ful
  l-of-hell
 DESCRIPTION:Full of Hell\, The Body\, Jad

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172431Z
 DTSTART:20261022T200000
 DTEND:20261022T220000
 SUMMARY:Helmut Lotti Goes Classic – 30 Years Jubilee Edition
 TZID:Europe/Berlin
-UID:03ad678e-734f-4ccf-b98f-6597d864ef0c
+UID:e6c7622c-e95d-44f2-bd78-555cf9c4b9a6
 URL:https://bau.circus-krone.com/veranstaltungen/helmut-lotti-goes-classi
  c-30-years-jubilee-edition/
 DESCRIPTION:

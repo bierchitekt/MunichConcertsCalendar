@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260115T190000
 DTEND:20260115T210000
 SUMMARY:Lionheart - European Tour 2026 | Verlegt Auf Den 15.01.26
 TZID:Europe/Berlin
-UID:fc209ba5-e344-4d35-9ebb-71d6644fd4fa
+UID:ed579d7c-0d5a-4a68-8892-d6eef79aa1f4
 URL:https://backstage.eu/lionheart-european-tour-2025.html
 DESCRIPTION:Madball\, Gideon\, Slope
 LOCATION:Tonhalle (werksviertel-mitte)

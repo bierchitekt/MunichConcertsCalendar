@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260201T180000
 DTEND:20260201T200000
 SUMMARY:Heidenfest 2026
 TZID:Europe/Berlin
-UID:f7752f64-34a7-4a86-bde5-7976d3fc7ba2
+UID:e4674c38-8638-4b44-bb02-a37faec47e54
 URL:https://backstage.eu/heidenfest-2026.html
 DESCRIPTION:Korpiklaani\, Finntroll\, Heidevolk\, Trollfest\, The Dread C
  rew Of Oddwood

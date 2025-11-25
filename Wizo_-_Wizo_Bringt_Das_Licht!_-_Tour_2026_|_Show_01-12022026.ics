@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260212T200000
 DTEND:20260212T220000
 SUMMARY:Wizo - Wizo Bringt Das Licht! - Tour 2026 | Show 01
 TZID:Europe/Berlin
-UID:38e4e33b-09ab-41ab-8251-070a8215d2b6
+UID:b760ef03-5a65-4ed4-b65e-dae063b85ef7
 URL:https://backstage.eu/wizo-wizo-bringt-das-licht-tour-2026-show-01.htm
  l
 DESCRIPTION:+ Special Guest: Normahl

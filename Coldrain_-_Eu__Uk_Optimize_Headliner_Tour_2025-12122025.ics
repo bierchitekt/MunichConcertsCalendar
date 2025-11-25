@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20251212T200000
 DTEND:20251212T220000
 SUMMARY:Coldrain - Eu / Uk Optimize Headliner Tour 2025
 TZID:Europe/Berlin
-UID:75f81afc-8262-47cf-bea5-19e7b677a91b
+UID:8772ce4c-20da-4c83-8a30-83256a785f49
 URL:https://backstage.eu/coldrain-european-tour-2025.html
 DESCRIPTION:+ Special Guests: Revnoir\, Noisemaker
 LOCATION:Backstage Werk

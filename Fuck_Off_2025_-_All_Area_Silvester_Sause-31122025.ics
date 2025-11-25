@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20251231T220000
 DTEND:20260101T000000
 SUMMARY:Fuck Off 2025 - All Area Silvester Sause
 TZID:Europe/Berlin
-UID:eb9c0c61-eb1a-4680-9a55-73b2c765f3f4
+UID:3a6cc9af-1735-4f8a-8768-938049ca98be
 URL:https://backstage.eu/fuck-off-2025-all-area-silvester-sause.html
 DESCRIPTION:Einlass & Beginn: 22:00h
 LOCATION:Backstage All Area

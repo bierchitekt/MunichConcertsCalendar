@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260401T200000
 DTEND:20260401T220000
 SUMMARY:Ryan Oakes - European Headline Tour 2026
 TZID:Europe/Berlin
-UID:6d6bc601-e2ea-47da-b3d5-5b7f4ea8850a
+UID:bbc36bdb-1bf2-4d22-a159-87e75b9fb79d
 URL:https://backstage.eu/ryan-oakes-european-headline-tour-2026.html
 DESCRIPTION:
 LOCATION:Backstage Halle

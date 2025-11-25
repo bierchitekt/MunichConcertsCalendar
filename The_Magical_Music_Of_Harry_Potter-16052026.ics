@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172431Z
 DTSTART:20260516T143000
 DTEND:20260516T163000
 SUMMARY:The Magical Music Of Harry Potter
 TZID:Europe/Berlin
-UID:93874122-1264-4d66-abac-46c6bbdd07cd
+UID:99f550f8-0b5d-443b-9897-b73502c9a546
 URL:https://bau.circus-krone.com/veranstaltungen/the-magical-music-of-har
  ry-potter/
 DESCRIPTION:

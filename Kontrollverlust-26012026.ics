@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260126T200000
 DTEND:20260126T220000
 SUMMARY:Kontrollverlust
 TZID:Europe/Berlin
-UID:bd16c285-f200-4b40-9623-63c65a60d00f
+UID:2fe27702-6439-480b-915f-ec40263d6a3c
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/26-01-2026_kon
  trollverlust-kontrollverlust
 DESCRIPTION:Kontrollverlust

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260220T200000
 DTEND:20260220T220000
 SUMMARY:Geschichten Aus Dem Altbau
 TZID:Europe/Berlin
-UID:676d88e3-80af-4ebd-ac90-cd7c2895dadd
+UID:d25659e0-6422-43bd-a15d-cac3ef34c4db
 URL:https://www.eventfabrik-muenchen.de/event/geschichten-aus-dem-altbau/
  
 DESCRIPTION:

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260312T200000
 DTEND:20260312T220000
 SUMMARY:Die Happy - Empathy Is No Weakness
 TZID:Europe/Berlin
-UID:4450f725-30bc-4c46-8291-7d7d6e4cfaac
+UID:42da3c97-f0c1-4424-98ec-fb50cb3b71f4
 URL:https://backstage.eu/die-happy-empathy-is-no-weakness.html
 DESCRIPTION:Moon Shot
 LOCATION:Backstage Halle

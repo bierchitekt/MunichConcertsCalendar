@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20251128T190000
 DTEND:20251128T210000
 SUMMARY:Logan Mize X Tim Hicks - No Bad Days Tour
 TZID:Europe/Berlin
-UID:80c61f34-b839-47ad-88f5-fc4421f09eba
+UID:0e5fe323-aefb-441e-814e-80515591defb
 URL:https://backstage.eu/logan-mize-x-tim-hicks-no-bad-day-tour.html
 DESCRIPTION:
 LOCATION:Backstage Club

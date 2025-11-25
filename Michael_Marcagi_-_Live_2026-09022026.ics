@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260209T200000
 DTEND:20260209T220000
 SUMMARY:Michael Marcagi - Live 2026
 TZID:Europe/Berlin
-UID:a3777e28-8a80-4e50-83af-debc0f0a05a6
+UID:6b616ef1-e1d1-4fa2-88b9-b08f3fe92588
 URL:https://backstage.eu/michael-marcagi-live-2026.html
 DESCRIPTION:Amerikanischer Folk Trifft Deutschen Winter – Michael Marcagi
   Kommt 2026 Auf Tour

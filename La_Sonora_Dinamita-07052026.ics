@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172431Z
 DTSTART:20260507T200000
 DTEND:20260507T220000
 SUMMARY:La Sonora Dinamita
 TZID:Europe/Berlin
-UID:ce8c9eed-2aa5-4d79-9c4d-b01b38bf5018
+UID:fe8b1b5e-c4d5-422f-a3ae-29014c9526c0
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/07-05-2026_la-
  sonora-dinamita
 DESCRIPTION:La Sonora Dinamita

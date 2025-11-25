@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260124T193000
 DTEND:20260124T213000
 SUMMARY:Vaentis - Invocation 01 – The Awakening 2026
 TZID:Europe/Berlin
-UID:4722b6ba-5429-4298-9af8-51bbaeda65af
+UID:8e0c26d4-7e22-459f-abb0-0d504bec5df0
 URL:https://backstage.eu/vaentis-invocation-01-the-awakening-2026.html
 DESCRIPTION:Artemis Rising
 LOCATION:Backstage Club

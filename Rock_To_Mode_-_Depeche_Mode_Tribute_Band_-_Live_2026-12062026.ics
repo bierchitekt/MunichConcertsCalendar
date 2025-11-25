@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172431Z
 DTSTART:20260612T200000
 DTEND:20260612T220000
 SUMMARY:Rock To Mode - Depeche Mode Tribute Band - Live 2026
 TZID:Europe/Berlin
-UID:b02426bb-9e73-4c3f-ad3e-e26f3dcd8752
+UID:3e4f9cba-0aab-47c1-b1ef-2f7b34c11fc8
 URL:https://backstage.eu/rock-to-mode-depeche-mode-tribute-band-live-2026
  .html
 DESCRIPTION:The Sounds Of Depeche Mode

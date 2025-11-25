@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172431Z
 DTSTART:20260510T200000
 DTEND:20260510T220000
 SUMMARY:Tori Amos – In Times Of Dragons
 TZID:Europe/Berlin
-UID:a982f81d-58f2-48e9-9b7c-3e73da7cb9a1
+UID:d8cb699b-1193-42f1-acd5-c93b56f92ff2
 URL:https://bau.circus-krone.com/veranstaltungen/tori-amos-in-times-of-dr
  agons/
 DESCRIPTION:

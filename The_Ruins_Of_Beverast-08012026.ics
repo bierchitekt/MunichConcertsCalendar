@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20260108T200000
 DTEND:20260108T220000
 SUMMARY:The Ruins Of Beverast
 TZID:Europe/Berlin
-UID:2aba9175-9224-4aa2-bee0-abed23f51696
+UID:da9abdda-ccb2-49b1-8365-3315ec5988ac
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/08-01-2026_the
  -ruins-of-beverast
 DESCRIPTION:The Ruins Of Beverast\, Imha Tarikat\, Rană

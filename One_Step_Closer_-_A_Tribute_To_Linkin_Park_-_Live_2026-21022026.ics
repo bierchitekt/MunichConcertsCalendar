@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260221T200000
 DTEND:20260221T220000
 SUMMARY:One Step Closer - A Tribute To Linkin Park - Live 2026
 TZID:Europe/Berlin
-UID:ca91c097-84cb-4694-b430-87555685c11c
+UID:fbcac2e7-74ad-42db-a3d5-bc3e66847d87
 URL:https://backstage.eu/one-step-closer-a-tribute-to-linkin-park-live-20
  26.html
 DESCRIPTION:Veranstalter: Hockeypark Betriebs Gmbh & Co. Kg

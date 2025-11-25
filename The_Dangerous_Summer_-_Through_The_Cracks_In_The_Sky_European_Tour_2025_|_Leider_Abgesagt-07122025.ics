@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20251207T200000
 DTEND:20251207T220000
 SUMMARY:The Dangerous Summer - Through The Cracks In The Sky European Tou
  r 2025 | Leider Abgesagt
 TZID:Europe/Berlin
-UID:e2087358-04db-47b0-8967-0b10edb2a6a1
+UID:8633e4d8-c168-4b48-931a-0417d1b0a82b
 URL:https://backstage.eu/the-dangerous-summer-through-the-cracks-in-the-s
  ky-european-tour-2025.html
 DESCRIPTION:

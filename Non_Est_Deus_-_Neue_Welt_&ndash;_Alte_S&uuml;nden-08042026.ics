@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091523Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260408T200000
 DTEND:20260408T220000
 SUMMARY:Non Est Deus - Neue Welt – Alte Sünden
 TZID:Europe/Berlin
-UID:f841edc7-f024-4ef9-9246-84a183765eec
+UID:ad4d5f30-f2b1-492d-87a5-309c6accb37d
 URL:https://backstage.eu/non-est-deus-neue-welt-alte-sunden.html
 DESCRIPTION:+ Support: Antrisch
 LOCATION:Backstage Halle

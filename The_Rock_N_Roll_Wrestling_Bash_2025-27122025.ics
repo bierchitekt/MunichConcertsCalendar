@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20251227T193000
 DTEND:20251227T213000
 SUMMARY:The Rock N Roll Wrestling Bash 2025
 TZID:Europe/Berlin
-UID:77e3b659-7924-4256-aa5e-632e1aa4da25
+UID:3c14d290-6335-4aa5-9c48-0f7db2a36c65
 URL:https://backstage.eu/the-rock-n-roll-wrestling-bash-2025.html
 DESCRIPTION:Carlos Martinez' The Rock N Roll Wrestling Bash
 LOCATION:Backstage Werk

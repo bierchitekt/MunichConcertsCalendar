@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20260110T190000
 DTEND:20260110T210000
 SUMMARY:Ein Glas Wein
 TZID:Europe/Berlin
-UID:b8f1ba3d-6aea-4760-8672-e2f56b61665d
+UID:8fb75398-ae5e-4daf-a8ec-e5c1c31039e8
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/10-01-2026_fei
  erwerk-sessions-ein-glas-wein-lina-kinners
 DESCRIPTION:Ein Glas Wein\, Lina\, Kinners

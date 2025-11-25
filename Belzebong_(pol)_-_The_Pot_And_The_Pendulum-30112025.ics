@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20251130T194500
 DTEND:20251130T214500
 SUMMARY:Belzebong (pol) - The Pot And The Pendulum
 TZID:Europe/Berlin
-UID:6bf5b84d-92ae-45ed-870f-32d720a10386
+UID:a0f4dba5-630d-4e14-a2f9-762aeb6b94c2
 URL:https://backstage.eu/belzebong-pol-the-pot-and-the-pendulum.html
 DESCRIPTION:Yawning Man (usa) + Soft Sun (nor/usa)
 LOCATION:Backstage Halle

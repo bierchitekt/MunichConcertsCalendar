@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172430Z
 DTSTART:20260119T200000
 DTEND:20260119T220000
 SUMMARY:Teenage Bottlerocket - Ready To Roll Europe 2026
 TZID:Europe/Berlin
-UID:8d606514-e510-4b54-994c-ca059ce8d712
+UID:ff0e8a1b-93ae-4231-8c40-81d0c3b5c76e
 URL:https://backstage.eu/teenage-bottlerocket-ready-to-roll-europe-2026.h
  tml
 DESCRIPTION:Dee Cracks

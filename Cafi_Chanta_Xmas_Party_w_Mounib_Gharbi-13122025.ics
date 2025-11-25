@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T091522Z
+DTSTAMP:20251125T172429Z
 DTSTART:20251213T180000
 DTEND:20251213T200000
 SUMMARY:Cafi Chanta Xmas Party w/ Mounib Gharbi
 TZID:Europe/Berlin
-UID:163d5b24-1dad-42c0-8bc4-889776c3b013
+UID:a2bc2e91-1c44-42a0-8faa-de3f3bbd8986
 URL:https://import-export.cc/event/cafi-chanta-xmas-party-w-mounib-gharbi
  -sharake/
 DESCRIPTION:Sharake
