@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260220T200000
 DTEND:20260220T220000
 SUMMARY:Omnium Gatherum - European Tour 2026
 TZID:Europe/Berlin
-UID:31aec5e8-2235-499e-91f8-9c56425d0478
+UID:fe3bc2f1-3e13-4ba7-9049-6b7f246c29bf
 URL:https://backstage.eu/omnium-gatherum-european-tour-2026.html
 DESCRIPTION:Omnium Gatherum + Fallujah + In Mourning
 LOCATION:Backstage Halle

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260211T190000
 DTEND:20260211T210000
 SUMMARY:Napalm Death - Campaign For Musical Destruction Tour 2026
 TZID:Europe/Berlin
-UID:63dc51f8-27b1-4405-beb4-75002be7d5f8
+UID:4722afc3-da4b-4310-a2a8-98f4a346318a
 URL:https://backstage.eu/napalm-death-campaign-for-musical-destruction-to
  ur-2026.html
 DESCRIPTION:Napalm Death + Whiplash + Varukers + Dopelord

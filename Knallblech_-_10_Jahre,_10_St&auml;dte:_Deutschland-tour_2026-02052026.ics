@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260502T200000
 DTEND:20260502T220000
 SUMMARY:Knallblech - 10 Jahre\, 10 Städte: Deutschland-tour 2026
 TZID:Europe/Berlin
-UID:be9587fc-545d-413b-b854-2da65bda1a12
+UID:90f649ed-f622-4acd-b780-a0b0dcd36808
 URL:https://backstage.eu/knallblech-10-jahre-10-stadte-deutschland-tour-2
  026.html
 DESCRIPTION:Brassband Meets Dj

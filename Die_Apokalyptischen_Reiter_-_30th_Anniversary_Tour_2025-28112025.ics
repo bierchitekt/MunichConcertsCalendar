@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251128T192000
 DTEND:20251128T212000
 SUMMARY:Die Apokalyptischen Reiter - 30th Anniversary Tour 2025
 TZID:Europe/Berlin
-UID:8070f420-7a14-4c5d-b9fb-a96364404f86
+UID:4d23786a-1e90-4324-ae9b-e9ef197fbba0
 URL:https://backstage.eu/die-apokalyptischen-reiter-30th-anniversary-tour
  -2025.html
 DESCRIPTION:Die Apokalyptischen Reiter + Cypecore + Asenblut

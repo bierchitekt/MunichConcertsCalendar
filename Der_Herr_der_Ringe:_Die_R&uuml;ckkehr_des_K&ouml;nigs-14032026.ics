@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260314T173000
 DTEND:20260314T193000
 SUMMARY:Der Herr der Ringe: Die Rückkehr des Königs
 TZID:Europe/Berlin
-UID:53a3e7c3-76d0-45ba-a0d3-00e48d406ded
+UID:43efc052-d2ca-47c9-b00d-c679025d6c2f
 URL:https://www.olympiapark.de/de/veranstaltungen/der-herr-der-ringe-die-
  ruckkehr-des-konigs-n4949
 DESCRIPTION:

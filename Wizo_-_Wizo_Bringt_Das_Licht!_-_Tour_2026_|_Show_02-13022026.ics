@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260213T200000
 DTEND:20260213T220000
 SUMMARY:Wizo - Wizo Bringt Das Licht! - Tour 2026 | Show 02
 TZID:Europe/Berlin
-UID:f49d7bca-d045-4e71-b658-609ff43d5ec9
+UID:bcc7966b-54c8-41b6-a2f1-a75ea1abc87c
 URL:https://backstage.eu/wizo-wizo-bringt-das-licht-tour-2026-show-02.htm
  l
 DESCRIPTION:+ Support: Butterwegge

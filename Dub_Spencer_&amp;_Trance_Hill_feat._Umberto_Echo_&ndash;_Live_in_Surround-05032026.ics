@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260305T210000
 DTEND:20260305T230000
 SUMMARY:Dub Spencer & Trance Hill feat. Umberto Echo – Live in Surround
 TZID:Europe/Berlin
-UID:6e5ab05b-b5e7-4350-a47a-57acf0c208cc
+UID:bf7e61da-48f1-4e6b-8d2a-7e869a214b15
 URL:https://import-export.cc/event/dub-spencer-trance-hill-feat-umberto-e
  cho-live-in-surround/
 DESCRIPTION:

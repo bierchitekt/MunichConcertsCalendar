@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260927T200000
 DTEND:20260927T220000
 SUMMARY:The O’reillys And The Paddyhats - Wings & Gloves – Jubiläums-tour
   2026
 TZID:Europe/Berlin
-UID:ab851a37-c8f8-4900-917f-fa2c3ce9aada
+UID:f63135b2-d18f-428b-9f88-ec296d2a7428
 URL:https://backstage.eu/the-o-reillys-and-the-paddyhats-wings-gloves-jub
  ilaums-tour-2026.html
 DESCRIPTION:+ Very Special Guest

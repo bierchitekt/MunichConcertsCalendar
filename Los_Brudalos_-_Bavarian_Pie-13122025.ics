@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251213T200000
 DTEND:20251213T220000
 SUMMARY:Los Brudalos - Bavarian Pie
 TZID:Europe/Berlin
-UID:e8b11e6b-58c4-4474-a34e-4fed0ce4ddad
+UID:3b0eef13-f17c-43ae-a9cc-82a8c4a4ef2f
 URL:https://backstage.eu/los-brudalos-bavarian-pie.html
 DESCRIPTION:
 LOCATION:Backstage Halle

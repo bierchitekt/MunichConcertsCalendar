@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260812T200000
 DTEND:20260812T220000
 SUMMARY:Rose Tattoo - Rock’n’roll Outlaws – One Last Ride
 TZID:Europe/Berlin
-UID:bd4db8b7-570c-4eb8-ac45-9465d3a0464d
+UID:755a4f1b-2e50-431c-bdc8-3c1608526bc4
 URL:https://backstage.eu/rose-tattoo-rock-n-roll-outlaws-one-last-ride.ht
  ml
 DESCRIPTION:Presented By: Seaside Entertainment\, Rock Hard Magazine & Ro

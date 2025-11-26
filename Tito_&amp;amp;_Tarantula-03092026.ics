@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251126T172413Z
+DTSTART:20260903T203000
+DTEND:20260903T223000
+SUMMARY:Tito &amp\; Tarantula
+TZID:Europe/Berlin
+UID:bf8badf7-dbb1-4399-b61b-4fa8443d93b0
+URL:https://www.eventfabrik-muenchen.de/event/tito-tarantula/
+DESCRIPTION:
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260118T200000
 DTEND:20260118T220000
 SUMMARY:Knorkator - Aller Guten Dinge Sind 30! | Zusatzshow
 TZID:Europe/Berlin
-UID:e9832c92-44f8-4a66-b41b-30f72160f475
+UID:6aa9a2a5-d7bc-4429-8057-3e2da01dcb0f
 URL:https://backstage.eu/knorkator-aller-guten-dinge-sind-30-zusatzshow.h
  tml
 DESCRIPTION:Präsentiert Von Metal Hammer\, Rock Antenne\, Musix\, Schall.

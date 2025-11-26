@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260519T190000
 DTEND:20260519T210000
 SUMMARY:Gregor Hägele - Tour\, Was Du Nicht Lassen Kannst
 TZID:Europe/Berlin
-UID:2408a25e-6cfe-4e2c-a8a0-33a1c30c4342
+UID:2d5432e0-e847-4238-aba8-29df538ba20a
 URL:https://backstage.eu/gregor-hagele-tour-was-du-nicht-lassen-kannst.ht
  ml
 DESCRIPTION:

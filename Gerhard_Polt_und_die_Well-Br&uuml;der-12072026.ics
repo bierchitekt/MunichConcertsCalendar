@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260712T193000
 DTEND:20260712T213000
 SUMMARY:Gerhard Polt und die Well-Brüder
 TZID:Europe/Berlin
-UID:96954a04-b897-478d-b3e0-2945a1c4549a
+UID:8acc2a0d-10d8-4945-bfd4-5ed1cd47d035
 URL:https://www.tollwood.de/veranstaltungen/2026/gerhard-polt-und-die-wel
  l-brueder/
 DESCRIPTION:

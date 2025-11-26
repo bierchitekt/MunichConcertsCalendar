@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251126T172413Z
+DTSTART:20260313T200000
+DTEND:20260313T220000
+SUMMARY:Maximo Park - Live 2026 | Verlegt In Die Tonhalle
+TZID:Europe/Berlin
+UID:e57bdb3e-f07e-4e6d-9fe4-4871ff32043b
+URL:https://backstage.eu/maximo-park-live-2026.html
+DESCRIPTION:Maxïmo Park Feiern Im März 20 Jahre „a Certain Trigger“ Mit F
+ ünf Shows In Deutschland
+LOCATION:Tonhalle (werksviertel-mitte)
+END:VEVENT
+END:VCALENDAR

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260227T200000
 DTEND:20260227T220000
 SUMMARY:Heckspoiler - Bock Auf Stress Tour 2025/26
 TZID:Europe/Berlin
-UID:1ee42e66-8da5-4a2a-adfb-3efe73e381e7
+UID:30f23e20-fee6-4cc0-8f9a-a48be8674aee
 URL:https://backstage.eu/heckspoiler-bock-auf-stress-tour-2025-26.html
 DESCRIPTION:
 LOCATION:Backstage Club

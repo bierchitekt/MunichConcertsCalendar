@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260410T200000
 DTEND:20260410T220000
 SUMMARY:Gisbert zu Knyphausen und Kai Schumacher
 TZID:Europe/Berlin
-UID:dd722e80-78b8-4027-9910-2c026d0122f1
+UID:a36e0335-27aa-4d0c-be7b-be9c4c859701
 URL:https://www.muffatwerk.de/de/events/view/7819/gisbert-zu-knyphausen-u
  nd-kai-schumacher
 DESCRIPTION:

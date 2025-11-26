@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260314T193000
 DTEND:20260314T213000
 SUMMARY:Swiss & Die Andern - Punk Ist Tot Tour 2026 (sold Out)
 TZID:Europe/Berlin
-UID:d817e358-966b-4435-abad-ce5795a11798
+UID:82b3e9b7-fd9b-4d2f-b781-b0161e0856ed
 URL:https://backstage.eu/swiss-die-andern-punk-ist-tot-tour-2026.html
 DESCRIPTION:Rantanplan
 LOCATION:Backstage Werk

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260416T200000
 DTEND:20260416T220000
 SUMMARY:Lacazette - Alle Gegen Lucky Tour 2026
 TZID:Europe/Berlin
-UID:fa0cb8a1-090f-43f6-963a-4c5e88e3f500
+UID:941b4992-5861-4d79-8988-a2a58fedca01
 URL:https://backstage.eu/lacazette-alle-gegen-lucky-tour-2026.html
 DESCRIPTION:Das Konzert Findet In Der Tonhalle Statt. Atelierstraße 24\, 
  81671 München

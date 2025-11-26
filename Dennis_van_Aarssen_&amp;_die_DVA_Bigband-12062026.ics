@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260612T200000
 DTEND:20260612T220000
 SUMMARY:Dennis van Aarssen & die DVA Bigband
 TZID:Europe/Berlin
-UID:ea0907b5-c859-48d5-9aba-8e84f0ed3eb6
+UID:71dc7a05-83c1-4d32-9844-4cd8d4e149c5
 URL:https://www.muffatwerk.de/de/events/view/7809/dennis-van-aarssen-die-
  dva-bigband
 DESCRIPTION:

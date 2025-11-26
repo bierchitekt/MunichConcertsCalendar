@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251218T200000
 DTEND:20251218T220000
 SUMMARY:Fiddler`s Green - 35 Years Tour
 TZID:Europe/Berlin
-UID:60fca24a-0f75-4e45-a316-1651d7d9b99b
+UID:ee878587-8382-4620-b054-b3509b2b3591
 URL:https://backstage.eu/fiddler-s-green-35-years-tour.html
 DESCRIPTION:Jubiläumstour Von Fiddler's Green – 35 Jahre Auf Der Bühne!
 LOCATION:Backstage Werk

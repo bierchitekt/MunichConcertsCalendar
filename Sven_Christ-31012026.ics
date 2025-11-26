@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260131T230000
 DTEND:20260201T010000
 SUMMARY:Sven Christ
 TZID:Europe/Berlin
-UID:43fc6b61-eeef-4add-a3ee-5b8e78705d8a
+UID:a953f707-aa63-40db-92f3-b71f3dc2d7bc
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/31-01-2026_ele
  ktro-klub
 DESCRIPTION:Sven Christ\, derJ

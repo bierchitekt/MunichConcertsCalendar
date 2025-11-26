@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251206T230000
 DTEND:20251207T010000
 SUMMARY:I&I Dubwise Soundsystem
 TZID:Europe/Berlin
-UID:b3978b05-1799-4336-9a44-bd00efbcf5f3
+UID:af9ea237-2331-4d08-add6-7a55403a7f2b
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/06-12-2025_dub
  town
 DESCRIPTION:I&I Dubwise Soundsystem\, Ganja Riddim Soundsystem

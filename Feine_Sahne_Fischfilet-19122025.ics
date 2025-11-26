@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251219T190000
 DTEND:20251219T210000
 SUMMARY:Feine Sahne Fischfilet
 TZID:Europe/Berlin
-UID:c946c772-d8e8-4dd9-ace8-fab7b5cb43c7
+UID:c8bc6ed5-5982-4aad-8e67-414eb4386832
 URL:https://muenchen.motorworld.de/veranstaltungen/feine-sahne-fischfilet
  -2/
 DESCRIPTION:

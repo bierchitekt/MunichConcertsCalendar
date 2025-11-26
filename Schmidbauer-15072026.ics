@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260715T190000
 DTEND:20260715T210000
 SUMMARY:Schmidbauer
 TZID:Europe/Berlin
-UID:1eb2300f-7327-4677-ab74-e4d7d6671420
+UID:237e24e8-f007-48af-8909-ff877696f85b
 URL:https://www.tollwood.de/veranstaltungen/2026/schmidbauer-kaelberer-la
  den-ein-stoppok/
 DESCRIPTION:Kälberer mit Stoppok

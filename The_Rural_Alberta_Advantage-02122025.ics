@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251202T200000
 DTEND:20251202T220000
 SUMMARY:The Rural Alberta Advantage
 TZID:Europe/Berlin
-UID:fd5814a9-1842-4778-9eb3-0988e2157a9b
+UID:67cf47a5-a5ba-4462-b032-d7bdf04b5719
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/02-12-2025_the
  -rural-alberta-advantage
 DESCRIPTION:The Rural Alberta Advantage

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260108T200000
 DTEND:20260108T220000
 SUMMARY:Salewski Parlamenti: Releasekonzert
 TZID:Europe/Berlin
-UID:d4bfceca-1c92-424b-9053-ca6939e77c50
+UID:a957b9e3-a3cc-474d-a54d-83a58754f0de
 URL:https://import-export.cc/event/salewski-parlamenti-releasekonzert/
 DESCRIPTION:
 LOCATION:Import Export

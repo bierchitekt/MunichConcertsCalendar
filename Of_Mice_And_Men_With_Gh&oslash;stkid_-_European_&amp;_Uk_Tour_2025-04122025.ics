@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251204T193000
 DTEND:20251204T213000
 SUMMARY:Of Mice And Men With Ghøstkid - European & Uk Tour 2025
 TZID:Europe/Berlin
-UID:a119ff71-1796-48c9-a3c8-5b556c340f12
+UID:29dc459c-bb86-4af6-94ba-b78c38db9bf7
 URL:https://backstage.eu/of-mice-and-men-with-ghostkid-european-uk-tour-2
  025.html
 DESCRIPTION:+ Opener: Gore.

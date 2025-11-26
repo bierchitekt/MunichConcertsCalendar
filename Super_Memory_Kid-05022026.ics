@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251126T172413Z
+DTSTART:20260205T200000
+DTEND:20260205T220000
+SUMMARY:Super Memory Kid
+TZID:Europe/Berlin
+UID:042d02be-128e-4e49-8f32-182066be73fa
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/05-02-2026_sup
+ er-memory-kid-bloomer
+DESCRIPTION:Super Memory Kid\, Bloomer
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

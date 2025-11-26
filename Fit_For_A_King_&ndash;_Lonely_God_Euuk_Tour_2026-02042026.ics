@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260402T180000
 DTEND:20260402T200000
 SUMMARY:Fit For A King – Lonely God Eu/uk Tour 2026
 TZID:Europe/Berlin
-UID:052067a7-3816-43cb-9f8e-f698e83d518f
+UID:3e39a6a5-efae-4edd-bcc7-ec008f973a79
 URL:https://backstage.eu/fit-for-a-king-lonely-god-eu-uk-tour-2026.html
 DESCRIPTION:Memphis May Fire + Acres + 156/silence
 LOCATION:Tonhalle (werksviertel-mitte)

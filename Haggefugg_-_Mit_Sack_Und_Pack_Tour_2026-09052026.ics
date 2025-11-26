@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260509T200000
 DTEND:20260509T220000
 SUMMARY:Haggefugg - Mit Sack Und Pack Tour 2026
 TZID:Europe/Berlin
-UID:c284db83-a110-421d-9f6d-8a983c2aba68
+UID:f404c82d-ae91-42b3-8a2e-a1068bed5834
 URL:https://backstage.eu/haggefugg-mit-sack-und-pack-tour-2026.html
 DESCRIPTION:Haggefugg + Special Guest
 LOCATION:Backstage Club

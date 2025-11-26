@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260621T200000
 DTEND:20260621T220000
 SUMMARY:Touché Amoré - Stage Four 10 Year Anniversary
 TZID:Europe/Berlin
-UID:b7985995-1a14-4720-a99a-263b606bf067
+UID:06e4058a-a140-4d85-846c-3cd8ca143b0e
 URL:https://backstage.eu/touche-amore-stage-four-10-year-anniversary.html
  
 DESCRIPTION:Plus Special Guests

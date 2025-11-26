@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251207T153000
 DTEND:20251207T173000
 SUMMARY:Grove Street
 TZID:Europe/Berlin
-UID:bb8d63f7-8169-4320-a9b1-fc839055f9e8
+UID:9b96a902-dc1e-49bf-ba70-aa5d7bc6749c
 URL:https://www.kafekult.de/wordpress/event/grove-street-going-off-doomsd
  ay-deconvolution/
 DESCRIPTION:Going Off \,  Doomsday \,  Deconvolution

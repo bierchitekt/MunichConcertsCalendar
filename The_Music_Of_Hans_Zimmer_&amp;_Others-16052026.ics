@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260516T190000
 DTEND:20260516T210000
 SUMMARY:The Music Of Hans Zimmer & Others
 TZID:Europe/Berlin
-UID:b8347124-46be-4d70-a4cf-180bdb1d7c68
+UID:40dc12eb-0dd7-4506-b547-cc40e858e38c
 URL:https://bau.circus-krone.com/veranstaltungen/the-music-of-hans-zimmer
  -others/
 DESCRIPTION:

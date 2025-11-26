@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260109T200000
 DTEND:20260109T220000
 SUMMARY:Eddin -"23:59" Tour- | 35 Jahre Backstage
 TZID:Europe/Berlin
-UID:b1d57e1d-79f6-491b-913a-0e3015653695
+UID:e4e649b8-a05b-43b3-963d-a4fd15fde49b
 URL:https://backstage.eu/eddin-23-59-tour-35-jahre-backstage.html
 DESCRIPTION:Geburtstags-getränkespecials! | Eintritt Frei Für Die Backsta
  ge Veranstaltungen In Halle Und Club!

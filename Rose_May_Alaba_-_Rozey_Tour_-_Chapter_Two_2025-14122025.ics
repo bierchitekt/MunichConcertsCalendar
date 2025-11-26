@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251214T200000
 DTEND:20251214T220000
 SUMMARY:Rose May Alaba - Rozey Tour - Chapter Two 2025
 TZID:Europe/Berlin
-UID:fb8b4a42-4fb5-4e1c-ae91-8ebc7fd66020
+UID:f01f2f2a-905a-435a-8bf3-702d1e951384
 URL:https://backstage.eu/rose-may-alaba-rozey-tour-chapter-two-2025.html
 DESCRIPTION:+support: Meydo
 LOCATION:Backstage Club

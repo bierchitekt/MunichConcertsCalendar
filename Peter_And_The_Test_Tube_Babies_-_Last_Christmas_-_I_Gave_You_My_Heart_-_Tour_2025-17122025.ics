@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251217T200000
 DTEND:20251217T220000
 SUMMARY:Peter And The Test Tube Babies - Last Christmas - I Gave You My H
  eart - Tour 2025
 TZID:Europe/Berlin
-UID:c92a3f4f-7306-4372-b57b-02b57f5a0e18
+UID:74c14a0f-452b-4669-a726-9fefc7b058f6
 URL:https://backstage.eu/peter-and-the-test-tube-babies-live-2025.html
 DESCRIPTION:Neckarions
 LOCATION:Backstage Werk

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260124T193000
 DTEND:20260124T213000
 SUMMARY:Tbs - Rock\, Rap Und Zaubershow Tour 2026 | Ausverkauft
 TZID:Europe/Berlin
-UID:a05cb4ff-52dc-4b18-8935-a4e8794e21c4
+UID:fb716dc6-8de8-4290-a55c-73d40319f4a5
 URL:https://backstage.eu/tbs-rock-rap-und-zaubershow-tour-2026.html
 DESCRIPTION:Callejon
 LOCATION:Tonhalle (werksviertel-mitte)

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251126T172413Z
+DTSTART:20260718T140000
+DTEND:20260718T160000
+SUMMARY:Sommernachtstraum
+TZID:Europe/Berlin
+UID:7e1bde32-66b5-42b7-b77b-b1214a5a9a0f
+URL:https://www.olympiapark.de/de/veranstaltungen/sommernachtstraum-n5473
+ 
+DESCRIPTION:
+LOCATION:Olympiapark München
+END:VEVENT
+END:VCALENDAR

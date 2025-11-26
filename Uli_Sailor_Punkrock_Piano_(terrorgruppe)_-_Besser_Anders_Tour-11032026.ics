@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260311T200000
 DTEND:20260311T220000
 SUMMARY:Uli Sailor Punkrock Piano (terrorgruppe) - Besser Anders Tour
 TZID:Europe/Berlin
-UID:fc885feb-ce73-4e7f-bebd-79ced6187eaf
+UID:842a1105-7e1b-4d16-ade3-14355e0097f1
 URL:https://backstage.eu/uli-sailor-punkrock-piano-terrorgruppe-besser-an
  ders-tour.html
 DESCRIPTION:Von Orten

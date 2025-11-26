@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251205T200000
 DTEND:20251205T220000
 SUMMARY:Heischneida - 10 Jahre Heischneida
 TZID:Europe/Berlin
-UID:d177c879-a052-4050-99cf-72e2664719fa
+UID:9f21fd53-0cd5-409d-bbc9-da37a1e126a9
 URL:https://backstage.eu/heischneida-10-jahre-heischneida.html
 DESCRIPTION:Heischneida + Monaco F + Loisach Marci
 LOCATION:Backstage Halle

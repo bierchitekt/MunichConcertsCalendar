@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20261114T160000
 DTEND:20261114T180000
 SUMMARY:90s Super Show München
 TZID:Europe/Berlin
-UID:dbfdaed5-e639-4cdb-9613-d75d74cbcf9a
+UID:d079e8bd-dfab-4f6a-9bf4-aaf48994bb0b
 URL:https://www.olympiapark.de/de/veranstaltungen/90s-super-show-munchen-
  n5251
 DESCRIPTION:

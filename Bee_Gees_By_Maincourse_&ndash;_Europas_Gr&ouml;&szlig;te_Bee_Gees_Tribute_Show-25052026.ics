@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260525T193000
 DTEND:20260525T213000
 SUMMARY:Bee Gees By Maincourse – Europas Größte Bee Gees Tribute Show
 TZID:Europe/Berlin
-UID:4aa95cc4-a4bd-405a-beb6-22af5070855d
+UID:33fb0b7b-125d-4c2f-a6b0-e569d13aedab
 URL:https://bau.circus-krone.com/veranstaltungen/bee-gees-by-maincourse-e
  uropas-groesste-bee-gees-tribute-show/
 DESCRIPTION:

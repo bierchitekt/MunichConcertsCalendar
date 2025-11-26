@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260120T200000
 DTEND:20260120T220000
 SUMMARY:Beyond The Black - Rising High 2026
 TZID:Europe/Berlin
-UID:11fc60b4-be94-4a6b-8836-32e9b3a5f94b
+UID:22521baf-960d-4140-bf61-97034cc7a1c9
 URL:https://backstage.eu/beyond-the-black-rising-high-2026.html
 DESCRIPTION:Setyøursails
 LOCATION:Tonhalle (werksviertel-mitte)

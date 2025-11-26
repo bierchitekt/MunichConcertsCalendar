@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251214T190000
 DTEND:20251214T210000
 SUMMARY:Go Sing Choir - Weihnachtsspecial | 14.12.25
 TZID:Europe/Berlin
-UID:ffcd6737-fdf0-47ae-a042-4214ccb2c405
+UID:8e6de1fd-34b3-4283-9924-3b7143776b05
 URL:https://backstage.eu/go-sing-choir-weihnachtsspecial-14-12-25.html
 DESCRIPTION:Münchens Grösster Mitmach-popchor Jetzt In Der Backstage Aren
  a!

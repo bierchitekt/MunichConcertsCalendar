@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260216T200000
 DTEND:20260216T220000
 SUMMARY:The Last Dinner Party
 TZID:Europe/Berlin
-UID:54aae043-1d0d-4c26-941f-a52a4bb2cec2
+UID:ad39b043-e03b-4f97-bf6c-557f4bed11a9
 URL:https://muenchen.motorworld.de/veranstaltungen/the-last-dinner-party/
  
 DESCRIPTION:

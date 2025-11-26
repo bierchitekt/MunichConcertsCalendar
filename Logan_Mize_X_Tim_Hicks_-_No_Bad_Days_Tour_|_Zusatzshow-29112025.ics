@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251129T190000
 DTEND:20251129T210000
 SUMMARY:Logan Mize X Tim Hicks - No Bad Days Tour | Zusatzshow
 TZID:Europe/Berlin
-UID:5762a706-a197-4e00-b4ea-588dd4b19369
+UID:8291776e-c5d6-4d04-926d-38a2f8bbcf03
 URL:https://backstage.eu/logan-mize-x-tim-hicks-no-bad-days-tour-zusatzsh
  ow.html
 DESCRIPTION:Veranstalter: Semmel Concerts

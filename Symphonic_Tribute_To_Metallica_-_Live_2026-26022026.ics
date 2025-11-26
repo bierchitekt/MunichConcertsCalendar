@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260226T200000
 DTEND:20260226T220000
 SUMMARY:Symphonic Tribute To Metallica - Live 2026
 TZID:Europe/Berlin
-UID:93dd12eb-c1d4-41d0-8a14-3c3ba48113ee
+UID:18692d2d-91d5-4f42-9ba0-f9e0e52aa264
 URL:https://backstage.eu/symphonic-tribute-to-metallica-live-2026.html
 DESCRIPTION:Performed By Orion Band & Orchestra
 LOCATION:Backstage Halle

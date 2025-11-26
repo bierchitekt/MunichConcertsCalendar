@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260112T183000
 DTEND:20260112T203000
 SUMMARY:Patriarkh - The Prophet's Source 2026
 TZID:Europe/Berlin
-UID:67f64f25-2062-4f97-9aa8-0c12fa0b13f0
+UID:ab2a93e4-3aec-4021-a53f-1846a6e658d7
 URL:https://backstage.eu/patriarkh-the-prophet-s-source-2026.html
 DESCRIPTION:Patriarkh + Arkona + Hate + Halls Of Oblivion + Sanity
 LOCATION:Backstage Halle

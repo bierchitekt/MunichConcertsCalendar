@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260211T200000
 DTEND:20260211T220000
 SUMMARY:Pa Sports - Streben Nach Glück Tour | Verlegt Auf Den 11.02.26
 TZID:Europe/Berlin
-UID:d9e5eccf-1f1b-467a-8c3c-adca876f99c5
+UID:080b0fe7-b14c-4188-abc8-d205fff9a710
 URL:https://backstage.eu/pa-sports-die-echte-tour.html
 DESCRIPTION:Mucco
 LOCATION:Backstage Halle

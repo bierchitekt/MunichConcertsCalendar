@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172429Z
+DTSTAMP:20251126T172412Z
 DTSTART:20251129T200000
 DTEND:20251129T220000
 SUMMARY:My'tallica - Tribute To Metallica 2025
 TZID:Europe/Berlin
-UID:5cb5778e-8471-4db1-be49-e726bdea34c3
+UID:4e1ce5bb-345b-4d21-a5db-9a9f274b18a1
 URL:https://backstage.eu/my-tallica-tribute-to-metallica-2025.html
 DESCRIPTION:Hochverlegt Ins Werk!
 LOCATION:Backstage Werk

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260207T200000
 DTEND:20260207T220000
 SUMMARY:MUCke hilft Festival
 TZID:Europe/Berlin
-UID:e0def911-e4eb-4625-aff1-c2069a147190
+UID:32b612f1-9d0c-4de0-bc58-cf903c3a4415
 URL:https://www.kult9.de/veranstaltung/mucke-hilft-festival-mit-federnelk
  en-holzscheit-dasband/
 DESCRIPTION:

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260124T200000
 DTEND:20260124T220000
 SUMMARY:Devil's Hour
 TZID:Europe/Berlin
-UID:90f507c9-6591-43ae-8682-d924a07aef33
+UID:b5229974-8858-403e-a88d-c9820f84f3fd
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/24-01-2026_cal
  ling-from-the-cosmic-crypt-vol-4-devils-hour-polterwytch-ludgar-nahtmar
 DESCRIPTION:Devil's Hour\, Polterwytch\, Ludgar\, Nahtmar

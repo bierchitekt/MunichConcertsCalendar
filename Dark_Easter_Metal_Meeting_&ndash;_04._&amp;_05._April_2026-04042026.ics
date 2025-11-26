@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260404T143000
 DTEND:20260404T163000
 SUMMARY:Dark Easter Metal Meeting – 04. & 05. April 2026
 TZID:Europe/Berlin
-UID:01ea1d3e-d502-4ccc-85c9-69b33cf6fb2f
+UID:8fdd6c44-b5b4-4708-9df5-8e983bd0878c
 URL:https://backstage.eu/dark-easter-metal-meeting-04-05-april-2026.html
 DESCRIPTION:Triptykon + Blackbraid + Grave + Unleashed + 1914 + Thyrfing 
  + Enthroned + Firespawn + Vinterland + Urgehal + Secrets Of The Moon + S

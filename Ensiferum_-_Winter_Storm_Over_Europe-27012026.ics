@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260127T184500
 DTEND:20260127T204500
 SUMMARY:Ensiferum - Winter Storm Over Europe
 TZID:Europe/Berlin
-UID:88331fd0-7dcd-4392-8691-5597c019a5a1
+UID:a8dcbe87-73ea-4bcb-82fb-addec26c70bf
 URL:https://backstage.eu/ensiferum-live-2026.html
 DESCRIPTION:Ensiferum + Freedom Call + Dragony
 LOCATION:Backstage Werk

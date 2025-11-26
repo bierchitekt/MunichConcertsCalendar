@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260304T200000
 DTEND:20260304T220000
 SUMMARY:Shawn James - Flew Too Close To The Sun Tour
 TZID:Europe/Berlin
-UID:7ee363be-2d79-4231-a1e8-db98836b4e10
+UID:60acd371-ad27-4999-aafe-b0414cf8bfe8
 URL:https://backstage.eu/shawn-james-flew-too-close-to-the-sun-tour.html
 DESCRIPTION:
 LOCATION:Backstage Halle

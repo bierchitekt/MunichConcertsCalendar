@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260420T200000
 DTEND:20260420T220000
 SUMMARY:Only The Poets - And I’d Do It Again – The Debut Album Tour 2026
 TZID:Europe/Berlin
-UID:70a744c2-a6ca-4706-b107-a2e2d537c7eb
+UID:98d400a7-a5c3-4381-99e0-41a9eec137de
 URL:https://backstage.eu/only-the-poets-and-i-d-do-it-again-the-debut-alb
  um-tour-2026.html
 DESCRIPTION:Britische Band Im April Mit Debütalbum Für 5 Konzerte In Deut

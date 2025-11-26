@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172431Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260601T163000
 DTEND:20260601T183000
 SUMMARY:Pink Floyd’s – Dark Side Of The Moon
 TZID:Europe/Berlin
-UID:aa2edcc4-ea17-483a-9d4f-405daf0b8f7c
+UID:de18cea7-07de-49cf-99d2-13c7f11fe233
 URL:https://bau.circus-krone.com/veranstaltungen/pink-floyds-dark-side-of
  -the-moon/
 DESCRIPTION:

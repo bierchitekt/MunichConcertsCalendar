@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260206T200000
 DTEND:20260206T220000
 SUMMARY:Cryptopsy - All So Vile European Tour 2026
 TZID:Europe/Berlin
-UID:788afb93-b551-49e1-890c-aa26a4c09a62
+UID:b134ec19-207f-42d2-8830-6bb6b09f0684
 URL:https://backstage.eu/cryptopsy-all-so-vile-european-tour-2026.html
 DESCRIPTION:Celebrating 30 Years Of None So Vile
 LOCATION:Backstage Halle

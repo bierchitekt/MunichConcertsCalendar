@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251125T172430Z
+DTSTAMP:20251126T172413Z
 DTSTART:20260127T200000
 DTEND:20260127T220000
 SUMMARY:Devil May Care - Downfall-tour
 TZID:Europe/Berlin
-UID:ebcb1ab8-50e7-4c52-ae0c-5d9c3593af24
+UID:3ae432ea-cbe5-4300-bf6b-4aaec4fb4c03
 URL:https://backstage.eu/devil-may-care-downfall-tour.html
 DESCRIPTION:Oceandvst
 LOCATION:Backstage Club
