@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251127T172355Z
+DTSTART:20260504T203000
+DTEND:20260504T223000
+SUMMARY:Svalbard
+TZID:Europe/Berlin
+UID:b253df28-6b2c-45dc-8377-547e98a43cfc
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/04-05-2026_sva
+ lbard-svalbard
+DESCRIPTION:Svalbard
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

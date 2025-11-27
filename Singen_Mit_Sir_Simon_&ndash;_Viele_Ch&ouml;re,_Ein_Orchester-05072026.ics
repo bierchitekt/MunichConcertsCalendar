@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251127T172355Z
+DTSTART:20260705T170000
+DTEND:20260705T190000
+SUMMARY:Singen Mit Sir Simon – Viele Chöre\, Ein Orchester
+TZID:Europe/Berlin
+UID:331d34fa-5613-4f7f-9c26-3ab74a4512c1
+URL:https://bau.circus-krone.com/veranstaltungen/singen-mit-sir-simon-vie
+ le-choere-ein-orchester/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

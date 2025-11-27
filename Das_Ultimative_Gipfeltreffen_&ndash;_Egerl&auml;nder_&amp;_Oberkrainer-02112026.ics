@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251127T172355Z
+DTSTART:20261102T200000
+DTEND:20261102T220000
+SUMMARY:Das Ultimative Gipfeltreffen – Egerländer & Oberkrainer
+TZID:Europe/Berlin
+UID:dc0cff24-4aaf-4941-8f62-422f7de992a9
+URL:https://bau.circus-krone.com/veranstaltungen/das-ultimative-gipfeltre
+ ffen-egerlaender-oberkrainer/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
