@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251201T172434Z
+DTSTART:20261126T200000
+DTEND:20261126T220000
+SUMMARY:Pinhead - Egomessiah Release Shows | Verlegt Auf Den 26.11.26
+TZID:Europe/Berlin
+UID:2d8eb233-1046-4861-90f9-ef82941a2ab4
+URL:https://backstage.eu/pinhead-egomessiah-release-shows-2025.html
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
