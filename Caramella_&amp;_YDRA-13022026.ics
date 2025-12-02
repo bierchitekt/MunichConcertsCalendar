@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251202T172352Z
+DTSTART:20260213T200000
+DTEND:20260213T220000
+SUMMARY:Caramella & YDRA
+TZID:Europe/Berlin
+UID:e9e8dfb5-4289-47a6-8c8c-f972b59b77ca
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/13-02-2026_car
+ amella-und-ydra
+DESCRIPTION:Caramella & YDRA
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
