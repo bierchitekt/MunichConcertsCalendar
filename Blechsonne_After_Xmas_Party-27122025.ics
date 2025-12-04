@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251204T172404Z
+DTSTART:20251227T193000
+DTEND:20251227T213000
+SUMMARY:Blechsonne After Xmas Party
+TZID:Europe/Berlin
+UID:b7acd4eb-57bd-4058-bc6a-b310cb9fbc3a
+URL:https://import-export.cc/event/blechsonne-after-xmas-party/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

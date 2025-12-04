@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251204T172404Z
+DTSTART:20261207T200000
+DTEND:20261207T220000
+SUMMARY:Selig - Live 2026
+TZID:Europe/Berlin
+UID:205b9b37-593f-4710-a7cf-66ba811f64e9
+URL:https://backstage.eu/selig-live-2026.html
+DESCRIPTION:Selig Kehren Auf Tour Zurück Und Zelebrieren Ihre „epic Years
+ “
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

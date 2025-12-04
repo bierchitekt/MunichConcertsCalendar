@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251204T172404Z
+DTSTART:20260224T200000
+DTEND:20260224T220000
+SUMMARY:Faetooth
+TZID:Europe/Berlin
+UID:e5182843-fac3-44bf-834b-19b9128fa7e9
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/24-02-2026_fae
+ tooth
+DESCRIPTION:Faetooth\, Coltaine
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

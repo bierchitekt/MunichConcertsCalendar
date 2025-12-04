@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251204T172403Z
+DTSTART:20251212T193000
+DTEND:20251212T213000
+SUMMARY:Psychedelic Porn Funk Fundraiser
+TZID:Europe/Berlin
+UID:d7182177-c8e3-404b-9893-95c7395acfb1
+URL:https://import-export.cc/event/psychedelic-porn-funk-fundraiser/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
