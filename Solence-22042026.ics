@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251205T172352Z
+DTSTART:20260422T194500
+DTEND:20260422T214500
+SUMMARY:Solence
+TZID:Europe/Berlin
+UID:b8ae53c5-0399-4eeb-85f4-464e91db938f
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/22-04-2026_sol
+ ence-dream-state-written-by-wolves
+DESCRIPTION:Solence\, Dream State\, Written By Wolves
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

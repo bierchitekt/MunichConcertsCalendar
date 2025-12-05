@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251205T172352Z
+DTSTART:20270122T200000
+DTEND:20270122T220000
+SUMMARY:A Life Divided - The Closing Tour 2027
+TZID:Europe/Berlin
+UID:d97fcbac-7b29-47ba-b94f-853f920de469
+URL:https://backstage.eu/a-life-divided-the-closing-tour-2027.html
+DESCRIPTION:+ Special Guest
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

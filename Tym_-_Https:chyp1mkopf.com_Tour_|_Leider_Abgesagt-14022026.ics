@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251205T172352Z
+DTSTART:20260214T200000
+DTEND:20260214T220000
+SUMMARY:Tym - Https://chyp1mkopf.com Tour | Leider Abgesagt
+TZID:Europe/Berlin
+UID:627677f8-c473-4b2c-8ae3-e148d20a33ee
+URL:https://backstage.eu/tym-https-chyp1mkopf-com-tour-2025.html
+DESCRIPTION:
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
