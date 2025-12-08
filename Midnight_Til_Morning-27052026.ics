@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251208T172420Z
+DTSTART:20260527T200000
+DTEND:20260527T220000
+SUMMARY:Midnight Til Morning
+TZID:Europe/Berlin
+UID:024de3ff-ff1d-4148-8f1a-9f0fca1acc0f
+URL:https://www.muffatwerk.de/de/events/view/7875/midnight-til-morning
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR

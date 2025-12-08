@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251208T172420Z
+DTSTART:20260206T200000
+DTEND:20260206T220000
+SUMMARY:Cutting Borders - 1st Edition Acid Arab
+TZID:Europe/Berlin
+UID:35878773-61cc-4dc1-a0c6-e8439b7c669f
+URL:https://www.muffatwerk.de/de/events/view/7876/cutting-borders-1st-edi
+ tion-acid-arab
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR
