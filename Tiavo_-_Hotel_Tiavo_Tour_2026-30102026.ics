@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251209T172409Z
+DTSTART:20261030T190000
+DTEND:20261030T210000
+SUMMARY:Tiavo - Hotel Tiavo Tour 2026
+TZID:Europe/Berlin
+UID:4ccf72dc-c891-4514-85b7-dcd8ef4b644c
+URL:https://www.muffatwerk.de/de/events/view/7881/tiavo-hotel-tiavo-tour-
+ 2026
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR
