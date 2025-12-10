@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251210T155301Z
+DTSTART:20261020T193000
+DTEND:20261020T213000
+SUMMARY:Alin Coen
+TZID:Europe/Berlin
+UID:3ac2b76b-dabe-4cfa-b51f-2b54fd7fe8a4
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/20-10-2026_ali
+ n-coen
+DESCRIPTION:Alin Coen
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251210T155301Z
+DTSTART:20261117T200000
+DTEND:20261117T220000
+SUMMARY:Luke Combs Uk - The World's Leading Tribute To Luke Combs
+TZID:Europe/Berlin
+UID:f15299e0-879b-4e56-b6b0-d35ac6411a80
+URL:https://backstage.eu/luke-combs-uk-the-world-s-leading-tribute-to-luk
+ e-combs.html
+DESCRIPTION:Europas Ultimatives Country-tribute-erlebnis Im November 2026
+  Für Fünf Shows In Deutschland
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

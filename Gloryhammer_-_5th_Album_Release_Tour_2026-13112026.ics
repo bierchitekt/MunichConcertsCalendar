@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251210T155301Z
+DTSTART:20261113T190000
+DTEND:20261113T210000
+SUMMARY:Gloryhammer - 5th Album Release Tour 2026
+TZID:Europe/Berlin
+UID:eeecaaf3-14f9-4fe5-89a9-67b2fe7ccea8
+URL:https://backstage.eu/gloryhammer-5th-album-release-tour-2026.html
+DESCRIPTION:Gloryhammer + Majestica + Arion
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
