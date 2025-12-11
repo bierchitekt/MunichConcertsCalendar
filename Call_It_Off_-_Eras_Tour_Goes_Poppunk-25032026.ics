@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251211T172403Z
+DTSTART:20260325T200000
+DTEND:20260325T220000
+SUMMARY:Call It Off - Eras Tour Goes Poppunk
+TZID:Europe/Berlin
+UID:a9f2b24c-7555-4d34-803d-8879a7af330a
+URL:https://backstage.eu/call-it-off-eras-tour-goes-poppunk.html
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

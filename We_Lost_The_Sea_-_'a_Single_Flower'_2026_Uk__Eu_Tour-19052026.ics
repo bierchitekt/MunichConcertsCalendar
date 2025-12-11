@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251211T172403Z
+DTSTART:20260519T200000
+DTEND:20260519T220000
+SUMMARY:We Lost The Sea - 'a Single Flower' 2026 Uk / Eu Tour
+TZID:Europe/Berlin
+UID:fb640afc-caac-499e-b37a-e38499e37e36
+URL:https://backstage.eu/we-lost-the-sea-a-single-flower-2026-uk-eu-tour.
+ html
+DESCRIPTION:We Lost The Sea + Overhead\, The Albatross
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

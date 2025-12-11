@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251211T172403Z
+DTSTART:20260117T200000
+DTEND:20260117T220000
+SUMMARY:The Lutional
+TZID:Europe/Berlin
+UID:0949c1ad-44c0-46f9-8f2e-0674d46318b3
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/17-01-2026_run
+ ning-for-the-best
+DESCRIPTION:The Lutional\, Yuna\, ManFat\, Steikon
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
