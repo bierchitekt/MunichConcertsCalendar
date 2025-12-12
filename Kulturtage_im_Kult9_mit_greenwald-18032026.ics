@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251212T172406Z
+DTSTART:20260318T200000
+DTEND:20260318T220000
+SUMMARY:Kulturtage im Kult9 mit greenwald
+TZID:Europe/Berlin
+UID:1271c60f-95b3-4279-b2e4-069630f99f09
+URL:https://t.rausgegangen.de/tickets/shop/sun-king-music-artists-concert
+ s
+DESCRIPTION:
+LOCATION:Kult9
+END:VEVENT
+END:VCALENDAR

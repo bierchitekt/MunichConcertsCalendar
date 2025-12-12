@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251212T172406Z
+DTSTART:20260319T200000
+DTEND:20260319T220000
+SUMMARY:Kulturtage im Kult9 mit Daisy Dreams vs. Mote
+TZID:Europe/Berlin
+UID:7c3a8d6a-f467-437c-be3d-c24064bc5e6b
+URL:https://t.rausgegangen.de/tickets/shop/sun-king-music-artists-concert
+ s
+DESCRIPTION:
+LOCATION:Kult9
+END:VEVENT
+END:VCALENDAR

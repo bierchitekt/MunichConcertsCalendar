@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251212T172406Z
+DTSTART:20260320T200000
+DTEND:20260320T220000
+SUMMARY:Kulturtage im Kult9 mit Grace Nelly
+TZID:Europe/Berlin
+UID:87f0f7dc-6227-40cc-9d34-44cd31456357
+URL:https://t.rausgegangen.de/tickets/shop/sun-king-music-artists-concert
+ s
+DESCRIPTION:
+LOCATION:Kult9
+END:VEVENT
+END:VCALENDAR
