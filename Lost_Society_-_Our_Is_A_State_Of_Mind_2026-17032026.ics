@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251215T172337Z
+DTSTART:20260317T200000
+DTEND:20260317T220000
+SUMMARY:Lost Society - Our Is A State Of Mind 2026
+TZID:Europe/Berlin
+UID:3f0771aa-b31e-4cb3-bbe7-c607c99a71c0
+URL:https://backstage.eu/lost-society-our-is-a-state-of-mind-2026.html
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

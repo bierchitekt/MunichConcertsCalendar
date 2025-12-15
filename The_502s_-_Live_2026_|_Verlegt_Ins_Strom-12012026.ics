@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251215T172337Z
+DTSTART:20260112T200000
+DTEND:20260112T220000
+SUMMARY:The 502s - Live 2026 | Verlegt Ins Strom
+TZID:Europe/Berlin
+UID:09c40268-e554-4b98-b31c-952d39079f07
+URL:https://backstage.eu/the-502s-live-2026.html
+DESCRIPTION:Beach-folk-band Aus Florida Im Januar In Hamburg\, Köln Und M
+ ünchen
+LOCATION:Strom
+END:VEVENT
+END:VCALENDAR

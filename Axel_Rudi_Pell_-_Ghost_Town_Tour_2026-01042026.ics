@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251215T172337Z
+DTSTART:20260401T200000
+DTEND:20260401T220000
+SUMMARY:Axel Rudi Pell - Ghost Town Tour 2026
+TZID:Europe/Berlin
+UID:d2e36a75-fa2d-440c-a164-440b2c56ed1a
+URL:https://backstage.eu/axel-rudi-pell-ghost-town-tour-2026.html
+DESCRIPTION:Axel Rudi Pell + Neverland
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

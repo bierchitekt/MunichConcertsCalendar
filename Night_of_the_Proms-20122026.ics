@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251215T172337Z
+DTSTART:20261220T190000
+DTEND:20261220T210000
+SUMMARY:Night of the Proms
+TZID:Europe/Berlin
+UID:9b5043f3-965c-49ed-ae56-bcc172bad684
+URL:https://www.olympiapark.de/de/veranstaltungen/night-of-the-proms-n550
+ 0
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR
