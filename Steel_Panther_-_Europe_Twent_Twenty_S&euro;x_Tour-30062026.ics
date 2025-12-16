@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251216T172344Z
+DTSTART:20260630T200000
+DTEND:20260630T220000
+SUMMARY:Steel Panther - Europe Twent Twenty S€x Tour
+TZID:Europe/Berlin
+UID:7928ed9d-cb70-4909-bab2-d1c72ff26661
+URL:https://backstage.eu/steel-panther-europe-twent-twenty-s-x-tour.html
+DESCRIPTION:
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251216T172344Z
+DTSTART:20260426T200000
+DTEND:20260426T220000
+SUMMARY:Monsters Of Liedermaching - Aufnahmetour 2026
+TZID:Europe/Berlin
+UID:eb113c78-19f3-41ca-88a0-81c20a589dfc
+URL:https://backstage.eu/monsters-of-liedermaching-aufnahmetour-2026.html
+ 
+DESCRIPTION:Die Veranstaltung Ist Bestuhlt Bei Freier Platzwahl.
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

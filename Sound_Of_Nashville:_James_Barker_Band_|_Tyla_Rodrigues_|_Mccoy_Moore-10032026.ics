@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251216T172344Z
+DTSTART:20260310T190000
+DTEND:20260310T210000
+SUMMARY:Sound Of Nashville: James Barker Band | Tyla Rodrigues | Mccoy Mo
+ ore
+TZID:Europe/Berlin
+UID:857921b8-1304-4d69-85a4-20149cc58238
+URL:https://backstage.eu/sound-of-nashville-james-barker-band-tyla-rodrig
+ ues-mccoy-moore.html
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

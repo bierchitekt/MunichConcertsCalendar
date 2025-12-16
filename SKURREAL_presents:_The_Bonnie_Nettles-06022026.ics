@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251216T172344Z
+DTSTART:20260206T203000
+DTEND:20260206T223000
+SUMMARY:SKURREAL presents: The Bonnie Nettles
+TZID:Europe/Berlin
+UID:a3cd7a74-f169-4095-a4c7-b3387f51dbf9
+URL:https://import-export.cc/event/skurreal-presents-the-bonnie-nettles-m
+ idnight-rodeo/
+DESCRIPTION:Midnight Rodeo
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
