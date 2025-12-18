@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251218T172339Z
+DTSTART:20260312T200000
+DTEND:20260312T220000
+SUMMARY:Templar
+TZID:Europe/Berlin
+UID:0fe332d3-613d-4da4-9a92-423ca321caf8
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/12-03-2026_cal
+ ling-from-the-cosmic-crypt-falout-templar-surturian
+DESCRIPTION:Templar\, Falout\, Surturian
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

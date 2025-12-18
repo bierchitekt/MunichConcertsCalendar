@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251218T172339Z
+DTSTART:20260402T200000
+DTEND:20260402T220000
+SUMMARY:Munich Rocks! Fun For Free
+TZID:Europe/Berlin
+UID:c0b649c6-772b-4e0d-8b36-c454b4abbb49
+URL:https://www.muffatwerk.de/de/events/view/7900/munich-rocks-fun-for-fr
+ ee
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR

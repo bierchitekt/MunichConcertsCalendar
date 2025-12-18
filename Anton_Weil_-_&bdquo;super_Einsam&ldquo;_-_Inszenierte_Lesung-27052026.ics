@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251218T172339Z
+DTSTART:20260527T200000
+DTEND:20260527T220000
+SUMMARY:Anton Weil - „super Einsam“ - Inszenierte Lesung
+TZID:Europe/Berlin
+UID:9b37b1cd-728a-48df-9ec3-c17cddcc8b34
+URL:https://backstage.eu/anton-weil-anton-weils-super-einsam-inszenierte-
+ lesung.html
+DESCRIPTION:Die Veranstaltung Ist Bestuhlt Bei Freier Platzwahl.
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

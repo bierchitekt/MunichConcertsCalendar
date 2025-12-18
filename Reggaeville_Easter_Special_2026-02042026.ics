@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251217T211312Z
+DTSTART:20260402T200000
+DTEND:20260402T220000
+SUMMARY:Reggaeville Easter Special 2026
+TZID:Europe/Berlin
+UID:e588407b-852a-4984-85eb-3d3a6d8761b8
+URL:https://backstage.eu/reggaeville-easter-special-2026.html
+DESCRIPTION:Feat. Steel Pulse\, Alborosie\, Hempress Sativa
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

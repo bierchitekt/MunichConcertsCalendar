@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251217T211312Z
+DTSTART:20260206T220000
+DTEND:20260207T000000
+SUMMARY:Vereter
+TZID:Europe/Berlin
+UID:03b53e98-e018-48a1-a192-67088bdae334
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/06-02-2026_get
+ -rid
+DESCRIPTION:Vereter\, DJ Sprudelpanda\, DJ a*
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
