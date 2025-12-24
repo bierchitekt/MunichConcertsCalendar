@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251224T172406Z
+DTSTART:20260131T210000
+DTEND:20260131T230000
+SUMMARY:Hochzeitskapelle
+TZID:Europe/Berlin
+UID:53c44ec9-3746-40b3-916e-5a5a5883c9e0
+URL:https://import-export.cc/event/hochzeitskapelle-ta-mourmourakia-jasmi
+ n-christos-optimal-dj-team/
+DESCRIPTION:Ta Mourmourakia
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
