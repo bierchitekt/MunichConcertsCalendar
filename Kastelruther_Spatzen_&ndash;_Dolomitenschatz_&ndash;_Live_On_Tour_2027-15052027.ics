@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251225T172349Z
+DTSTART:20270515T193000
+DTEND:20270515T213000
+SUMMARY:Kastelruther Spatzen – Dolomitenschatz – Live On Tour 2027
+TZID:Europe/Berlin
+UID:14a6cf2c-c164-4330-a221-d946e38ec235
+URL:https://bau.circus-krone.com/veranstaltungen/kastelruther-spatzen-dol
+ omitenschatz-live-on-tour-2027/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
