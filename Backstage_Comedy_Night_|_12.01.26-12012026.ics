@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20251229T172343Z
+DTSTART:20260112T200000
+DTEND:20260112T220000
+SUMMARY:Backstage Comedy Night | 12.01.26
+TZID:Europe/Berlin
+UID:a23c2bc5-46ac-418c-949c-c7854eb30b3c
+URL:https://backstage.eu/backstage-comedy-night-12-01-26.html
+DESCRIPTION:By Steh Auf Comedy & Geistesblitz Comedy
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
