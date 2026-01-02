@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260102T172348Z
+DTSTART:20260521T200000
+DTEND:20260521T220000
+SUMMARY:Back Into Hell – A Tribute To Meat Loaf & Jim Steinman
+TZID:Europe/Berlin
+UID:f79ee419-f5ff-452e-92f6-18a10c4d9ef5
+URL:https://bau.circus-krone.com/veranstaltungen/back-into-hell-a-tribute
+ -to-meat-loaf-jim-steinman/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

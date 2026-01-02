@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260102T172348Z
+DTSTART:20270502T160000
+DTEND:20270502T180000
+SUMMARY:Schlager & Spaß Mit Andy Borg
+TZID:Europe/Berlin
+UID:e547ba4f-a99b-43ca-b2de-82a5ab7aceae
+URL:https://bau.circus-krone.com/veranstaltungen/schlager-spass-mit-andy-
+ borg/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
