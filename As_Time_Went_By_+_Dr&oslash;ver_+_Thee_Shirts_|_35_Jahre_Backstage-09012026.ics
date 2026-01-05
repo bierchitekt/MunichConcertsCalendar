@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260105T172338Z
+DTSTART:20260109T200000
+DTEND:20260109T220000
+SUMMARY:As Time Went By + Drøver + Thee Shirts | 35 Jahre Backstage
+TZID:Europe/Berlin
+UID:1c1fa9ee-711a-434a-9e33-c704773e5564
+URL:https://backstage.eu/blyte-35-jahre-backstage.html
+DESCRIPTION:Blyte Können Traurigerweise Leider Nicht Mehr Dabei Sein.
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
