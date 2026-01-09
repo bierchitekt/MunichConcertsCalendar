@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260109T172359Z
+DTSTART:20260314T210000
+DTEND:20260314T230000
+SUMMARY:Turkish Retro Night – İpek Özcan & Veys Çolak & Derdibol
+TZID:Europe/Berlin
+UID:fab07274-edb1-4e8f-be7d-b66e1842fd78
+URL:https://import-export.cc/event/turkish-retro-night-ipek-oezcan-veys-c
+ olak-derdibol-b-zey/
+DESCRIPTION:B-Zey
+LOCATION:IMPORT_EXPORT
+END:VEVENT
+END:VCALENDAR

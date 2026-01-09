@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260109T172400Z
+DTSTART:20260623T200000
+DTEND:20260623T220000
+SUMMARY:Anthony Lazaro
+TZID:Europe/Berlin
+UID:f3ca70bd-70c6-4fb9-b0e6-dddfa31e0554
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/23-06-2026_ant
+ hony-lazaro
+DESCRIPTION:Anthony Lazaro
+LOCATION:FEIERWERK
+END:VEVENT
+END:VCALENDAR
