@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260110T172332Z
+DTSTART:20260214T230000
+DTEND:20260215T010000
+SUMMARY:Sis Laura
+TZID:Europe/Berlin
+UID:24204670-49aa-4ad8-adb5-937480b149ab
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/14-02-2026_ome
+ ga-dub-circle
+DESCRIPTION:Sis Laura\, Dr. Miggy on the flute\, Siren Sisters Soundsyste
+ m
+LOCATION:FEIERWERK
+END:VEVENT
+END:VCALENDAR
