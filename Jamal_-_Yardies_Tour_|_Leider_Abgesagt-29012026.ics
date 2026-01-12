@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260111T180307Z
+DTSTART:20260129T200000
+DTEND:20260129T220000
+SUMMARY:Jamal - Yardies Tour | Leider Abgesagt
+TZID:Europe/Berlin
+UID:57f359fd-25b2-45db-b37a-0c98f8deb4d3
+URL:https://backstage.eu/jamal-yardies-tour.html
+DESCRIPTION:Die Veranstaltung Musste Abgesagt Werden. Tickets Können An D
+ en Jeweiligen Vvk Stellen Zurückgegeben Werden.
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

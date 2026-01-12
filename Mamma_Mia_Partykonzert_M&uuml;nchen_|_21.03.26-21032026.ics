@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260112T172343Z
+DTSTART:20260321T193000
+DTEND:20260321T213000
+SUMMARY:Mamma Mia Party/konzert München | 21.03.26
+TZID:Europe/Berlin
+UID:2972e133-a6a8-436c-9a8d-86387714debd
+URL:https://backstage.eu/mamma-mia-party-konzert-munchen-21-03-26.html
+DESCRIPTION:Veranstalter: Ipartypeople
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
