@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260113T172358Z
+DTSTART:20260220T230000
+DTEND:20260221T010000
+SUMMARY:Bambi Uzi
+TZID:Europe/Berlin
+UID:338ebb22-db50-41cb-8c4b-3da6e8ee513d
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/20-02-2026_bre
+ ak-it-down
+DESCRIPTION:Bambi Uzi\, Alegria\, Tigra\, Moebius\, Kit Curse
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260113T172358Z
+DTSTART:20260205T200000
+DTEND:20260205T220000
+SUMMARY:Backstage Comedy Night | 05.02.26
+TZID:Europe/Berlin
+UID:64a271fb-9ca1-4da0-8ee8-6f0eaca5e014
+URL:https://backstage.eu/backstage-comedy-night-05-02-26.html
+DESCRIPTION:By Steh Auf Comedy & Geistesblitz Comedy
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
