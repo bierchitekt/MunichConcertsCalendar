@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260114T172417Z
+DTSTART:20260313T200000
+DTEND:20260313T220000
+SUMMARY:Japanische Kampfhörspiele
+TZID:Europe/Berlin
+UID:d3893e11-36f4-4005-a035-a47b9260cc41
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/13-03-2026_cha
+ os-blast-japanische-kampfhoerspiele-vor-die-hunde
+DESCRIPTION:Japanische Kampfhörspiele\, Vor die Hunde
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
