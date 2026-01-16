@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260116T172344Z
+DTSTART:20260502T190000
+DTEND:20260502T210000
+SUMMARY:Phanta$y
+TZID:Europe/Berlin
+UID:22ecf878-c718-46ef-bea0-efdee2813695
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/02-05-2026_pha
+ nta-y-und-chris-rain
+DESCRIPTION:Phanta$y\, Chris Rain
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260116T172344Z
+DTSTART:20260530T200000
+DTEND:20260530T220000
+SUMMARY:Black Hole Crumble
+TZID:Europe/Berlin
+UID:a84f3f2f-3bfc-4458-ba0b-5752c688bc0e
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/30-05-2026_bla
+ ck-hole-crumble
+DESCRIPTION:Black Hole Crumble
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

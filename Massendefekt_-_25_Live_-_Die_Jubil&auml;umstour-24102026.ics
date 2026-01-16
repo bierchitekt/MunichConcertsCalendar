@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260115T174426Z
+DTSTART:20261024T200000
+DTEND:20261024T220000
+SUMMARY:Massendefekt - 25 Live - Die Jubiläumstour
+TZID:Europe/Berlin
+UID:0446d30c-4b80-4b39-94a4-6eca399db441
+URL:https://backstage.eu/massendefekt-25-live-die-jubilaumstour.html
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260116T172344Z
+DTSTART:20260227T210000
+DTEND:20260227T230000
+SUMMARY:Dna. Pres. The Warehouse Weekender I
+TZID:Europe/Berlin
+UID:9a7327ae-a98e-4f96-9007-773effd45fce
+URL:https://www.eventfabrik-muenchen.de/event/dna-pres-the-warehouse-week
+ ender-i/
+DESCRIPTION:
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR

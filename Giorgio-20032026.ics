@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260116T172344Z
+DTSTART:20260320T220000
+DTEND:20260321T000000
+SUMMARY:Giorgio
+TZID:Europe/Berlin
+UID:579a113c-72b2-44b5-808f-2562c8968cc0
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/20-03-2026_dee
+ p-down-dirty-giorgio-noah-sg4ry-enteramin-tiara-linedancer
+DESCRIPTION:Giorgio\, Noah\, sG4rY\, Enteramin\, Tiara\, Linedancer
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
