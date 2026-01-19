@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260119T172410Z
+DTSTART:20260523T200000
+DTEND:20260523T220000
+SUMMARY:Stormhammer - Release Show: Wrath Of The Hammer
+TZID:Europe/Berlin
+UID:71e007d4-baa0-40cd-ae30-4b3255bc0d82
+URL:https://backstage.eu/stormhammer-release-show-wrath-of-the-hammer.htm
+ l
+DESCRIPTION:Stormhammer + Legacy Reborn + Invictus
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

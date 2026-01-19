@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260119T172410Z
+DTSTART:20260321T230000
+DTEND:20260322T010000
+SUMMARY:Phenom
+TZID:Europe/Berlin
+UID:edca8446-c913-4a34-a71b-669ca460db53
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/21-03-2026_fra
+ ktvred-phenom-winterflood-phasebound-kamikatze-polaster-dubshroud
+DESCRIPTION:Phenom\, Winterflood\, phasebound\, KamiKatze\, Polaster\, Du
+ bshroud
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
