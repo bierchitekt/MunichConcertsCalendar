@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260121T172400Z
+DTSTART:20260617T200000
+DTEND:20260617T220000
+SUMMARY:Six Feet Under - Live 2026
+TZID:Europe/Berlin
+UID:14859fbe-9295-49da-8c56-388ea8825a50
+URL:https://backstage.eu/six-feet-under-live-2026.html
+DESCRIPTION:Six Feet Under: Endlich Zurück Auf Den Deutschen Live-bühnen!
+  Große Tour Im Juni Zum 15. Album\, Darunter Sechs Deutschland-shows
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

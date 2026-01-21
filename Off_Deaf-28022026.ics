@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260121T172400Z
+DTSTART:20260228T210000
+DTEND:20260228T230000
+SUMMARY:Off Deaf
+TZID:Europe/Berlin
+UID:a54713a2-b3af-44b7-aa39-db26a600eecc
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/28-02-2026_sch
+ lecht-und-schwindlig
+DESCRIPTION:Off Deaf\, Die Klobürsten\, Cluster Bomb Unit
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

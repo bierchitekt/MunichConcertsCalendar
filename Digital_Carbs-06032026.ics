@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260121T172400Z
+DTSTART:20260306T210000
+DTEND:20260306T230000
+SUMMARY:Digital Carbs
+TZID:Europe/Berlin
+UID:bbb42289-c8d2-4763-9dde-1141f82c16b4
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/06-03-2026_zom
+ bie-sessions
+DESCRIPTION:Digital Carbs\, Scudici
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
