@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260122T172408Z
+DTSTART:20260306T210000
+DTEND:20260306T230000
+SUMMARY:Zum Feministischen Kampftag: Lemongrab
+TZID:Europe/Berlin
+UID:de01eadc-5058-4df8-a445-98a8c27dfafe
+URL:https://import-export.cc/event/zum-feministischen-kampftag-lemongrab-
+ principess/
+DESCRIPTION:Principess
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
