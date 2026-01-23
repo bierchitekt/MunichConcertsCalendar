@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260123T172347Z
+DTSTART:20260308T190000
+DTEND:20260308T210000
+SUMMARY:Zum Feministischen Kampftag: Farida Amadou
+TZID:Europe/Berlin
+UID:46a77bd8-71ce-4b11-93b1-a07be7a53944
+URL:https://import-export.cc/event/farida-amadou-fallwander-marja-burchar
+ d-und-simon-popp/
+DESCRIPTION:Fallwander
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
