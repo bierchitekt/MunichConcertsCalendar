@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260124T172339Z
+DTSTART:20260124T200000
+DTEND:20260124T220000
+SUMMARY:Wird Verlegt: Neuer Termin Tba: Marathonmann – Poltergeist: Zuhau
+ se
+TZID:Europe/Berlin
+UID:23f152bc-b4c6-4555-a1ef-20bef894870c
+URL:https://backstage.eu/marathonmann-gaste-poltergeist-zuhause.html
+DESCRIPTION:Krankheitsbedingt Kann Die Show Heute Leider Nicht Stattfinde
+ n! Neuer Termin: Tba. | Tickets Bleiben Gültig!
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR
