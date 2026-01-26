@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260126T172317Z
+DTSTART:20260206T200000
+DTEND:20260206T220000
+SUMMARY:Koma Amed - Live 2026 | Leider Abgesagt
+TZID:Europe/Berlin
+UID:c691822a-ea3c-4238-bea4-5848aa05a0db
+URL:https://backstage.eu/koma-amed-live-2026.html
+DESCRIPTION:Die Veranstaltung Musste Abgesagt Werden. Tickets Können An D
+ en Jeweiligen Vvk Stellen Zurückgegeben Werden.
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
