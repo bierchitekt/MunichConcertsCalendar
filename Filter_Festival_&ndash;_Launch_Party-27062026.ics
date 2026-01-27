@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260127T172336Z
+DTSTART:20260627T190000
+DTEND:20260627T210000
+SUMMARY:Filter Festival – Launch Party
+TZID:Europe/Berlin
+UID:438d83ed-56d5-4fcc-aca5-b63f88d14ca0
+URL:https://strom-muc.de/event/filter-festival-launch-party/
+DESCRIPTION:
+LOCATION:Strom
+END:VEVENT
+END:VCALENDAR

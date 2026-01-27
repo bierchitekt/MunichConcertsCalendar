@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260127T172336Z
+DTSTART:20261201T190000
+DTEND:20261201T210000
+SUMMARY:Sarah Brightman - Christmas Spectacle
+TZID:Europe/Berlin
+UID:ca30280e-a48b-4b37-915d-25a4ec5e750b
+URL:https://www.olympiapark.de/de/veranstaltungen/sarah-brightman-christm
+ as-spectacle-n5534
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR
