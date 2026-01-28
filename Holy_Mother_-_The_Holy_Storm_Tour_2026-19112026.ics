@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260128T172312Z
+DTSTART:20261119T200000
+DTEND:20261119T220000
+SUMMARY:Holy Mother - The Holy Storm Tour 2026
+TZID:Europe/Berlin
+UID:4b8d9d32-67f1-4a69-9469-b64049c8d98c
+URL:https://backstage.eu/holy-mother-the-holy-storm-tour-2026.html
+DESCRIPTION:Legendäre Heavy-metal-band Startet „the Holy Storm Tour 2026“
+ 
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

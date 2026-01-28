@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260128T172312Z
+DTSTART:20260218T193000
+DTEND:20260218T213000
+SUMMARY:Politischer Aschermittwoch | 18.02.26
+TZID:Europe/Berlin
+UID:32d715c7-8835-4cc9-b701-492145a8a2e7
+URL:https://backstage.eu/politischer-aschermittwoch-18-02-26.html
+DESCRIPTION:Mit Roland Hefter\, Kathrin Abele Und Christin Köning
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

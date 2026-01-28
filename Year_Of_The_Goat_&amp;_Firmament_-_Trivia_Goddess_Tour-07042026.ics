@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260128T172312Z
+DTSTART:20260407T200000
+DTEND:20260407T220000
+SUMMARY:Year Of The Goat & Firmament - Trivia Goddess Tour
+TZID:Europe/Berlin
+UID:82cd2a61-0c4f-462b-994c-f32eeaf262aa
+URL:https://backstage.eu/year-of-the-goat-firmament-trivia-goddess-tour.h
+ tml
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
