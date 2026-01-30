@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260130T172343Z
+DTSTART:20261019T200000
+DTEND:20261019T220000
+SUMMARY:Jamie Grey
+TZID:Europe/Berlin
+UID:1f609e20-d11b-42f0-86dd-9bccab29cff8
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/19-10-2026_jam
+ ie-grey
+DESCRIPTION:Jamie Grey
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
