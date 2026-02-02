@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260202T172347Z
+DTSTART:20261123T200000
+DTEND:20261123T220000
+SUMMARY:Krashkarma - Enter The Exit Tour 2026
+TZID:Europe/Berlin
+UID:75eb9e7b-0ada-44a1-ba2d-af059991e40c
+URL:https://backstage.eu/krashkarma-enter-the-exit-tour-2026.html
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
