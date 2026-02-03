@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260203T172336Z
+DTSTART:20260214T190000
+DTEND:20260214T210000
+SUMMARY:Sofi & Flo
+TZID:Europe/Berlin
+UID:3a05737b-37fc-46ec-bf1f-4dcacff3349a
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/14-02-2026_cof
+ fee-und-cake-festival-tag-2-sofi-und-flo-leol-tina-menger-ruediger-sinn-
+ und-freunde
+DESCRIPTION:Sofi & Flo\, LEOL\, Tina Menger\, Rüdiger Sinn & Freunde
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
