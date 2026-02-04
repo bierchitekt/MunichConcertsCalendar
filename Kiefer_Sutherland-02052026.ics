@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260204T172334Z
+DTSTART:20260502T200000
+DTEND:20260502T220000
+SUMMARY:Kiefer Sutherland
+TZID:Europe/Berlin
+UID:f67e0736-cbef-401f-ba0b-e4e19e20dc24
+URL:https://muenchen.motorworld.de/veranstaltungen/kiefer-sutherland/
+DESCRIPTION:Colin Andrew – München-Termin: 02. Mai 2026\, Kesselhaus – ne
+ ues Album Grey erscheint im Frühjahr
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR
