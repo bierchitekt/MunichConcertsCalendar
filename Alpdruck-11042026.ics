@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260207T172336Z
+DTSTART:20260411T200000
+DTEND:20260411T220000
+SUMMARY:Alpdruck
+TZID:Europe/Berlin
+UID:ecf6cde7-b810-485c-857b-48a8189b60a6
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/11-04-2026_ket
+ tenrasseln-vol-2-alpdruck-misstraeu-wampyric-wrath-beschwoerung
+DESCRIPTION:Alpdruck\, Mißträu\, Wampyric Wrath\, Beschwoerung
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
