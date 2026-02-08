@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260208T172400Z
+DTSTART:20260226T193000
+DTEND:20260226T213000
+SUMMARY:Absent From The Morning Headcount
+TZID:Europe/Berlin
+UID:faa70684-debc-4421-ba5a-e25a766f9f7b
+URL:https://www.kafekult.de/wordpress/event/absent-from-the-morning-headc
+ ount-wicked-game-stranded-in-dog-city/
+DESCRIPTION:Wicked Game \,  Stranded In Dog City
+LOCATION:kafekult
+END:VEVENT
+END:VCALENDAR

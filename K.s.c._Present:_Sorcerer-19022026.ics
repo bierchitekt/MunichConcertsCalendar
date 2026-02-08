@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260208T172400Z
+DTSTART:20260219T193000
+DTEND:20260219T213000
+SUMMARY:K.s.c. Present: Sorcerer
+TZID:Europe/Berlin
+UID:d6969f48-a7df-4473-9db0-64713d2ac24f
+URL:https://www.kafekult.de/wordpress/event/k-s-c-present-sorcerer-no-rel
+ ief-scattered-mind/
+DESCRIPTION:No Relief \,  Scattered Mind
+LOCATION:kafekult
+END:VEVENT
+END:VCALENDAR
