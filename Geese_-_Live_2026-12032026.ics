@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260210T172326Z
+DTSTART:20260312T200000
+DTEND:20260312T220000
+SUMMARY:Geese - Live 2026
+TZID:Europe/Berlin
+UID:006f079d-c25f-45d3-b927-67eb71e3ef54
+URL:https://backstage.eu/geese-live-2026.html
+DESCRIPTION:Geese Kommen Mit Drittem Album „getting Killed“ Im März 2026 
+ Nach Deutschland
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
