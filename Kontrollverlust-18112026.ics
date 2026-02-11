@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260211T172336Z
+DTSTART:20261118T193000
+DTEND:20261118T213000
+SUMMARY:Kontrollverlust
+TZID:Europe/Berlin
+UID:1411d4d3-ad10-4fa3-8e14-903c388c59a6
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/18-11-2026_kon
+ trollverlust
+DESCRIPTION:Kontrollverlust
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260211T172336Z
+DTSTART:20260319T203000
+DTEND:20260319T223000
+SUMMARY:xoxoparadise: KELPY CATHEDRAL
+TZID:Europe/Berlin
+UID:86c69e9f-29ab-4f49-818e-204f4f9dbd5e
+URL:https://import-export.cc/event/xoxoparadise-kelpy-cathedral-3a3h3n3d3
+ i-cy-x-xoxosasha-softviolet/
+DESCRIPTION:3a3h3n3d3i
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

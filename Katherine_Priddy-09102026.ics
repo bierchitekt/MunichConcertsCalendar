@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260211T172336Z
+DTSTART:20261009T200000
+DTEND:20261009T220000
+SUMMARY:Katherine Priddy
+TZID:Europe/Berlin
+UID:7853a81e-2eaf-42b2-8072-8bce5543e7e5
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/09-10-2026_kat
+ herine-priddy
+DESCRIPTION:Katherine Priddy
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
