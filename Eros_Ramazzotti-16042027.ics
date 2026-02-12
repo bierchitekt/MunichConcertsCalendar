@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260212T172356Z
+DTSTART:20270416T180000
+DTEND:20270416T200000
+SUMMARY:Eros Ramazzotti
+TZID:Europe/Berlin
+UID:a105c6b4-d9ae-46e8-b5bf-36ed9bec4d19
+URL:https://www.olympiapark.de/de/veranstaltungen/eros-ramazzotti-n5558
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR

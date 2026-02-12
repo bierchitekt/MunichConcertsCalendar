@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260212T172356Z
+DTSTART:20260315T190000
+DTEND:20260315T210000
+SUMMARY:Go Sing Choir | 15.03.26
+TZID:Europe/Berlin
+UID:ca9a2bb5-0b7c-4597-bf86-1f98314047f6
+URL:https://backstage.eu/go-sing-choir-15-03-26.html
+DESCRIPTION:Münchens Grösster Mitmach-popchor In Der Backstage Arena!
+LOCATION:Backstage Arena
+END:VEVENT
+END:VCALENDAR

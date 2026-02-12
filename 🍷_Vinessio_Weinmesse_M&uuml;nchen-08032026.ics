@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260212T172356Z
+DTSTART:20260308T120000
+DTEND:20260308T140000
+SUMMARY:🍷 Vinessio Weinmesse München
+TZID:Europe/Berlin
+UID:cc0814ca-a4ff-4d85-8037-7e1ce1acfb6a
+URL:https://muenchen.motorworld.de/veranstaltungen/%f0%9f%8d%b7-vinessio-
+ weinmesse-muenchen/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR
