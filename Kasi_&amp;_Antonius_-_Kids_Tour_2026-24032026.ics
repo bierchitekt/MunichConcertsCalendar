@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260213T172346Z
+DTSTART:20260324T200000
+DTEND:20260324T220000
+SUMMARY:Kasi & Antonius - Kids Tour 2026
+TZID:Europe/Berlin
+UID:addb7bc0-2158-44a0-8e41-d5f16766a541
+URL:https://backstage.eu/kasi-antonius-kids-tour-2026.html
+DESCRIPTION:Verlegt Von Der Tonhalle Ins Backstage Werk - Tickets Behalte
+ n Ihre Gültigkeit!
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
