@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260216T172332Z
+DTSTART:20260413T203000
+DTEND:20260413T223000
+SUMMARY:SKURREAL presents: Glyders
+TZID:Europe/Berlin
+UID:a080c3d2-b2db-48de-88fc-4c2a64a471c2
+URL:https://import-export.cc/event/skurreal-presents-glyders-thomas-green
+ wood-the-talismans/
+DESCRIPTION:Thomas Greenwood & The Talismans
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

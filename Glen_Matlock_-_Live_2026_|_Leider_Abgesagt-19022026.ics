@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260215T193729Z
+DTSTART:20260219T200000
+DTEND:20260219T220000
+SUMMARY:Glen Matlock - Live 2026 | Leider Abgesagt
+TZID:Europe/Berlin
+UID:ce797063-8e81-40dc-87d4-28fbe3403d02
+URL:https://backstage.eu/glen-matlock-live-2026.html
+DESCRIPTION:Glen Matlock Kommt Im Februar 2026 Mit Band Auf Exklusiver Cl
+ ubtour Nach Deutschland Und Österreich!
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260216T172332Z
+DTSTART:20260410T220000
+DTEND:20260411T000000
+SUMMARY:La Loakaii
+TZID:Europe/Berlin
+UID:ae6ae9aa-b236-44a2-a93c-3bbf6a2945bb
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/10-04-2026_eis
+ bach-callin
+DESCRIPTION:La Loakaii\, Fattony\, Moebius\, Noise Colors\, Miso
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

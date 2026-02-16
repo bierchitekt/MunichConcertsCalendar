@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260215T193729Z
+DTSTART:20260522T200000
+DTEND:20260522T220000
+SUMMARY:Juliano - Auf Die Geile Tour | Leider Abgesagt
+TZID:Europe/Berlin
+UID:e5325bfe-a5bd-4795-8bd6-e74a6f50eda9
+URL:https://backstage.eu/juliano-auf-die-geile-tour.html
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

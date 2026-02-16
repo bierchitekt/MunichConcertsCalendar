@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260216T172332Z
+DTSTART:20261020T200000
+DTEND:20261020T220000
+SUMMARY:Audrey Horne - "european Album Tour 2026"
+TZID:Europe/Berlin
+UID:34540a8c-87a7-4e2e-a075-ca3cb744c5b8
+URL:https://backstage.eu/audrey-horne-european-album-tour-2026.html
+DESCRIPTION:Motorowl
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR
