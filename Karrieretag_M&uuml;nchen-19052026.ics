@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260217T172330Z
+DTSTART:20260519T100000
+DTEND:20260519T120000
+SUMMARY:Karrieretag München
+TZID:Europe/Berlin
+UID:8bdd7363-487c-4a82-be77-c3e42dcba4c7
+URL:https://muenchen.motorworld.de/veranstaltungen/karrieretag-muenchen-2
+ /
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

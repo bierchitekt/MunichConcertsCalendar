@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260217T172330Z
+DTSTART:20260612T200000
+DTEND:20260612T220000
+SUMMARY:Dennis Van Aarssen
+TZID:Europe/Berlin
+UID:aca7cf06-90d4-4d6e-aa42-72bc7ac5a379
+URL:https://www.eventfabrik-muenchen.de/event/dennis-van-aarssen/
+DESCRIPTION:
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR
