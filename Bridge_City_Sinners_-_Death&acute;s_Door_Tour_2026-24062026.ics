@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260218T172329Z
+DTSTART:20260624T200000
+DTEND:20260624T220000
+SUMMARY:Bridge City Sinners - Death´s Door Tour 2026
+TZID:Europe/Berlin
+UID:16fa8165-1dec-416f-8841-128e5ec6ea93
+URL:https://backstage.eu/bridge-city-sinners-death-s-door-tour-2026.html
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR
