@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260219T172337Z
+DTSTART:20260221T190000
+DTEND:20260221T210000
+SUMMARY:Sanguisugabogg - European Tour 2026 | Ausverkauft
+TZID:Europe/Berlin
+UID:2b8beccc-bd53-4182-81b2-d385da97eec1
+URL:https://backstage.eu/sanguisugabogg-european-tour-2026.html
+DESCRIPTION:Fulci + Gates To Hell + Celestial Sanctuary
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

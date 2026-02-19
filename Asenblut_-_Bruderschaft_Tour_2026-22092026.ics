@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260219T172337Z
+DTSTART:20260922T200000
+DTEND:20260922T220000
+SUMMARY:Asenblut - Bruderschaft Tour 2026
+TZID:Europe/Berlin
+UID:4f4790ad-77bf-40a8-a751-5f516d8828fe
+URL:https://backstage.eu/asenblut-bruderschaft-tour-2026.html
+DESCRIPTION:Flammenmeer + Subfire
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
