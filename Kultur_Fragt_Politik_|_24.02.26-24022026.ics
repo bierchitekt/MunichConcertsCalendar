@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260220T172326Z
+DTSTART:20260224T190000
+DTEND:20260224T210000
+SUMMARY:Kultur Fragt Politik | 24.02.26
+TZID:Europe/Berlin
+UID:56b6a4bd-384b-4e84-9560-9fdb6adf49ef
+URL:https://backstage.eu/kultur-fragt-politik-24-02-26.html
+DESCRIPTION:Podiumsdiskussion Zur Kommunalwahl
+LOCATION:Backstage Arena
+END:VEVENT
+END:VCALENDAR
