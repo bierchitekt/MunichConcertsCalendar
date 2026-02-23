@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260223T172327Z
+DTSTART:20261219T173000
+DTEND:20261219T193000
+SUMMARY:Diabolic Night
+TZID:Europe/Berlin
+UID:f1daaead-0c71-4ba8-9ff4-b5392ad6ac90
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/19-12-2026_nec
+ rosabbat-ritual-v-duesenjaeger-diabolic-night-venator-hexer-schlingen-tr
+ ansilvania
+DESCRIPTION:Diabolic Night\, Venator\, Transilvania\, Hexer\, Düsenjäger\
+ , Schlingen
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

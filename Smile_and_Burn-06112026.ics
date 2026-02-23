@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260223T172327Z
+DTSTART:20261106T200000
+DTEND:20261106T220000
+SUMMARY:Smile and Burn
+TZID:Europe/Berlin
+UID:9f25acd9-7c3d-4cc5-94da-896b59f4a27a
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/06-11-2026_hap
+ py-place-tour-smile-and-burn-plaiins-the-pill
+DESCRIPTION:Smile and Burn\, PLAIINS\, The Pill
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
