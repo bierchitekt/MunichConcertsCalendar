@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260224T172338Z
+DTSTART:20260307T190000
+DTEND:20260307T210000
+SUMMARY:KöTTBULLAR
+TZID:Europe/Berlin
+UID:b53e3217-00bf-4fe2-bd45-1836b6ebf6df
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/07-03-2026_fei
+ erwerk-sessions-koetbullar-sonic-scandal-papierkatze
+DESCRIPTION:KöTTBULLAR\, Sonic Scandal\, Papierkatze
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

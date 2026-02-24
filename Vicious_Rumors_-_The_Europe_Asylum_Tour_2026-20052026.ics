@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260224T172338Z
+DTSTART:20260520T200000
+DTEND:20260520T220000
+SUMMARY:Vicious Rumors - The Europe Asylum Tour 2026
+TZID:Europe/Berlin
+UID:ef5bad57-979e-4754-9697-e06785ffb5c3
+URL:https://backstage.eu/vicious-rumors-live-2026.html
+DESCRIPTION:Vicious Rumors + Dont Drop The Sword
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
