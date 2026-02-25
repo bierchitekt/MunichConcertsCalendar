@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260225T172342Z
+DTSTART:20270224T200000
+DTEND:20270224T220000
+SUMMARY:Gringo Mayer und die Kegelband
+TZID:Europe/Berlin
+UID:82885d8e-2b0c-4946-813c-af41ed2a8e86
+URL:https://www.muffatwerk.de/de/events/view/7982/gringo-mayer-und-die-ke
+ gelband
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR

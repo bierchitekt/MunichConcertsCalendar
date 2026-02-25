@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260225T172342Z
+DTSTART:20260411T230000
+DTEND:20260412T010000
+SUMMARY:Hive On Tour
+TZID:Europe/Berlin
+UID:9e637ce2-2ed1-4d1c-a3cf-02b8624cd02f
+URL:https://muenchen.motorworld.de/veranstaltungen/hive-on-tour-ausverkau
+ ft/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

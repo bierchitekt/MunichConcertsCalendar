@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260225T172342Z
+DTSTART:20261120T190000
+DTEND:20261120T210000
+SUMMARY:Drei Meter Feldweg X 100 Kilo Herz - Double Birthday Bash
+TZID:Europe/Berlin
+UID:330478ae-1f66-4497-8fad-cf5cb185f1a4
+URL:https://backstage.eu/drei-meter-feldweg-x-100-kilo-herz-double-birthd
+ ay-bash.html
+DESCRIPTION:
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
