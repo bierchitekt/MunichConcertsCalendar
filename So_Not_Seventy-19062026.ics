@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260227T172348Z
+DTSTART:20260619T200000
+DTEND:20260619T220000
+SUMMARY:So Not Seventy
+TZID:Europe/Berlin
+UID:b1d72b69-5276-4fbc-82e9-da564670d10f
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/19-06-2026_so-
+ not-seventy
+DESCRIPTION:So Not Seventy
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

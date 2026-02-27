@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260227T172348Z
+DTSTART:20260509T203000
+DTEND:20260509T223000
+SUMMARY:Balkan Festival On Tour – München
+TZID:Europe/Berlin
+UID:1cfa30fb-b71d-43a7-838c-987346f8de32
+URL:https://muenchen.motorworld.de/veranstaltungen/balkan-festival-on-tou
+ r-muenchen/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR
