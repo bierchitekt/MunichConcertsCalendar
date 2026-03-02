@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260302T172335Z
+DTSTART:20260629T200000
+DTEND:20260629T220000
+SUMMARY:Author & Punisher
+TZID:Europe/Berlin
+UID:de06a0dd-d4fe-4920-880a-89dc065474a6
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/29-06-2026_aut
+ hor-und-punisher-king-yosef
+DESCRIPTION:Author & Punisher\, King Yosef
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

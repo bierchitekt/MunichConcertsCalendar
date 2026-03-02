@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260302T172335Z
+DTSTART:20261219T191500
+DTEND:20261219T211500
+SUMMARY:Dominum - Night Is Calling Tour 2026
+TZID:Europe/Berlin
+UID:566914bc-a55b-46f8-8781-11ccedec8fac
+URL:https://backstage.eu/dominum-night-is-calling-tour-2026.html
+DESCRIPTION:The Night Flight Orchestra
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
