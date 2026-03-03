@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260303T172336Z
+DTSTART:20260612T160000
+DTEND:20260612T180000
+SUMMARY:Grey Scale Festival München 2026
+TZID:Europe/Berlin
+UID:39ffde5e-3cc8-47ee-ba4e-d1c83a67d268
+URL:https://www.muffatwerk.de/de/events/view/7993/grey-scale-festival-mue
+ nchen-2026
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR
