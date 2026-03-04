@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260304T172349Z
+DTSTART:20260516T183000
+DTEND:20260516T203000
+SUMMARY:Munich Punks Are Not Dead Festival 2026
+TZID:Europe/Berlin
+UID:770fc964-0ce9-4547-b8ac-5f4aea075edb
+URL:https://backstage.eu/munich-punks-are-not-dead-festival-2026.html
+DESCRIPTION:Lustfinger Original & Unkaputtbar
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

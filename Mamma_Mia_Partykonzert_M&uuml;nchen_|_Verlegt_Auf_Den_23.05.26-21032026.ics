@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260304T172349Z
+DTSTART:20260321T193000
+DTEND:20260321T213000
+SUMMARY:Mamma Mia Party/konzert München | Verlegt Auf Den 23.05.26
+TZID:Europe/Berlin
+UID:b41af670-496e-4de4-aca6-833f0366d727
+URL:https://backstage.eu/mamma-mia-party-konzert-munchen-21-03-26.html
+DESCRIPTION:Veranstalter: Ipartypeople
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

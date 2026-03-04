@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260304T172349Z
+DTSTART:20260508T203000
+DTEND:20260508T223000
+SUMMARY:Slamdamn
+TZID:Europe/Berlin
+UID:e50c9798-2864-4f93-935a-744cab8a40a2
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/08-05-2026_cha
+ os-blast-slamdamn-bale-disqualification-geba-heru
+DESCRIPTION:Slamdamn\, Bale\, Disqualification\, Geba-Heru
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
