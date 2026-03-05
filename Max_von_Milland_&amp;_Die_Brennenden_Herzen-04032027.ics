@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260305T164150Z
+DTSTART:20270304T200000
+DTEND:20270304T220000
+SUMMARY:Max von Milland & Die Brennenden Herzen
+TZID:Europe/Berlin
+UID:74830312-56bc-43a3-a59d-6d3a010022b7
+URL:https://www.muffatwerk.de/de/events/view/7850/max-von-milland-die-bre
+ nnenden-herzen
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR

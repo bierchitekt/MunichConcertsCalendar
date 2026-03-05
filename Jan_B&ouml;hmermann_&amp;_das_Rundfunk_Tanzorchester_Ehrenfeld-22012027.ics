@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260305T164150Z
+DTSTART:20270122T200000
+DTEND:20270122T220000
+SUMMARY:Jan Böhmermann & das Rundfunk Tanzorchester Ehrenfeld
+TZID:Europe/Berlin
+UID:09814265-2818-483d-bc60-d9b9c95d72cd
+URL:https://www.muffatwerk.de/de/events/view/7996/jan-boehmermann-das-run
+ dfunk-tanzorchester-ehrenfeld
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR

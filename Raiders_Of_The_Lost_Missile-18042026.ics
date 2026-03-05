@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260305T164149Z
+DTSTART:20260418T200000
+DTEND:20260418T220000
+SUMMARY:Raiders Of The Lost Missile
+TZID:Europe/Berlin
+UID:ffa6b20d-ccca-4412-b067-65dd4a8f3741
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/18-04-2026_sze
+ ne-check-0
+DESCRIPTION:Raiders Of The Lost Missile\, Papaya Ryders\, Tanks of Amor\,
+  Flaschengrün
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
