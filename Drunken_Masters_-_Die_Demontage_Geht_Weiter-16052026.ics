@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260309T172330Z
+DTSTART:20260516T200000
+DTEND:20260516T220000
+SUMMARY:Drunken Masters - Die Demontage Geht Weiter
+TZID:Europe/Berlin
+UID:97b870a0-b772-4112-a1da-6c78dcb3a36e
+URL:https://backstage.eu/drunken-masters-die-demontage-geht-weiter.html
+DESCRIPTION:
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
