@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260310T172325Z
+DTSTART:20261107T180000
+DTEND:20261107T200000
+SUMMARY:Die Drei ??? Kids - Piraten In Rocky Beach - Live Hörspiel
+TZID:Europe/Berlin
+UID:49686c52-78cb-4803-ac17-5fa482d99797
+URL:https://backstage.eu/die-drei-kids-piraten-in-rocky-beach-live-horspi
+ el.html
+DESCRIPTION:
+LOCATION:Backstage Arena
+END:VEVENT
+END:VCALENDAR
