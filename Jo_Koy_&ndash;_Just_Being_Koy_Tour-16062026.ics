@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260311T172346Z
+DTSTART:20260616T193000
+DTEND:20260616T213000
+SUMMARY:Jo Koy – Just Being Koy Tour
+TZID:Europe/Berlin
+UID:8030b722-7dec-4651-9984-6fb44706337e
+URL:https://bau.circus-krone.com/veranstaltungen/jo-koy-just-being-koy-to
+ ur/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

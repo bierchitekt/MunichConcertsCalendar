@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260311T172346Z
+DTSTART:20260327T210000
+DTEND:20260327T230000
+SUMMARY:Palestinale Opening Party
+TZID:Europe/Berlin
+UID:c0ef7ce0-a0f4-4d69-a4fc-434043ec58ab
+URL:https://import-export.cc/event/palestinale-opening-party/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

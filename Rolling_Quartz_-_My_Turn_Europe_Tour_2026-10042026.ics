@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260311T172346Z
+DTSTART:20260410T193000
+DTEND:20260410T213000
+SUMMARY:Rolling Quartz - My Turn Europe Tour 2026
+TZID:Europe/Berlin
+UID:62a31acc-b5c4-470a-96a3-bca297166289
+URL:https://backstage.eu/rolling-quartz-my-turn-europe-tour-2026.html
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

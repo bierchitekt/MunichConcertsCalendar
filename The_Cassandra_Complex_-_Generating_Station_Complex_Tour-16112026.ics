@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260311T172346Z
+DTSTART:20261116T200000
+DTEND:20261116T220000
+SUMMARY:The Cassandra Complex - Generating Station Complex Tour
+TZID:Europe/Berlin
+UID:317359d5-c3eb-4cf7-baff-c57e48e2f689
+URL:https://backstage.eu/the-cassandra-complex-generating-station-complex
+ -tour.html
+DESCRIPTION:Sjöblom
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

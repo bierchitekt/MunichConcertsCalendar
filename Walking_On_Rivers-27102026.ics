@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260311T172346Z
+DTSTART:20261027T200000
+DTEND:20261027T220000
+SUMMARY:Walking On Rivers
+TZID:Europe/Berlin
+UID:515e9245-06df-4f36-8efe-87de1613a350
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/27-10-2026_wal
+ king-on-rivers
+DESCRIPTION:Walking On Rivers
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

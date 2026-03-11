@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260311T172346Z
+DTSTART:20260321T200000
+DTEND:20260321T220000
+SUMMARY:$ono$ Cliq - Planet Kumpel Tour 2026 | Verlegt Auf Den 30.10.26
+TZID:Europe/Berlin
+UID:04c50f3b-52a1-40e5-bfbd-a8556e343de2
+URL:https://backstage.eu/ono-cliq-planet-kumpel-tour-2026.html
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR
