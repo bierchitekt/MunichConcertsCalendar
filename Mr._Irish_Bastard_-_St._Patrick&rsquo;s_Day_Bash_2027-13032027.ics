@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260312T172335Z
+DTSTART:20270313T200000
+DTEND:20270313T220000
+SUMMARY:Mr. Irish Bastard - St. Patrick’s Day Bash 2027
+TZID:Europe/Berlin
+UID:f7e4a054-aece-44ec-a40d-6b4f04087203
+URL:https://backstage.eu/mr-irish-bastard-st-patrick-s-day-bash-2027.html
+ 
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

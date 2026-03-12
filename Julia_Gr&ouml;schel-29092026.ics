@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260312T172335Z
+DTSTART:20260929T200000
+DTEND:20260929T220000
+SUMMARY:Julia Gröschel
+TZID:Europe/Berlin
+UID:93b6ff02-3a44-40a7-899e-4257d3cb9cc9
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/29-09-2026_hip
+ -hop-lebt-julia-groeschel
+DESCRIPTION:Julia Gröschel
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

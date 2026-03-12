@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260312T172335Z
+DTSTART:20270224T200000
+DTEND:20270224T220000
+SUMMARY:Solar Fake - Silenced Live Acoustic
+TZID:Europe/Berlin
+UID:f6b66bfe-d3af-4fd2-b037-f7f02f9ff8fd
+URL:https://backstage.eu/solar-fake-silenced-live-acoustic.html
+DESCRIPTION:Die Veranstaltung Ist Teilbestuhlt Bei Freier Platzwahl
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

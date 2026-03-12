@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260312T172335Z
+DTSTART:20260705T210000
+DTEND:20260705T230000
+SUMMARY:Alexander Abreu Y Havana D'Primera
+TZID:Europe/Berlin
+UID:2e8f2bde-d895-4073-990b-20424f4e3b09
+URL:https://www.muffatwerk.de/de/events/view/8010/alexander-abreu-y-havan
+ a-d-primera
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR
