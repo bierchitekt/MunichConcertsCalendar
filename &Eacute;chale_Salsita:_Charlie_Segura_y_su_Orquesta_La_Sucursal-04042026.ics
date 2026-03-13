@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260313T172341Z
+DTSTART:20260404T210000
+DTEND:20260404T230000
+SUMMARY:Échale Salsita: Charlie Segura y su Orquesta La Sucursal
+TZID:Europe/Berlin
+UID:659ed608-a956-4989-9e46-1282f9d8c2e5
+URL:https://import-export.cc/event/echale-salsita-charlie-segura-y-su-orq
+ uesta-la-sucursal-el-watusi-loco-vinyl/
+DESCRIPTION:El Watusi
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
