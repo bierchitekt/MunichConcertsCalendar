@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260317T092806Z
+DTSTART:20260925T190000
+DTEND:20260925T210000
+SUMMARY:Shadow Of Intent - “imperium Delirium” European Tour 2026
+TZID:Europe/Berlin
+UID:1088e55f-6f62-4f65-be21-61541bf4e3fe
+URL:https://backstage.eu/shadow-of-intent-imperium-delirium-european-tour
+ -2026.html
+DESCRIPTION:Aborted + Disembodied Tyrant + Soreption
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

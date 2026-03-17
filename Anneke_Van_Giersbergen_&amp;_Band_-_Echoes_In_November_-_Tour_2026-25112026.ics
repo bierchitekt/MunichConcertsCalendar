@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260317T172341Z
+DTSTART:20261125T200000
+DTEND:20261125T220000
+SUMMARY:Anneke Van Giersbergen & Band - Echoes In November - Tour 2026
+TZID:Europe/Berlin
+UID:57cf7695-6de3-41be-9fce-31b14fd319a9
+URL:https://backstage.eu/anneke-van-giersbergen-band-echoes-in-november-t
+ our-2026.html
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR
