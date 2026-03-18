@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260318T172336Z
+DTSTART:20261107T200000
+DTEND:20261107T220000
+SUMMARY:The New Roses - „down & Dirty Tour 2026“
+TZID:Europe/Berlin
+UID:8519fc57-8ce1-436c-bb3d-0e0be0c12961
+URL:https://backstage.eu/the-new-roses-down-dirty-tour-2026.html
+DESCRIPTION:Massive Wagons
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
