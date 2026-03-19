@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260319T094636Z
+DTSTART:20260417T210000
+DTEND:20260417T230000
+SUMMARY:Aleyna Tilki - Europe Tour 2026 | Leider Abgesagt
+TZID:Europe/Berlin
+UID:c125c74a-0e22-4dc3-b409-903bb090d4aa
+URL:https://backstage.eu/aleyna-tilki-europe-tour-2026.html
+DESCRIPTION:
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
