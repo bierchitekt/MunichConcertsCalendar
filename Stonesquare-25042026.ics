@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260324T172413Z
+DTSTART:20260425T210000
+DTEND:20260425T230000
+SUMMARY:Stonesquare
+TZID:Europe/Berlin
+UID:dca0bee4-b4b3-45be-b54b-5f2142b8cb20
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/25-04-2026_sch
+ lecht-und-schwindlig
+DESCRIPTION:Stonesquare\, The Burning Flags\, Total Fraud
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

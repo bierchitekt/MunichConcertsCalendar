@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260324T172413Z
+DTSTART:20260418T190000
+DTEND:20260418T210000
+SUMMARY:Laura Khim
+TZID:Europe/Berlin
+UID:f37e2e86-096c-49c7-95df-2170af0932e7
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/18-04-2026_fei
+ erwerk-sessions-florian-hecht
+DESCRIPTION:Laura Khim\, Florian Hecht\, Fia
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
