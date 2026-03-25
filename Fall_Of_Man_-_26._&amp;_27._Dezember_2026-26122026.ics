@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260325T172331Z
+DTSTART:20261226T163000
+DTEND:20261226T183000
+SUMMARY:Fall Of Man - 26. & 27. Dezember 2026
+TZID:Europe/Berlin
+UID:5073d990-b910-4b5e-8b32-b8dbdc7002aa
+URL:https://backstage.eu/fall-of-man-26-27-dezember-2026.html
+DESCRIPTION:Alkerdeel\, Potochkine\, Häxenziirkell\, Hagzissa\, Cosey Mue
+ ller\, Feral Forms\, Oerheks\, Vorago\, Bacht'n De Vulle Moane\, Flúch\,
+  Gyldensterna\, Nahtmar - More Bands To Be Announced Soon
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR
