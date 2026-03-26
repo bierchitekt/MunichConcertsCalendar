@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260325T191019Z
+DTSTART:20260508T170000
+DTEND:20260508T190000
+SUMMARY:Rites Of Spring Fest
+TZID:Europe/Berlin
+UID:b94bba5c-bc53-46c0-935c-13faf1d8e4c6
+URL:https://www.kafekult.de/wordpress/event/rites-of-spring-fest/
+DESCRIPTION:
+LOCATION:kafekult
+END:VEVENT
+END:VCALENDAR

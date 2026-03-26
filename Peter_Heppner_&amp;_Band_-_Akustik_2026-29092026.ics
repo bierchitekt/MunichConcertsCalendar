@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260326T172337Z
+DTSTART:20260929T200000
+DTEND:20260929T220000
+SUMMARY:Peter Heppner & Band - Akustik 2026
+TZID:Europe/Berlin
+UID:28ae1f4d-09cf-46b8-af0a-61e2e3895bbf
+URL:https://backstage.eu/peter-heppner-band-akustik-2026.html
+DESCRIPTION:Backstage Werk - Teilbestuhlt Bei Freier Platzwahl
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
