@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260331T162358Z
+DTSTART:20261104T200000
+DTEND:20261104T220000
+SUMMARY:Koza Mostra - Bulletproof Tour Germany 2026
+TZID:Europe/Berlin
+UID:cf9e8e0b-0ead-44d1-895b-536f9331d3d8
+URL:https://backstage.eu/koza-mostra-bulletproof-tour-germany-2026.html
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
