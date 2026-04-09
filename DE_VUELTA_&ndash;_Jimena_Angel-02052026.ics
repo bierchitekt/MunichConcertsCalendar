@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260409T162308Z
+DTSTART:20260502T200000
+DTEND:20260502T220000
+SUMMARY:DE VUELTA – Jimena Angel
+TZID:Europe/Berlin
+UID:b3d133d7-355f-498e-9e28-4d5b548676a0
+URL:https://import-export.cc/event/chucuxchucu-pres-de-vuelta-jimena-ange
+ l-superzona-mrreed/
+DESCRIPTION:Superzona
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
