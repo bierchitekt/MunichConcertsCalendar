@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260410T162330Z
+DTSTART:20270320T170000
+DTEND:20270320T190000
+SUMMARY:Die Schlagernacht des Jahres
+TZID:Europe/Berlin
+UID:07822f99-4fe0-4887-8d47-adbd2c8b7e2f
+URL:https://www.olympiapark.de/de/veranstaltungen/die-schlagernacht-des-j
+ ahres-n5669
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR
