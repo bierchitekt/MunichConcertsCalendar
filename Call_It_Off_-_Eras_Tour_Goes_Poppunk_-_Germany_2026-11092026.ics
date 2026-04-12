@@ -2,14 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260331T162358Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260911T200000
 DTEND:20260911T220000
 SUMMARY:Call It Off - Eras Tour Goes Poppunk - Germany 2026
 TZID:Europe/Berlin
-UID:ba8ee009-8ba3-4ffd-a6e3-819464de782b
-URL:https://backstage.eu/call-it-off-eras-tour-goes-popping-germany-2026.
- html
+UID:8a62eac4-7dba-4eba-854d-a3461731f0a1
+URL:https://www.backstage.eu/event/11717
 DESCRIPTION:
 LOCATION:Backstage Halle
 END:VEVENT

@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260326T172337Z
+DTSTAMP:20260412T114314Z
 DTSTART:20261126T200000
 DTEND:20261126T220000
 SUMMARY:Pinhead - Beauty In Pain Tour
 TZID:Europe/Berlin
-UID:c4469644-872f-47f2-92ae-97e5c33febb9
-URL:https://backstage.eu/pinhead-egomessiah-release-shows-2025.html
+UID:269a024b-0d3e-4bbe-90c3-6480160440b8
+URL:https://www.backstage.eu/event/8705
 DESCRIPTION:
 LOCATION:Backstage Club
 END:VEVENT

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260424T200000
 DTEND:20260424T220000
 SUMMARY:Tyler Hilton
 TZID:Europe/Berlin
-UID:ebf0916e-69bc-41fb-a912-ce87eea6a21b
+UID:c7b65beb-b0e5-49d6-b532-aebf9941b6af
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/24-04-2026_tyl
  er-hilton-kate-voegele
 DESCRIPTION:Tyler Hilton\, Kate Voegele

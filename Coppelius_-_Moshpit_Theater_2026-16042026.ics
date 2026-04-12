@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260416T200000
 DTEND:20260416T220000
 SUMMARY:Coppelius - Moshpit Theater 2026
 TZID:Europe/Berlin
-UID:c71645af-8826-49ea-b793-7dc4bce4d3f4
-URL:https://backstage.eu/coppelius-moshpit-theater-2026.html
+UID:0423ea0b-3428-4e70-8df7-4a17e1f2d8d9
+URL:https://www.backstage.eu/event/8980
 DESCRIPTION:
 LOCATION:Backstage Halle
 END:VEVENT

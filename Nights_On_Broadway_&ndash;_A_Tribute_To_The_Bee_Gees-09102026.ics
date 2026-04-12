@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114314Z
 DTSTART:20261009T200000
 DTEND:20261009T220000
 SUMMARY:Nights On Broadway – A Tribute To The Bee Gees
 TZID:Europe/Berlin
-UID:23a6978a-821c-491e-a099-f0602a74e023
+UID:4d9c5dfe-5f69-4f95-9a0e-0fabb55f0783
 URL:https://bau.circus-krone.com/veranstaltungen/nights-on-broadway-a-tri
  bute-to-the-bee-gees/
 DESCRIPTION:

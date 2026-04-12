@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260331T162358Z
+DTSTAMP:20260412T114312Z
 DTSTART:20261030T180000
 DTEND:20261030T200000
 SUMMARY:Alpha Wolf - Let It Rip Tour Eu/uk 2026
 TZID:Europe/Berlin
-UID:a3ddc9cc-a287-40a7-a5b0-7cf0252d3a13
-URL:https://backstage.eu/alpha-wolf-let-it-rip-tour-eu-uk-2026.html
+UID:34bdd65a-4de6-4509-9d7e-30629ae51a59
+URL:https://www.backstage.eu/event/11713
 DESCRIPTION:Alpha Wolf + Psycho-frame + Fox Lake + Diamond Construct
 LOCATION:Backstage Werk
 END:VEVENT

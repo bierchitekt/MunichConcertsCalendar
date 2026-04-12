@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260409T162308Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260705T190000
 DTEND:20260705T210000
 SUMMARY:La Fanfarria Del Capitan
 TZID:Europe/Berlin
-UID:722fe412-69e0-48f7-8361-93abb11a18a6
+UID:de18af90-37da-47e8-b6c4-875ed089e300
 URL:https://import-export.cc/event/la-fanfarria-del-capitan-relativ-rapid
  /
 DESCRIPTION:Relativ Rapid

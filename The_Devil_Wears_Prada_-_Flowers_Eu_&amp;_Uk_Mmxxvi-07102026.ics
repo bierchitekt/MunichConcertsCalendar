@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260215T193729Z
+DTSTAMP:20260412T114312Z
 DTSTART:20261007T190000
 DTEND:20261007T210000
 SUMMARY:The Devil Wears Prada - Flowers Eu & Uk Mmxxvi
 TZID:Europe/Berlin
-UID:a5ae4a2c-8cc5-4f36-86a4-0bbede7d05c7
-URL:https://backstage.eu/the-devil-wears-prada-flowres-eu-uk-mmxxvi.html
+UID:8bc55ae2-12e0-42f2-86c2-9cd78b05cde2
+URL:https://www.backstage.eu/event/11094
 DESCRIPTION:+ Supports
 LOCATION:Backstage Werk
 END:VEVENT

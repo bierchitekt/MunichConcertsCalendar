@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251205T172352Z
+DTSTAMP:20260412T114314Z
 DTSTART:20261030T200000
 DTEND:20261030T220000
 SUMMARY:Kitty\, Daisy &amp\; Lewis
 TZID:Europe/Berlin
-UID:fcb0cd24-c1ef-41cd-a9eb-0a48ed6a66e2
+UID:d87f5a62-06f8-468b-8af5-0c6d64c81c68
 URL:https://www.eventfabrik-muenchen.de/event/kitty-daisy-lewis/
 DESCRIPTION:
 LOCATION:EventFabrik

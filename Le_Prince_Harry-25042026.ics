@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260216T172332Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260425T211500
 DTEND:20260425T231500
 SUMMARY:Le Prince Harry
 TZID:Europe/Berlin
-UID:f5bd7a1c-31f0-4522-ad71-bd0eecaa11be
+UID:0b5a3529-7b91-4ccb-b510-876b5195399e
 URL:https://import-export.cc/event/synthen-und-sterben-pres-le-prince-har
  ry-gleitsicht/
 DESCRIPTION:Gleitsicht

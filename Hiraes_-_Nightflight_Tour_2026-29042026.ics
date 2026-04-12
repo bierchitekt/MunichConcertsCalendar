@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260429T200000
 DTEND:20260429T220000
 SUMMARY:Hiraes - Nightflight Tour 2026
 TZID:Europe/Berlin
-UID:aa8cdda7-b0a0-4e17-aab7-622732b41d96
-URL:https://backstage.eu/hiraes-nightflight-tour-2026.html
+UID:82c1b75b-14e4-4562-ab62-b43e3d169a73
+URL:https://www.backstage.eu/event/10840
 DESCRIPTION:Hiraes + Nopreachers
 LOCATION:Backstage Club
 END:VEVENT

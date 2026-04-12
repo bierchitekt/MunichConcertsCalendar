@@ -2,14 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260330T162334Z
+DTSTAMP:20260412T114312Z
 DTSTART:20261114T140000
 DTEND:20261114T160000
 SUMMARY:Tanzt! 2026
 TZID:Europe/Berlin
-UID:0a0d80bb-1da6-4bc1-a512-577a4e521400
-URL:https://backstage.eu/tanzt-das-mittelalter-folk-rock-metal-festival-1
- 4-november-2026.html
+UID:b66076cc-4fb9-4408-a995-bddc9a6ec8cb
+URL:https://www.backstage.eu/event/11706
 DESCRIPTION:Das Mittelalter- & Folk-rock/-metal Festival – 14. November 2
  026
 LOCATION:Backstage Werk

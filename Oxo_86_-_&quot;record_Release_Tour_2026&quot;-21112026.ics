@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260121T172400Z
+DTSTAMP:20260412T114314Z
 DTSTART:20261121T200000
 DTEND:20261121T220000
 SUMMARY:Oxo 86 - "record Release Tour 2026"
 TZID:Europe/Berlin
-UID:f6f6a03c-4abb-4f76-8ea7-6167e084ce9a
-URL:https://backstage.eu/oxo-86-record-release-tour-2026.html
+UID:87cbe031-78cb-41fd-9cc3-0d6757740f05
+URL:https://www.backstage.eu/event/11260
 DESCRIPTION:+ Support: The Offenders
 LOCATION:Backstage Werk
 END:VEVENT

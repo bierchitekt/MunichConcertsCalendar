@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260423T193000
 DTEND:20260423T213000
 SUMMARY:Thommy Ten & Amélie Van Tass – Live 2026
 TZID:Europe/Berlin
-UID:ef153495-2deb-416d-86aa-3912be278f93
+UID:ff645f53-767d-4fc8-b4cb-f0d6ea002c7a
 URL:https://muenchen.motorworld.de/veranstaltungen/thommy-ten-amelie-van-
  tass-live-2026/
 DESCRIPTION:

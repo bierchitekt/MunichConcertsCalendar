@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251205T172352Z
+DTSTAMP:20260412T114314Z
 DTSTART:20260918T210000
 DTEND:20260918T230000
 SUMMARY:Swing’it (norwegen) - Prohibition 1923
 TZID:Europe/Berlin
-UID:62ba3ba2-01cf-48c8-8f3b-66c3b398d7f2
-URL:https://backstage.eu/swing-it-norwegen-prohibition-1923.html
+UID:401c500b-62fa-450c-9fd8-2a45fae5820f
+URL:https://www.backstage.eu/event/11019
 DESCRIPTION:
 LOCATION:Backstage Werk
 END:VEVENT

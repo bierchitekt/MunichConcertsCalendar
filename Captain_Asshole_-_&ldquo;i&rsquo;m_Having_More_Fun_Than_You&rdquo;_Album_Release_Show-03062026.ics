@@ -2,15 +2,14 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260317T172341Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260603T200000
 DTEND:20260603T220000
 SUMMARY:Captain Asshole - “i’m Having More Fun Than You” Album Release Sh
  ow
 TZID:Europe/Berlin
-UID:edadac26-19c1-40bc-a4a0-9bd23fea7433
-URL:https://backstage.eu/captain-asshole-i-m-having-more-fun-than-you-alb
- um-release-show.html
+UID:7c4ae243-2be5-4f15-90e0-09a0987ec360
+URL:https://www.backstage.eu/event/11636
 DESCRIPTION:Lineup: Captain Asshole + Swallow’s Rose + Worst Advice
 LOCATION:Backstage Club
 END:VEVENT

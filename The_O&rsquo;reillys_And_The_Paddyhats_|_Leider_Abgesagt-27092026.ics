@@ -2,14 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260121T172400Z
+DTSTAMP:20260412T114314Z
 DTSTART:20260927T200000
 DTEND:20260927T220000
 SUMMARY:The O’reillys And The Paddyhats | Leider Abgesagt
 TZID:Europe/Berlin
-UID:33114664-fc80-481a-892b-35a151aaeb0e
-URL:https://backstage.eu/the-o-reillys-and-the-paddyhats-wings-gloves-jub
- ilaums-tour-2026.html
+UID:17c112e6-06bd-495b-a1a8-b77e3e4e5c4d
+URL:https://www.backstage.eu/event/10240
 DESCRIPTION:Die Veranstaltung Musste Abgesagt Werden. Tickets Können An D
  en Jeweiligen Vvk Stellen Zurückgegeben Werden.
 LOCATION:Backstage Werk

@@ -2,14 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260126T172317Z
+DTSTAMP:20260412T114314Z
 DTSTART:20260507T200000
 DTEND:20260507T220000
 SUMMARY:Lvbel C5 - „fellas Tour – No Silence For 5 Months“
 TZID:Europe/Berlin
-UID:d81bafed-0798-451c-be56-bf6a39933c67
-URL:https://backstage.eu/lvbel-c5-fellas-tour-no-silence-for-5-months.htm
- l
+UID:9b637391-a46e-4d83-99bd-e488fb9e499f
+URL:https://www.backstage.eu/event/11291
 DESCRIPTION:
 LOCATION:Backstage Werk
 END:VEVENT

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260325T191019Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260524T170000
 DTEND:20260524T190000
 SUMMARY:Puffer
 TZID:Europe/Berlin
-UID:0787f10f-7b74-4b9e-b656-639607f56fcb
+UID:1110b426-f7c2-41e1-8eec-2e8b192ddb95
 URL:https://www.kafekult.de/wordpress/event/puffer-g-l-o-w-buchprasentati
  on-homopunk-history/
 DESCRIPTION:G.l.o.w. \,  Buchpräsentation: Homopunk History

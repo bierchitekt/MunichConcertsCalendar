@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251219T172358Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260429T200000
 DTEND:20260429T220000
 SUMMARY:Naxatras - European Tour 2026
 TZID:Europe/Berlin
-UID:bdcb3be5-bcfd-403d-b8fd-880293ece8e1
-URL:https://backstage.eu/naxatras-european-tour-2026.html
+UID:7bb381d6-6010-47ac-bdcb-bb6db756b3f0
+URL:https://www.backstage.eu/event/11125
 DESCRIPTION:
 LOCATION:Backstage Halle
 END:VEVENT

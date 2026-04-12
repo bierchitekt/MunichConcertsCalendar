@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260325T172331Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260509T220000
 DTEND:20260510T000000
 SUMMARY:Münchener Biennale - Festival für Neues Musiktheater Night Sessio
  ns im Ampere
 TZID:Europe/Berlin
-UID:6a2865e0-3aed-45cb-b619-4f8953e72189
+UID:c24f25d6-d808-48a0-b272-af36cc3e6b65
 URL:https://www.muffatwerk.de/de/events/view/8031/night-sessions-im-amper
  e
 DESCRIPTION:

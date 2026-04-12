@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20261210T193000
 DTEND:20261210T213000
 SUMMARY:Swiss & Die Andern - Punk Lebt Tour 2026
 TZID:Europe/Berlin
-UID:ade957e8-a377-4b24-a790-55960e2b04f5
-URL:https://backstage.eu/swiss-die-andern-punk-lebt-tour-2026.html
+UID:56afccfb-bf2d-4c83-92dd-65ae35b55e76
+URL:https://www.backstage.eu/event/10793
 DESCRIPTION:
 LOCATION:Backstage Werk
 END:VEVENT

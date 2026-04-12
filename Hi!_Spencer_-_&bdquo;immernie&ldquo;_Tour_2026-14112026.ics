@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260327T172350Z
+DTSTAMP:20260412T114312Z
 DTSTART:20261114T200000
 DTEND:20261114T220000
 SUMMARY:Hi! Spencer - „immernie“ Tour 2026
 TZID:Europe/Berlin
-UID:a5b4ef60-c49c-450f-b0d0-d80810bd1ade
-URL:https://backstage.eu/hi-spencer-immernie-tour-2026.html
+UID:90b57113-38cc-4ad0-a44c-389337345fdb
+URL:https://www.backstage.eu/event/11685
 DESCRIPTION:
 LOCATION:Backstage Halle
 END:VEVENT

@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260206T172356Z
+DTSTAMP:20260412T114312Z
 DTSTART:20261015T200000
 DTEND:20261015T220000
 SUMMARY:Ronnie Romero & Gus G. - Convergence Fest 2026
 TZID:Europe/Berlin
-UID:63a6da9a-e640-4da6-bba4-1662c4cabd2d
-URL:https://backstage.eu/ronnie-romero-gus-g-convergence-fest-2026.html
+UID:3b119639-9816-4098-929f-76abfc4627e4
+URL:https://www.backstage.eu/event/11347
 DESCRIPTION:
 LOCATION:Backstage Halle
 END:VEVENT

@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260226T172319Z
+DTSTAMP:20260412T114314Z
 DTSTART:20261117T200000
 DTEND:20261117T220000
 SUMMARY:Daily Thompson - „glue“ Tour
 TZID:Europe/Berlin
-UID:e95ccf87-b028-4dc3-96a2-411a2bf80094
-URL:https://backstage.eu/daily-thompson-glue-tour.html
+UID:afda3578-2934-41d6-8f2e-f436a7e2ac8b
+URL:https://www.backstage.eu/event/11234
 DESCRIPTION:
 LOCATION:Backstage Club
 END:VEVENT

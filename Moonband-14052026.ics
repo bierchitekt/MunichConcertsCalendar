@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260326T172337Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260514T200000
 DTEND:20260514T220000
 SUMMARY:Moonband
 TZID:Europe/Berlin
-UID:4a03af4e-c933-462e-bfbc-4cdb996a74b8
+UID:e603a24d-da48-4b7d-bd29-cc57f3971722
 URL:https://import-export.cc/event/moonband-point-und-die-spielverderber/
 DESCRIPTION:Point und die Spielverderber
 LOCATION:Import Export

@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260303T172336Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260528T180000
 DTEND:20260528T200000
 SUMMARY:Ocean Eyes Presents: Gottmik In Concert
 TZID:Europe/Berlin
-UID:ec6dede9-9d11-4eeb-acac-32eec742f686
+UID:7da3f7d0-a8cd-4323-8b2e-895d8ca8bedc
 URL:https://www.eventfabrik-muenchen.de/event/ocean-eyes-presents-gottmik
  -in-concert/
 DESCRIPTION:

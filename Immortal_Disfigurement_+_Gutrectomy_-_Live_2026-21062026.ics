@@ -2,14 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260306T172314Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260621T200000
 DTEND:20260621T220000
 SUMMARY:Immortal Disfigurement + Gutrectomy - Live 2026
 TZID:Europe/Berlin
-UID:bddd30a0-b1d0-43b0-8c40-473d63e7d807
-URL:https://backstage.eu/immortal-disfigurement-gutrectomy-live-2026.html
- 
+UID:47cf42ff-7605-465c-a34c-8484ccf94436
+URL:https://www.backstage.eu/event/11561
 DESCRIPTION:Kanine
 LOCATION:Backstage Halle
 END:VEVENT

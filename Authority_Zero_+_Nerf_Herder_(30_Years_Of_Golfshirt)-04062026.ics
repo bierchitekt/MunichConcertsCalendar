@@ -2,14 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260113T172358Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260604T200000
 DTEND:20260604T220000
 SUMMARY:Authority Zero + Nerf Herder (30 Years Of Golfshirt)
 TZID:Europe/Berlin
-UID:9acc4b7c-510f-40cd-a272-836db40d2845
-URL:https://backstage.eu/authority-zero-nerf-herder-30-years-of-golfshirt
- .html
+UID:96d36b8c-5595-444f-bf4c-65703ce14078
+URL:https://www.backstage.eu/event/11202
 DESCRIPTION:+ Guests: Melonball
 LOCATION:Backstage Halle
 END:VEVENT

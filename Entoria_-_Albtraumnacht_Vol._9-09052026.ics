@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260509T190000
 DTEND:20260509T210000
 SUMMARY:Entoria - Albtraumnacht Vol. 9
 TZID:Europe/Berlin
-UID:cfb4b43d-6c4d-436c-81e9-6d657348d834
-URL:https://backstage.eu/entoria-albtraumnacht-vol-9.html
+UID:65bf0c9e-55e2-464a-80d6-6b705d16a2cd
+URL:https://www.backstage.eu/event/10484
 DESCRIPTION:Entoria + Spire Of Lazarus + Knaat + Gefrierbrand
 LOCATION:Backstage Halle
 END:VEVENT

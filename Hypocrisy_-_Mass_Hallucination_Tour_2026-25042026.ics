@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260425T185000
 DTEND:20260425T205000
 SUMMARY:Hypocrisy - Mass Hallucination Tour 2026
 TZID:Europe/Berlin
-UID:c3b03a53-3d5e-4aa3-aa82-866dc735c77a
-URL:https://backstage.eu/hypocrisy-mass-hallucination-tour-2026.html
+UID:832e648a-a1c5-4154-acb4-9a4d1b98667b
+URL:https://www.backstage.eu/event/10626
 DESCRIPTION:Supports: Abbath + Vomitory + Vreid
 LOCATION:Backstage Werk
 END:VEVENT

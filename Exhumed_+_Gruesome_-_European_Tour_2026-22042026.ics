@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251201T172434Z
+DTSTAMP:20260412T114314Z
 DTSTART:20260422T200000
 DTEND:20260422T220000
 SUMMARY:Exhumed + Gruesome - European Tour 2026
 TZID:Europe/Berlin
-UID:ac1527d9-1eb4-4050-ab60-ddf6150a4d07
-URL:https://backstage.eu/exhumed-gruesome-european-tour-2026.html
+UID:f7a229bf-f21b-4102-b44a-1053c5657d28
+URL:https://www.backstage.eu/event/10887
 DESCRIPTION:
 LOCATION:Backstage Club
 END:VEVENT

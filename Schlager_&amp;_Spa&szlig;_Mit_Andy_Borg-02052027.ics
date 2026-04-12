@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260102T172348Z
+DTSTAMP:20260412T114312Z
 DTSTART:20270502T160000
 DTEND:20270502T180000
 SUMMARY:Schlager & Spaß Mit Andy Borg
 TZID:Europe/Berlin
-UID:e547ba4f-a99b-43ca-b2de-82a5ab7aceae
+UID:53d6c8d4-168c-4df7-8db4-52a7c5bda655
 URL:https://bau.circus-krone.com/veranstaltungen/schlager-spass-mit-andy-
  borg/
 DESCRIPTION:

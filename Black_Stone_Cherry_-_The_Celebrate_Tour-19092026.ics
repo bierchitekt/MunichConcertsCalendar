@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260919T200000
 DTEND:20260919T220000
 SUMMARY:Black Stone Cherry - The Celebrate Tour
 TZID:Europe/Berlin
-UID:f2049691-a66a-4f98-9507-3fedf07002af
-URL:https://backstage.eu/black-stone-cherry-the-celebrate-tour.html
+UID:e164c13f-196f-4e27-8a73-5da0e9dbc4a9
+URL:https://www.backstage.eu/event/10914
 DESCRIPTION:Hardest Working Band: Black Stone Cherry Kommen Erneut Nach D
  eutschland! Sieben Shows Im September 2026!
 LOCATION:Backstage Werk

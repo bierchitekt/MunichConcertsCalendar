@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260224T172338Z
+DTSTAMP:20260412T114314Z
 DTSTART:20261030T200000
 DTEND:20261030T220000
 SUMMARY:Andreas Diehlmann Band - Cold Wind Tour
 TZID:Europe/Berlin
-UID:d95d8193-368f-47cc-bd30-fcfa58454b4c
-URL:https://backstage.eu/andreas-diehlmann-band-cold-wind-tour.html
+UID:15bdd451-f5bf-4dec-abf0-b3b8adc18ad5
+URL:https://www.backstage.eu/event/11487
 DESCRIPTION:
 LOCATION:Backstage Club
 END:VEVENT

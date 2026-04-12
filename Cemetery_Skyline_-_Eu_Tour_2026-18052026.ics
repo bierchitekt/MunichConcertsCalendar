@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260128T172312Z
+DTSTAMP:20260412T114314Z
 DTSTART:20260518T200000
 DTEND:20260518T220000
 SUMMARY:Cemetery Skyline - Eu Tour 2026
 TZID:Europe/Berlin
-UID:37ce1a9d-e6f6-4f92-a7bb-eebc06a83b08
-URL:https://backstage.eu/cemetery-skyline-eu-tour-2026.html
+UID:c70502f3-d41b-4c7d-87cb-14a51bcfbf20
+URL:https://www.backstage.eu/event/11271
 DESCRIPTION:Royal Sorrow
 LOCATION:Backstage Halle
 END:VEVENT

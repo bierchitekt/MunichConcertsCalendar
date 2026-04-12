@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260303T172336Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260621T190000
 DTEND:20260621T210000
 SUMMARY:Kip Moore X Jackson Dean
 TZID:Europe/Berlin
-UID:5d7fd9a1-b224-4162-9437-8ddc37f8d828
+UID:7cdec4dd-5efa-4b1b-ad5e-cafc3aaa96ea
 URL:https://www.eventfabrik-muenchen.de/event/kip-moore-x-jackson-dean/
 DESCRIPTION:
 LOCATION:EventFabrik

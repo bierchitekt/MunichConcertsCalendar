@@ -2,14 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251128T172356Z
+DTSTAMP:20260412T114314Z
 DTSTART:20260917T203000
 DTEND:20260917T223000
 SUMMARY:Saint City Orchestra - This Ain´t Quiet Tour 2026
 TZID:Europe/Berlin
-UID:a7746c73-c3a1-450b-b4c9-1d8417088983
-URL:https://backstage.eu/saint-city-orchestra-this-ain-t-quiet-tour-2026.
- html
+UID:e04c7750-9607-473a-a8cf-3f87b4d8a964
+URL:https://www.backstage.eu/event/10945
 DESCRIPTION:
 LOCATION:Backstage Club
 END:VEVENT

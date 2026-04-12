@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260127T172336Z
+DTSTAMP:20260412T114314Z
 DTSTART:20261201T190000
 DTEND:20261201T210000
 SUMMARY:Sarah Brightman - Christmas Spectacle
 TZID:Europe/Berlin
-UID:ca30280e-a48b-4b37-915d-25a4ec5e750b
+UID:603d8f92-4c2d-41d7-9a8d-34e46b04be89
 URL:https://www.olympiapark.de/de/veranstaltungen/sarah-brightman-christm
  as-spectacle-n5534
 DESCRIPTION:

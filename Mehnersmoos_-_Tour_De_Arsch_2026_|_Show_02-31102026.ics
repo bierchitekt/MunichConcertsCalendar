@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251128T172356Z
+DTSTAMP:20260412T114314Z
 DTSTART:20261031T200000
 DTEND:20261031T220000
 SUMMARY:Mehnersmoos - Tour De Arsch 2026 | Show 02
 TZID:Europe/Berlin
-UID:fbf54c32-6f98-4057-8d2a-1db45b52cf37
-URL:https://backstage.eu/mehnersmoos-tour-de-arsch-2026-show-02.html
+UID:7a089334-c567-4833-aa8e-a74d201a2356
+URL:https://www.backstage.eu/event/10955
 DESCRIPTION:Das Konzert Findet Im Zenith Statt - Lilienthalallee 29\, 809
  39 München
 LOCATION:Zenith

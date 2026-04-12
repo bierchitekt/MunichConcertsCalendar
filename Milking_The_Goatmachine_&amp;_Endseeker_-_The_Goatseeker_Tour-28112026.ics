@@ -2,14 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260216T172332Z
+DTSTAMP:20260412T114313Z
 DTSTART:20261128T193000
 DTEND:20261128T213000
 SUMMARY:Milking The Goatmachine & Endseeker - The Goatseeker Tour
 TZID:Europe/Berlin
-UID:5d8e332f-2ba5-46bf-8aab-4d6b9dba59cf
-URL:https://backstage.eu/milking-the-goatmachine-endseeker-the-goatseeker
- -tour.html
+UID:4946f0e7-1bf5-4d4b-986e-4cfa183f3e51
+URL:https://www.backstage.eu/event/11421
 DESCRIPTION:+ Opener: Hailstone
 LOCATION:Backstage Halle
 END:VEVENT

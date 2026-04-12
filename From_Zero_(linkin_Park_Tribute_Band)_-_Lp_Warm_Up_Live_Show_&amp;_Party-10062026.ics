@@ -2,15 +2,14 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260610T200000
 DTEND:20260610T220000
 SUMMARY:From Zero (linkin Park Tribute Band) - Lp Warm Up Live Show & Par
  ty
 TZID:Europe/Berlin
-UID:26115dc4-16ea-43d5-9c92-bf472399b7e6
-URL:https://backstage.eu/from-zero-linkin-park-tribute-band-lp-warm-up-li
- ve-show-party.html
+UID:f9d17584-77e6-471c-b990-f63cb50b4db1
+URL:https://www.backstage.eu/event/10238
 DESCRIPTION:
 LOCATION:Backstage Halle
 END:VEVENT

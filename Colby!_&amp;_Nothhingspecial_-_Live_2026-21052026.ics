@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260302T172335Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260521T194000
 DTEND:20260521T214000
 SUMMARY:Colby! & Nothhingspecial - Live 2026
 TZID:Europe/Berlin
-UID:116a5cf0-2801-4eb0-ab35-9cd61bb086a7
-URL:https://backstage.eu/colby-nothhingspecial-live-2026.html
+UID:e0d1a054-627d-48d0-bd50-1f8cd8d6e6a4
+URL:https://www.backstage.eu/event/11519
 DESCRIPTION:
 LOCATION:Backstage Club
 END:VEVENT

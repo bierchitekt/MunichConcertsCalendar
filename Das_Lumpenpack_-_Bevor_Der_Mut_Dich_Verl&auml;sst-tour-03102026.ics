@@ -2,14 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20261003T200000
 DTEND:20261003T220000
 SUMMARY:Das Lumpenpack - Bevor Der Mut Dich Verlässt-tour
 TZID:Europe/Berlin
-UID:51761310-e87d-472a-a736-a04b3efe254e
-URL:https://backstage.eu/das-lumpenpack-bevor-der-mut-dich-verlasst-tour.
- html
+UID:cdc30b74-ca7d-4632-8cb6-1b996c091415
+URL:https://www.backstage.eu/event/10458
 DESCRIPTION:Das Konzert Findet Im Zenith Statt: Lilienthalallee 29\, 8093
  9 München
 LOCATION:Zenith

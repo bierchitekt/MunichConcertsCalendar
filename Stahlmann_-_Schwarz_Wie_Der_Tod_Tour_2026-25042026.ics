@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260219T172337Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260425T200000
 DTEND:20260425T220000
 SUMMARY:Stahlmann - Schwarz Wie Der Tod Tour 2026
 TZID:Europe/Berlin
-UID:eaaa76c9-519e-494f-b7d4-efd5820d97ce
-URL:https://backstage.eu/stahlmann-schwarz-wie-der-tod-tour-2026.html
+UID:321f9179-cd71-4b31-a162-8a1fef8f3f2c
+URL:https://www.backstage.eu/event/11449
 DESCRIPTION:Maschinist
 LOCATION:Backstage Halle
 END:VEVENT

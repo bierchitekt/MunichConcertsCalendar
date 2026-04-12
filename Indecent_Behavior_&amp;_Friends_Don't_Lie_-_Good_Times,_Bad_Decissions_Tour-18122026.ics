@@ -2,15 +2,14 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260303T172336Z
+DTSTAMP:20260412T114312Z
 DTSTART:20261218T193000
 DTEND:20261218T213000
 SUMMARY:Indecent Behavior & Friends Don't Lie - Good Times\, Bad Decissio
  ns Tour
 TZID:Europe/Berlin
-UID:604936cd-c0b6-4ed8-a37f-2e6ce63fae7c
-URL:https://backstage.eu/indecent-behavior-friends-don-t-lie-good-times-b
- ad-decissions-tour.html
+UID:fcf93233-53ae-47bc-abc0-de539fc313b8
+URL:https://www.backstage.eu/event/11428
 DESCRIPTION:
 LOCATION:Backstage Club
 END:VEVENT

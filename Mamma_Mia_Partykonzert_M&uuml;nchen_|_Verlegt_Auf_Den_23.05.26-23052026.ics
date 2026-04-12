@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260322T172323Z
+DTSTAMP:20260412T114314Z
 DTSTART:20260523T193000
 DTEND:20260523T213000
 SUMMARY:Mamma Mia Party/konzert München | Verlegt Auf Den 23.05.26
 TZID:Europe/Berlin
-UID:607f0d73-df31-4684-a3dc-cda19ef8100d
+UID:d608af22-a2fd-4347-a9fd-791122fc3392
 URL:https://backstage.eu/mamma-mia-party-konzert-munchen-21-03-26.html
 DESCRIPTION:Die Veranstaltung Musste Auf Den 23.05.26 Verlegt Werden. Ber
  eits Gekaufte Tickets Für Das Event Vom 21.03.26 Behalten Ihre Gültigkei

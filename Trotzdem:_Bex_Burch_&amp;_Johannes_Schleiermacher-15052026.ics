@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260402T162330Z
+DTSTAMP:20260412T114312Z
 DTSTART:20260515T210000
 DTEND:20260515T230000
 SUMMARY:Trotzdem: Bex Burch & Johannes Schleiermacher
 TZID:Europe/Berlin
-UID:97462b8d-cacf-4040-8932-ec06fd2c9842
+UID:243fac2c-1dad-44e7-b84f-750b12472ec6
 URL:https://import-export.cc/event/trotzdem-bex-burch-johannes-schleierma
  cher/
 DESCRIPTION:

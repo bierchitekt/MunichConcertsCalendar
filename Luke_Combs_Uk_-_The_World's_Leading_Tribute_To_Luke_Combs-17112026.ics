@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251210T155301Z
+DTSTAMP:20260412T114314Z
 DTSTART:20261117T200000
 DTEND:20261117T220000
 SUMMARY:Luke Combs Uk - The World's Leading Tribute To Luke Combs
 TZID:Europe/Berlin
-UID:f15299e0-879b-4e56-b6b0-d35ac6411a80
+UID:228525ef-c272-4b43-9cf5-e9cd868c67d4
 URL:https://backstage.eu/luke-combs-uk-the-world-s-leading-tribute-to-luk
  e-combs.html
 DESCRIPTION:Europas Ultimatives Country-tribute-erlebnis Im November 2026

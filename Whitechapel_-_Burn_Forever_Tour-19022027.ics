@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260309T172330Z
+DTSTAMP:20260412T114313Z
 DTSTART:20270219T190000
 DTEND:20270219T210000
 SUMMARY:Whitechapel - Burn Forever Tour
 TZID:Europe/Berlin
-UID:cebe7a93-3d25-48eb-8387-142299db27d5
-URL:https://backstage.eu/whitechapel-burn-forever-tour.html
+UID:4be8cde1-3b6d-492f-a92a-c4bfea2f10c9
+URL:https://www.backstage.eu/event/11565
 DESCRIPTION:Whitechapel + Sylosis + 200 Stab Wounds + Tribal Gaze
 LOCATION:Backstage Werk
 END:VEVENT

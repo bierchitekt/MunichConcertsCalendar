@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260319T172319Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260517T190000
 DTEND:20260517T210000
 SUMMARY:Go Sing Choir | 17.05.26 - 9 Jahre Go Sing Choir
 TZID:Europe/Berlin
-UID:fbcbf554-97d0-4e88-ab60-486fd27e5f94
-URL:https://backstage.eu/go-sing-choir-17-05-25.html
+UID:9923cace-9b5c-471c-8f90-c96bb6339909
+URL:https://www.backstage.eu/event/11608
 DESCRIPTION:Münchens Grösster Mitmach-popchor In Der Backstage Arena!
 LOCATION:Backstage Arena
 END:VEVENT

@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260515T193000
 DTEND:20260515T213000
 SUMMARY:Crazy69 - Lock Up Your Daughters Tour
 TZID:Europe/Berlin
-UID:af0b7dc2-93ad-49a4-9e0f-9d808e953885
-URL:https://backstage.eu/crazy69-lock-up-your-daughters-tour.html
+UID:7fd78b5c-3b61-47b9-b84b-b12c60a1e12e
+URL:https://www.backstage.eu/event/10891
 DESCRIPTION:Crazy69 (ger) + Suicide Bombers (nor) + Smoking Snakes (swe)
 LOCATION:Backstage Halle
 END:VEVENT

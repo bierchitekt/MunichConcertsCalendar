@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251203T172409Z
+DTSTAMP:20260412T114314Z
 DTSTART:20260624T200000
 DTEND:20260624T220000
 SUMMARY:Audio 88 & Yassin - Zeit Zu Sterben Tour
 TZID:Europe/Berlin
-UID:e0ed32ed-2db5-4f9a-b351-07806967bfa5
-URL:https://backstage.eu/audio-88-yassin-neues-album-tour.html
+UID:ed1074a9-8cf7-4c6b-a6d2-b4b5618a88f9
+URL:https://www.backstage.eu/event/10372
 DESCRIPTION:
 LOCATION:Backstage Werk
 END:VEVENT

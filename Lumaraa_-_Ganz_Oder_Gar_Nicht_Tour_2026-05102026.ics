@@ -2,15 +2,14 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260323T172320Z
+DTSTAMP:20260412T114314Z
 DTSTART:20261005T200000
 DTEND:20261005T220000
 SUMMARY:Lumaraa - Ganz Oder Gar Nicht Tour 2026
 TZID:Europe/Berlin
-UID:68cbaa6f-c9d7-4d63-b5a2-f49e1f4d28ea
-URL:https://backstage.eu/lumaraa-ganz-oder-gar-nicht-tour-2026.html
+UID:dc489a4f-134c-4339-beb6-229493db0109
+URL:https://www.backstage.eu/event/11677
 DESCRIPTION:Vip Einlass: 18:00 / Regulärer Einlass: 19:00 / Beginn: 20:00
- 
 LOCATION:Backstage Club
 END:VEVENT
 END:VCALENDAR

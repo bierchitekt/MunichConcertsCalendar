@@ -2,14 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251212T172406Z
+DTSTAMP:20260412T114314Z
 DTSTART:20270123T200000
 DTEND:20270123T220000
 SUMMARY:Grave Digger - Legends Never Die Tour ‘27
 TZID:Europe/Berlin
-UID:59385fba-e0e7-4980-aa5c-7f493073aa5e
-URL:https://backstage.eu/grave-digger-german-metal-attack-2027-legends-ne
- ver-die.html
+UID:82cb307f-ef12-4cc5-907f-2ff5e855461b
+URL:https://www.backstage.eu/event/10912
 DESCRIPTION:+ Special Guest.: Motorjesus
 LOCATION:Backstage Werk
 END:VEVENT

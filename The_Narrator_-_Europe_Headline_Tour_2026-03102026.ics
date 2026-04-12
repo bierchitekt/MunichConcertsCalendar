@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20261003T194500
 DTEND:20261003T214500
 SUMMARY:The Narrator - Europe Headline Tour 2026
 TZID:Europe/Berlin
-UID:7aa6d6d7-c3fd-48dc-a8a4-1544d1bb14e2
-URL:https://backstage.eu/the-narrator-europe-headline-tour-2026.html
+UID:9c38a4f1-14da-4696-89e3-540c890b5eb6
+URL:https://www.backstage.eu/event/10615
 DESCRIPTION:
 LOCATION:Backstage Club
 END:VEVENT

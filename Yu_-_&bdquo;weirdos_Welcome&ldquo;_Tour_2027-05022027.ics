@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260324T172413Z
+DTSTAMP:20260412T114314Z
 DTSTART:20270205T190000
 DTEND:20270205T210000
 SUMMARY:Yu - „weirdos Welcome“ Tour 2027
 TZID:Europe/Berlin
-UID:9fb2480d-62a7-44eb-b470-e2b8043b0441
-URL:https://backstage.eu/yu-weirdos-welcome-tour-2027.html
+UID:da40a05d-af9d-47ee-8a3b-fb2cbbeaf693
+URL:https://www.backstage.eu/event/11683
 DESCRIPTION:
 LOCATION:Backstage Werk
 END:VEVENT

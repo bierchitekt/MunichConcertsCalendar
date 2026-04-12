@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260317T092806Z
+DTSTAMP:20260412T114313Z
 DTSTART:20270319T173000
 DTEND:20270319T193000
 SUMMARY:Der Herr der Ringe: Die Gefährten
 TZID:Europe/Berlin
-UID:93765868-f289-4d81-9603-0fed7c27a450
+UID:00ca9454-aaa7-40d3-b0db-076d8d38b14b
 URL:https://www.olympiapark.de/de/veranstaltungen/der-herr-der-ringe-die-
  gefahrten-n5610
 DESCRIPTION:

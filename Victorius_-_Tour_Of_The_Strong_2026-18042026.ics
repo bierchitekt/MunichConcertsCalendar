@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260418T200000
 DTEND:20260418T220000
 SUMMARY:Victorius - Tour Of The Strong 2026
 TZID:Europe/Berlin
-UID:211e1995-3e55-4897-b251-0d3c8a3f10d5
-URL:https://backstage.eu/victorius-tour-of-the-strong-2026.html
+UID:6ba0d4cf-cb0e-49e1-ac88-f84d922e1f55
+URL:https://www.backstage.eu/event/9629
 DESCRIPTION:
 LOCATION:Backstage Club
 END:VEVENT

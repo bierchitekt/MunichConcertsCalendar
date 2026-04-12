@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260311T172346Z
+DTSTAMP:20260412T114313Z
 DTSTART:20261114T203000
 DTEND:20261114T223000
 SUMMARY:Imperial Triumphant
 TZID:Europe/Berlin
-UID:5eb6719f-7fe0-4f40-949f-bd1f3f010b87
+UID:4447c7d0-f071-4ea2-84c2-e0035fe3806a
 URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/14-11-2026_imp
  erial-triumphant-knoll
 DESCRIPTION:Imperial Triumphant\, Knoll

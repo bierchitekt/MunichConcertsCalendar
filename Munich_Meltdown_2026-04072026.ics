@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260114T172418Z
+DTSTAMP:20260412T114314Z
 DTSTART:20260704T185000
 DTEND:20260704T205000
 SUMMARY:Munich Meltdown 2026
 TZID:Europe/Berlin
-UID:66c7d76d-adac-499f-bb0d-e4c4291b33a4
-URL:https://backstage.eu/munich-meltdown-2026.html
+UID:46d81139-e3a7-4651-a03b-b2ba4a32bf20
+URL:https://www.backstage.eu/event/11208
 DESCRIPTION:Torrential Rain + We Awake + Delirium’s Dawn + No Rest For Th
  e Jaded
 LOCATION:Backstage Club

@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20260218T172329Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260513T200000
 DTEND:20260513T220000
 SUMMARY:Silent Misery - Live 2026
 TZID:Europe/Berlin
-UID:633261f4-2006-4da5-a34a-4ba33c211d91
-URL:https://backstage.eu/silent-misery-live-2026.html
+UID:7c2902be-ba82-4eb4-9905-8d3a23abae73
+URL:https://www.backstage.eu/event/11438
 DESCRIPTION:Silent Misery + Since April + Alquemiste
 LOCATION:Backstage Club
 END:VEVENT

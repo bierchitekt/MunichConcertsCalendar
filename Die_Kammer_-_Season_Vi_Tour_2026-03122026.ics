@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20261203T200000
 DTEND:20261203T220000
 SUMMARY:Die Kammer - Season Vi Tour 2026
 TZID:Europe/Berlin
-UID:dd1c71b7-a840-436f-ac53-e530095bc1c2
-URL:https://backstage.eu/die-kammer-season-vi-tour-2026.html
+UID:4f199e0b-c7d4-4892-a2f9-75bf4901cbdb
+URL:https://www.backstage.eu/event/10902
 DESCRIPTION:Benni Cellini
 LOCATION:Backstage Club
 END:VEVENT

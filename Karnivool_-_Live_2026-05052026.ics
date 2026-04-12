@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 PRODID:-//Events Calendar//iCal4j 1.0//EN
 VERSION:2.0
 BEGIN:VEVENT
-DTSTAMP:20251126T172413Z
+DTSTAMP:20260412T114313Z
 DTSTART:20260505T200000
 DTEND:20260505T220000
 SUMMARY:Karnivool - Live 2026
 TZID:Europe/Berlin
-UID:6ed8fe69-a81b-4b77-b384-18bc3f4f6d13
-URL:https://backstage.eu/karnivool-live-2026.html
+UID:f73f42c4-f7b9-4504-9069-ef421f33d0d4
+URL:https://www.backstage.eu/event/10824
 DESCRIPTION:Karnivool Kommen Mit Album „in Verses“ Im April Und Mai Nach 
  Deutschland
 LOCATION:Backstage Werk
