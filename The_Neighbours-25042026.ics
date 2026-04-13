@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260413T162308Z
+DTSTART:20260425T183000
+DTEND:20260425T203000
+SUMMARY:The Neighbours
+TZID:Europe/Berlin
+UID:442827b4-892e-4b14-921f-26be44af0fba
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/25-04-2026_zes
+ tival-the-neighbours-relativ-rapid-farbfilter-the-jan-solo-project-burac
+ oustics-dont-call-me-charlie
+DESCRIPTION:The Neighbours\, Relativ Rapid\, Farbfilter\, The Jan Solo Pr
+ oject\, Buracoustics\, Don't Call Me Charlie
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
