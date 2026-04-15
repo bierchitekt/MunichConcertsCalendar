@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260415T162317Z
+DTSTART:20260613T220000
+DTEND:20260614T000000
+SUMMARY:Fünf
+TZID:Europe/Berlin
+UID:a18b6ba6-9fc1-4a13-8bfc-7074f8226cd0
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/13-06-2026_mmm
+ adness-fuenf-aufleguan-six_four_b-mr-stampftech-midimal
+DESCRIPTION:Fünf\, Aufleguan\, Six_four_b\, Mr. Stampftech\, Midimal
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
