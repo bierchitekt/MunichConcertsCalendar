@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260416T162340Z
+DTSTART:20261117T180000
+DTEND:20261117T200000
+SUMMARY:Luke Combs Uk - Verlegt In Die Tonhalle
+TZID:Europe/Berlin
+UID:915fd62d-b1ca-4c42-b759-9f60ddd94e39
+URL:https://www.backstage.eu/event/11068
+DESCRIPTION:Das Konzert wurde in die Tonhalle verlegt - Tickets behalten 
+ ihre Gültigkeit für die neue Location.
+LOCATION:Tonhalle (werksviertel-münchen)
+END:VEVENT
+END:VCALENDAR

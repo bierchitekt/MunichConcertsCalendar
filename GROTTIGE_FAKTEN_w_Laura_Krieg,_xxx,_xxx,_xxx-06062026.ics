@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260416T162340Z
+DTSTART:20260606T190000
+DTEND:20260606T210000
+SUMMARY:GROTTIGE FAKTEN w/ Laura Krieg\, xxx\, xxx\, xxx
+TZID:Europe/Berlin
+UID:7b9d7ce0-5aba-4896-a77d-dbd3b3dc97bf
+URL:https://import-export.cc/event/grottige-fakten-w-laura-krieg-xxx-xxx-
+ xxx/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
