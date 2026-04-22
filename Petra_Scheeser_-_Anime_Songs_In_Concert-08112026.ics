@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260422T162304Z
+DTSTART:20261108T200000
+DTEND:20261108T220000
+SUMMARY:Petra Scheeser - Anime Songs In Concert
+TZID:Europe/Berlin
+UID:af2fc558-1266-48e9-9c2f-68767a8ab85e
+URL:https://www.eventfabrik-muenchen.de/event/petra-scheeser-anime-songs-
+ in-concert/
+DESCRIPTION:
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR

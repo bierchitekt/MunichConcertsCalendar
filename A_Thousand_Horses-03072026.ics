@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260422T162304Z
+DTSTART:20260703T200000
+DTEND:20260703T220000
+SUMMARY:A Thousand Horses
+TZID:Europe/Berlin
+UID:59f61fbe-c643-4388-a0d6-098d0286e40c
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/03-07-2026_a-t
+ housand-horses
+DESCRIPTION:A Thousand Horses
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

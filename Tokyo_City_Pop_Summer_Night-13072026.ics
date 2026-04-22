@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260422T162304Z
+DTSTART:20260713T193000
+DTEND:20260713T213000
+SUMMARY:Tokyo City Pop Summer Night
+TZID:Europe/Berlin
+UID:c1002fdb-c3e1-4c98-af30-f1dd6cba1cae
+URL:https://import-export.cc/event/tokyo-city-pop-summer-night/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

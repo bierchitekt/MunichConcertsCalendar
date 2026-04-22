@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260422T162304Z
+DTSTART:20270301T200000
+DTEND:20270301T220000
+SUMMARY:Trentemøller
+TZID:Europe/Berlin
+UID:cc55eabb-2513-4f7e-bb7b-a0def87cf8fa
+URL:https://muenchen.motorworld.de/veranstaltungen/trentemoller/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

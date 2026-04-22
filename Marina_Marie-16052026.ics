@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260422T162304Z
+DTSTART:20260516T190000
+DTEND:20260516T210000
+SUMMARY:Marina Marie
+TZID:Europe/Berlin
+UID:847f14d8-1842-4e0f-ad19-a32b62a39998
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/16-05-2026_fei
+ erwerk-sessions-lina-marina-marie-marie-melody
+DESCRIPTION:Marina Marie\, Linα\, Marie Melody
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
