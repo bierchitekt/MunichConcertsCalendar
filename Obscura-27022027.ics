@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260424T154754Z
+DTSTART:20270227T182000
+DTEND:20270227T202000
+SUMMARY:Obscura
+TZID:Europe/Berlin
+UID:d0caa117-7f9a-4991-aef7-da6557c65a1f
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/27-02-2027_shr
+ ed-fest-2027-obscura-cryptic-shift-thus-dvrk-pestilence
+DESCRIPTION:Obscura\, Cryptic Shift\, Thus\, DVRK\, Pestilence
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
