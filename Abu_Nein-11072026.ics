@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260427T162347Z
+DTSTART:20260711T204500
+DTEND:20260711T224500
+SUMMARY:Abu Nein
+TZID:Europe/Berlin
+UID:a04802a5-1038-47d6-88d8-8fb354cb0074
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/11-07-2026_kat
+ zenclub-abu-nein-yakima-jera
+DESCRIPTION:Abu Nein\, Yakima Jera
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

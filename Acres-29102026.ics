@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260427T162347Z
+DTSTART:20261029T193000
+DTEND:20261029T213000
+SUMMARY:Acres
+TZID:Europe/Berlin
+UID:743965e9-6675-4358-8b36-70c0bc306f78
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/29-10-2026_acr
+ es-wayside-what-lies-below-lifespark
+DESCRIPTION:Acres\, Wayside\, What Lies Below\, Lifespark
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

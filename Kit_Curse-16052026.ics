@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260427T162347Z
+DTSTART:20260516T230000
+DTEND:20260517T010000
+SUMMARY:Kit Curse
+TZID:Europe/Berlin
+UID:d16ded1a-3af2-4817-89e9-f2ef78dcec81
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/16-05-2026_bre
+ ak-it-down
+DESCRIPTION:Kit Curse\, Sam Space\, Glitchart\, SBTL
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
