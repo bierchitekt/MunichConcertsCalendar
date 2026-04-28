@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260428T162302Z
+DTSTART:20260717T193000
+DTEND:20260717T213000
+SUMMARY:Jamila & The Other Heroes
+TZID:Europe/Berlin
+UID:7b939c9b-d27c-4308-944d-075e73e94652
+URL:https://import-export.cc/event/jamila-the-other-heroes-container-open
+ -project-band/
+DESCRIPTION:Container „Open Project Band“
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

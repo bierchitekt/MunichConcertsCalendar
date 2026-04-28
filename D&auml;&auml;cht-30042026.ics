@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260428T162302Z
+DTSTART:20260430T210000
+DTEND:20260430T230000
+SUMMARY:Däächt
+TZID:Europe/Berlin
+UID:ac86265c-39b3-474f-a540-92c4bbc5ee6d
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/30-04-2026_zom
+ bie-sessions-hydra-daeaecht
+DESCRIPTION:Däächt\, Uschi
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
