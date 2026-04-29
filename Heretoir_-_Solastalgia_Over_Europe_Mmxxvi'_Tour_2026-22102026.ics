@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260429T152037Z
+DTSTART:20261022T174500
+DTEND:20261022T194500
+SUMMARY:Heretoir - Solastalgia Over Europe Mmxxvi' Tour 2026
+TZID:Europe/Berlin
+UID:f86707ad-3e86-4aa4-832b-9ce4293dc3de
+URL:https://www.backstage.eu/event/20118
+DESCRIPTION:+supports: Unreqvited & Nidare
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260428T164246Z
+DTSTART:20260626T190000
+DTEND:20260626T210000
+SUMMARY:Latin Arab Night w/ La Perla
+TZID:Europe/Berlin
+UID:6b0b90e8-561a-42ea-bf9b-b9d000273bfd
+URL:https://import-export.cc/event/darjamila-import-export-pres-latin-ara
+ b-night-w-la-perla-3yooni-die_ley-afroandina/
+DESCRIPTION:3YOONI
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

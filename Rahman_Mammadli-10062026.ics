@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260428T164246Z
+DTSTART:20260610T193000
+DTEND:20260610T213000
+SUMMARY:Rahman Mammadli
+TZID:Europe/Berlin
+UID:cd955af3-ae6e-445e-992d-c00c2339442d
+URL:https://import-export.cc/event/rahman-mammadli-embryo/
+DESCRIPTION:Embryo feat. Sumanth Manjunath
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
