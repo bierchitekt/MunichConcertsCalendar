@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260502T162305Z
+DTSTART:20271031T180000
+DTEND:20271031T200000
+SUMMARY:Die Prinzen: Tschüssi\, Macht’s Gut! – Die Abschiedstournee
+TZID:Europe/Berlin
+UID:38973af4-1710-4049-89e6-dcf92d2bfabe
+URL:https://bau.circus-krone.com/veranstaltungen/die-prinzen-tschuessi-ma
+ chts-gut-die-abschiedstournee/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
