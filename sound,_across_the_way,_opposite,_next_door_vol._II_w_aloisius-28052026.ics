@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260504T162258Z
+DTSTART:20260528T210000
+DTEND:20260528T230000
+SUMMARY:sound\, across the way\, opposite\, next door vol. II w/ aloisius
+TZID:Europe/Berlin
+UID:3ed743fd-7550-43f0-a0aa-cc81e7ae0e79
+URL:https://import-export.cc/event/sound-across-the-way-opposite-next-doo
+ r-vol-ii-w-aloisius/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
