@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260505T162254Z
+DTSTART:20261109T200000
+DTEND:20261109T220000
+SUMMARY:Nichtseattle
+TZID:Europe/Berlin
+UID:8cad596b-72ad-4aa1-beda-b016565edac0
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/09-11-2026_nic
+ htseattle
+DESCRIPTION:Nichtseattle
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

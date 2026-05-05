@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260505T110630Z
+DTSTART:20270202T190000
+DTEND:20270202T210000
+SUMMARY:Five Finger Death Punch
+TZID:Europe/Berlin
+UID:a98f2922-8e9c-4900-8f71-9da0e269ac73
+URL:https://www.olympiapark.de/de/veranstaltungen/five-finger-death-punch
+ -n5743
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR
