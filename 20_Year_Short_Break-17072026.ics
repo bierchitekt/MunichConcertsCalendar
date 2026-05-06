@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260505T212227Z
+DTSTART:20260717T183000
+DTEND:20260717T203000
+SUMMARY:20 Year Short Break
+TZID:Europe/Berlin
+UID:59a5aa17-8f83-4e5e-af5c-9f2a1ab382c9
+URL:https://theater-drehleier.de/programm/event/20260717_20_year_short_br
+ eak__kings_of_decay
+DESCRIPTION:Kings Of Decay
+LOCATION:Drehleier
+END:VEVENT
+END:VCALENDAR

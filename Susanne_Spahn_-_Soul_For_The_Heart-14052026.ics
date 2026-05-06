@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260505T212227Z
+DTSTART:20260514T183000
+DTEND:20260514T203000
+SUMMARY:Susanne Spahn - Soul For The Heart
+TZID:Europe/Berlin
+UID:9ae2d1bf-b03c-4371-8f6d-6c879dff5ff0
+URL:https://theater-drehleier.de/programm/event/20260514_susanne_spahn__s
+ oul_for_the_heart
+DESCRIPTION:
+LOCATION:Drehleier
+END:VEVENT
+END:VCALENDAR
