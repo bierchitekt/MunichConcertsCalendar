@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260507T162258Z
+DTSTART:20260907T200000
+DTEND:20260907T220000
+SUMMARY:Sigh
+TZID:Europe/Berlin
+UID:668db139-2f45-444a-8c98-4b9d62b5e645
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/07-09-2026_sig
+ h-devil-master
+DESCRIPTION:Sigh\, Devil Master
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
