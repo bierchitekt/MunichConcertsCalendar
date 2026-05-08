@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260508T162248Z
+DTSTART:20270114T200000
+DTEND:20270114T220000
+SUMMARY:Manfred Mann's Earth Band
+TZID:Europe/Berlin
+UID:80d6da3f-99ab-4f5e-af4e-d00639bd3373
+URL:https://www.muffatwerk.de/de/events/view/8104/manfred-mann-s-earth-ba
+ nd
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR
