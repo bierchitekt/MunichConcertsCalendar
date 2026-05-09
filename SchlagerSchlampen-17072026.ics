@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260509T150926Z
+DTSTART:20260717T193000
+DTEND:20260717T213000
+SUMMARY:SchlagerSchlampen
+TZID:Europe/Berlin
+UID:c0dadbfb-b0bf-4c56-9a2f-b1da46ae5e92
+URL:https://www.tollwood.de/veranstaltungen/2026/schlagerschlampen/
+DESCRIPTION:
+LOCATION:Tollwood
+END:VEVENT
+END:VCALENDAR

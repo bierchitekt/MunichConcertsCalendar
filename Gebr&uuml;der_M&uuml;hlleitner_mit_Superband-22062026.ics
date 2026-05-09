@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260509T150925Z
+DTSTART:20260622T163000
+DTEND:20260622T183000
+SUMMARY:Gebrüder Mühlleitner mit Superband
+TZID:Europe/Berlin
+UID:6c8bc57f-8a65-4836-acbe-fda5dca6db67
+URL:https://www.tollwood.de/veranstaltungen/2026/gebrueder-muehlleitner-m
+ it-superband/
+DESCRIPTION:
+LOCATION:Tollwood
+END:VEVENT
+END:VCALENDAR

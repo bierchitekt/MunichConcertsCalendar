@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260509T150926Z
+DTSTART:20260704T183000
+DTEND:20260704T203000
+SUMMARY:A Feast For Crows / Blind Mess / Grindset
+TZID:Europe/Berlin
+UID:4fa75687-2bf9-48a0-be26-72fb89e731c1
+URL:https://theater-drehleier.de/programm/event/20260704_a_feast_for_crow
+ s__blind_mess___grindset
+DESCRIPTION:
+LOCATION:Drehleier
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260509T150926Z
+DTSTART:20260626T183000
+DTEND:20260626T203000
+SUMMARY:The Half Orphans / Neonaura
+TZID:Europe/Berlin
+UID:903c6d2b-e056-4b1f-83c5-1558d94774c3
+URL:https://theater-drehleier.de/programm/event/20260626_the_half_orphans
+ __neonaura
+DESCRIPTION:
+LOCATION:Drehleier
+END:VEVENT
+END:VCALENDAR

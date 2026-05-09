@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260509T150926Z
+DTSTART:20260715T163000
+DTEND:20260715T183000
+SUMMARY:Becky Jay
+TZID:Europe/Berlin
+UID:d71a5dcb-7ac1-462a-ac8f-31f3f92b4385
+URL:https://www.tollwood.de/veranstaltungen/2026/becky-jay-titus-waldenfe
+ ls/
+DESCRIPTION:Titus Waldenfels
+LOCATION:Tollwood
+END:VEVENT
+END:VCALENDAR

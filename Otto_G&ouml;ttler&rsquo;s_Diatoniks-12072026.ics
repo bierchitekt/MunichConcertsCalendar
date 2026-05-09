@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260509T150926Z
+DTSTART:20260712T180000
+DTEND:20260712T200000
+SUMMARY:Otto Göttler’s Diatoniks
+TZID:Europe/Berlin
+UID:0b633761-b5fc-4a0d-8f59-2b91b3f6de70
+URL:https://www.tollwood.de/veranstaltungen/2026/otto-goettlers-diatoniks
+ /
+DESCRIPTION:
+LOCATION:Tollwood
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260509T150926Z
+DTSTART:20260712T153000
+DTEND:20260712T173000
+SUMMARY:Baby Palace
+TZID:Europe/Berlin
+UID:fb6fe3ec-574e-41ed-b910-a4c18d71dc1d
+URL:https://www.tollwood.de/veranstaltungen/2026/baby-palace-the-hot-shak
+ ers/
+DESCRIPTION:The Hot Shakers
+LOCATION:Tollwood
+END:VEVENT
+END:VCALENDAR

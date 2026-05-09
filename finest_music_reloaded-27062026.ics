@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260509T150926Z
+DTSTART:20260627T190000
+DTEND:20260627T210000
+SUMMARY:finest music reloaded
+TZID:Europe/Berlin
+UID:bad47463-4a0e-4bfd-97f0-76d2c20bf070
+URL:https://www.tollwood.de/veranstaltungen/2026/finest-music-reloaded/
+DESCRIPTION:
+LOCATION:Tollwood
+END:VEVENT
+END:VCALENDAR

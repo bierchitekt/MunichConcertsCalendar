@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260509T150925Z
+DTSTART:20260515T183000
+DTEND:20260515T203000
+SUMMARY:Leaderless / Chaos Revealed
+TZID:Europe/Berlin
+UID:d445378f-0989-4cb3-b008-912ee73af7b5
+URL:https://theater-drehleier.de/programm/event/20260515_leaderless___cha
+ os_revealed
+DESCRIPTION:
+LOCATION:Drehleier
+END:VEVENT
+END:VCALENDAR

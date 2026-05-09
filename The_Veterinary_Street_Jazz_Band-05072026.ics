@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260509T150926Z
+DTSTART:20260705T120000
+DTEND:20260705T140000
+SUMMARY:The Veterinary Street Jazz Band
+TZID:Europe/Berlin
+UID:d11072ab-916a-4130-ba5b-99e4b9ae16f6
+URL:https://www.tollwood.de/veranstaltungen/2026/the-veterinary-street-ja
+ zz-band/
+DESCRIPTION:
+LOCATION:Tollwood
+END:VEVENT
+END:VCALENDAR
