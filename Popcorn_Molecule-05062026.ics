@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260510T092145Z
+DTSTART:20260605T183000
+DTEND:20260605T203000
+SUMMARY:Popcorn Molecule
+TZID:Europe/Berlin
+UID:b7b5e86a-2af1-45ea-82a6-3d693b6e04c1
+URL:https://bewerben.stustaculum.de/media/ssc2026/question_uploads/Popcor
+ n_Molecule_Mediakit_CRd9fzw.pdf
+DESCRIPTION:
+LOCATION:StuStaCulum
+END:VEVENT
+END:VCALENDAR

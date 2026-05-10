@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260510T092145Z
+DTSTART:20260606T184500
+DTEND:20260606T204500
+SUMMARY:Levin
+TZID:Europe/Berlin
+UID:aff97f4d-07db-4203-a11e-7d7bacfd2dbf
+URL:https://bewerben.stustaculum.de/media/ssc2026/question_uploads/Levin_
+ Pressetext_2025_HJ1zDii.pdf
+DESCRIPTION:
+LOCATION:StuStaCulum
+END:VEVENT
+END:VCALENDAR

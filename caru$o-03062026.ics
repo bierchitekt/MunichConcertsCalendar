@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260510T092145Z
+DTSTART:20260603T191500
+DTEND:20260603T211500
+SUMMARY:caru$o
+TZID:Europe/Berlin
+UID:e20c1f6e-bb10-4e54-bfbb-ac09ec4e0b19
+URL:https://bewerben.stustaculum.de/media/ssc2026/question_uploads/caruso
+ _presskit_Liyb5LY.pdf
+DESCRIPTION:
+LOCATION:StuStaCulum
+END:VEVENT
+END:VCALENDAR

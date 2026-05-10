@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260510T092145Z
+DTSTART:20260606T161500
+DTEND:20260606T181500
+SUMMARY:Antipasti
+TZID:Europe/Berlin
+UID:96c48a0f-4ede-4fd9-b8cc-54d84213a60c
+URL:https://bewerben.stustaculum.de/media/ssc2026/question_uploads/Antipa
+ sti_Pressetext_neu_ZeChQJn.pdf
+DESCRIPTION:
+LOCATION:StuStaCulum
+END:VEVENT
+END:VCALENDAR

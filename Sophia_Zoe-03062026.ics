@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260510T092145Z
+DTSTART:20260603T171500
+DTEND:20260603T191500
+SUMMARY:Sophia Zoe
+TZID:Europe/Berlin
+UID:7f7f2e0f-2d6a-4d41-a9c9-a6ffd68d9cf1
+URL:https://bewerben.stustaculum.de/media/ssc2026/question_uploads/Bookin
+ g-EPK-2026_SophiaZoe_oONr4i9.pdf
+DESCRIPTION:
+LOCATION:StuStaCulum
+END:VEVENT
+END:VCALENDAR
