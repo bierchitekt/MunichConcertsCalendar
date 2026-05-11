@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260511T162311Z
+DTSTART:20260619T193000
+DTEND:20260619T213000
+SUMMARY:Brainscha
+TZID:Europe/Berlin
+UID:52845010-0c2a-4e6f-b41c-3f80059f3f11
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/19-06-2026_pes
+ tfest-brainscha-iq-zero-nie-ohne-timba-tortured-vyper
+DESCRIPTION:Brainscha\, IQ Zero\, Nie ohne Timba\, Tortured\, Vyper
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
