@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260512T162425Z
+DTSTART:20260717T230000
+DTEND:20260718T010000
+SUMMARY:TonTauben Kollektiv
+TZID:Europe/Berlin
+UID:8b1fab04-7a37-4cd9-b311-32c23fb50f99
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/17-07-2026_ton
+ tauben-sommer-rave-tontauben-kollektiv
+DESCRIPTION:TonTauben Kollektiv
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

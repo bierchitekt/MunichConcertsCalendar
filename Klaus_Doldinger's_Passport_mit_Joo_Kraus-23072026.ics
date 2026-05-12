@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260512T162425Z
+DTSTART:20260723T200000
+DTEND:20260723T220000
+SUMMARY:Klaus Doldinger's Passport mit Joo Kraus
+TZID:Europe/Berlin
+UID:a6442c29-c472-4387-9c4c-59e5c3578aac
+URL:https://www.muffatwerk.de/de/events/view/8108/klaus-doldinger-s-passp
+ ort-mit-joo-kraus
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR
