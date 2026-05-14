@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260513T170355Z
+DTSTART:20270509T190000
+DTEND:20270509T210000
+SUMMARY:Abba Gold – The Concert Show
+TZID:Europe/Berlin
+UID:4832fc2a-2296-48f8-8063-07594508bf46
+URL:https://bau.circus-krone.com/veranstaltungen/abba-gold-the-concert-sh
+ ow/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

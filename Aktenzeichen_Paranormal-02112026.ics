@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260513T170355Z
+DTSTART:20261102T200000
+DTEND:20261102T220000
+SUMMARY:Aktenzeichen Paranormal
+TZID:Europe/Berlin
+UID:520dbcb8-3d3b-4885-9625-4165a4ffb5ac
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/02-11-2026_akt
+ enzeichen-paranormal-podcast
+DESCRIPTION:Aktenzeichen Paranormal
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

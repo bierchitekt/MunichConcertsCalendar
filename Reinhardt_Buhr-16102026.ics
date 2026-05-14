@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260513T170355Z
+DTSTART:20261016T200000
+DTEND:20261016T220000
+SUMMARY:Reinhardt Buhr
+TZID:Europe/Berlin
+UID:84b392a1-574a-4608-b31f-7e7f32c0ff32
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/16-10-2026_rei
+ nhardt-buhr
+DESCRIPTION:Reinhardt Buhr
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

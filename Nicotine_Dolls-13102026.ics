@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260513T170355Z
+DTSTART:20261013T200000
+DTEND:20261013T220000
+SUMMARY:Nicotine Dolls
+TZID:Europe/Berlin
+UID:c1792d56-2327-4508-a600-8d6284d1d9cb
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/13-10-2026_nic
+ otine-dolls
+DESCRIPTION:Nicotine Dolls
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

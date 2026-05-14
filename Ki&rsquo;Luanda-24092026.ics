@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260514T111905Z
+DTSTART:20260924T200000
+DTEND:20260924T220000
+SUMMARY:Ki’Luanda
+TZID:Europe/Berlin
+UID:1754c87f-caa5-4234-84f6-7ed5b3812c1a
+URL:https://import-export.cc/event/kiluanda-miss-mellow-a-psychedelic-sou
+ l-funk-evening/
+DESCRIPTION:Miss Mellow: A Psychedelic Soul Funk Evening
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260513T170355Z
+DTSTART:20260710T190000
+DTEND:20260710T210000
+SUMMARY:Bal de la fête nationale française
+TZID:Europe/Berlin
+UID:97c2d100-7df0-4e8b-ad08-bee8d3a7bfa0
+URL:https://www.muffatwerk.de/de/events/view/8112/bal-de-la-fete-national
+ e-francaise
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR

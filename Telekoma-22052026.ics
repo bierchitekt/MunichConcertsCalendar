@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260514T111905Z
+DTSTART:20260522T193000
+DTEND:20260522T213000
+SUMMARY:Telekoma
+TZID:Europe/Berlin
+UID:86fbddbd-7620-4148-a5ba-46c3bf24b04f
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/22-05-2026_tel
+ ekoma-underdogz-bullshit-detectoer-mike-and-the-assfuckers
+DESCRIPTION:Telekoma\, Underdogz\, Bullshit Detectör\, Mike and the Assfu
+ ckers
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

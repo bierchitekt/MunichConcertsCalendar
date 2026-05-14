@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260513T170355Z
+DTSTART:20260513T203000
+DTEND:20260513T223000
+SUMMARY:Gleis 11
+TZID:Europe/Berlin
+UID:e0a489c9-83bf-44a3-af0e-0df53eed6b64
+URL:https://import-export.cc/event/outdoor-opening-gleis-11-dj-sueperfly-
+ dj-vanilla-panzer/
+DESCRIPTION:DJ Süperfly
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
