@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260515T162302Z
+DTSTART:20260606T190000
+DTEND:20260606T210000
+SUMMARY:Mikrofestival: GROTTIGE FAKTEN w/ Laura Krieg\, Tochter aus E\, F
+ itis\, Scho uvm
+TZID:Europe/Berlin
+UID:3425a15a-62ba-45a2-8bce-1e225b614b44
+URL:https://import-export.cc/event/grottige-fakten-w-laura-krieg-xxx-xxx-
+ xxx/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

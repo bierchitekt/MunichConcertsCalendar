@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260515T162302Z
+DTSTART:20261126T200000
+DTEND:20261126T220000
+SUMMARY:Alex Henry Foster
+TZID:Europe/Berlin
+UID:1a7e1760-ede5-4574-be26-24a5b990c4e2
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/26-11-2026_ale
+ x-henry-foster
+DESCRIPTION:Alex Henry Foster
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
