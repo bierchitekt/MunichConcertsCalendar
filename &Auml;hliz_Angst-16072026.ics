@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260516T162253Z
+DTSTART:20260716T203000
+DTEND:20260716T223000
+SUMMARY:Ähliz Angst
+TZID:Europe/Berlin
+UID:e336ac96-9a05-499c-b611-2352c795cf2e
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/16-07-2026_bla
+ ck-rat-aehliz-angst-burnt-bagels
+DESCRIPTION:Ähliz Angst\, Burnt Bagels
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
