@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260517T162244Z
+DTSTART:20260613T200000
+DTEND:20260613T220000
+SUMMARY:Black Snappers
+TZID:Europe/Berlin
+UID:ae3a57af-a5ea-4d83-b25e-f8561f55e3b4
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/13-06-2026_sze
+ ne-check-0
+DESCRIPTION:Black Snappers\, 4Perzent\, Felinio\, fen.
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
