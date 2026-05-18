@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260518T162311Z
+DTSTART:20261113T200000
+DTEND:20261113T220000
+SUMMARY:Waylon Wyatt
+TZID:Europe/Berlin
+UID:0da2f4b2-bb0c-428c-be00-59d97211be52
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/13-11-2026_way
+ lon-wyatt
+DESCRIPTION:Waylon Wyatt
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

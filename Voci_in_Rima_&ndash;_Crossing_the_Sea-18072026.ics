@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260518T162311Z
+DTSTART:20260718T190000
+DTEND:20260718T210000
+SUMMARY:Voci in Rima – Crossing the Sea
+TZID:Europe/Berlin
+UID:dbd2fc25-6465-466e-a28e-32e70603a21e
+URL:https://import-export.cc/event/mediterranea-saving-humans-pres-voci-i
+ n-rima-crossing-the-sea/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
