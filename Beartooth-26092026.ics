@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260521T162309Z
+DTSTART:20260926T200000
+DTEND:20260926T220000
+SUMMARY:Beartooth
+TZID:Europe/Berlin
+UID:8209cfd2-9108-40ec-b14d-111099ab746b
+URL:https://muenchen.motorworld.de/veranstaltungen/beartooth-3/
+DESCRIPTION:Silverstein & Kingdom of Giants
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

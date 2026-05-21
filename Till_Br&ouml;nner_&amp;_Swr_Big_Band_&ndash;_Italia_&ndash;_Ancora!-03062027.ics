@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260521T162310Z
+DTSTART:20270603T200000
+DTEND:20270603T220000
+SUMMARY:Till Brönner & Swr Big Band – Italia – Ancora!
+TZID:Europe/Berlin
+UID:dde73083-705c-40ae-a446-788fbc874a08
+URL:https://bau.circus-krone.com/veranstaltungen/till-broenner-swr-big-ba
+ nd-italia-ancora/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

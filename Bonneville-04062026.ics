@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260520T173408Z
+DTSTART:20260604T190000
+DTEND:20260604T210000
+SUMMARY:Bonneville
+TZID:Europe/Berlin
+UID:8620a8ca-3d06-4316-bee3-9ea4c85b11d4
+URL:https://bewerben.stustaculum.de/media/ssc2026/question_uploads/Bonnev
+ ille_Logo_2026_transparent_VgpACOb.png
+DESCRIPTION:
+LOCATION:StuStaCulum
+END:VEVENT
+END:VCALENDAR

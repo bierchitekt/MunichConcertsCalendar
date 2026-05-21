@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260520T173409Z
+DTSTART:20261117T200000
+DTEND:20261117T220000
+SUMMARY:The Last Internationale
+TZID:Europe/Berlin
+UID:b2cd7304-1459-430c-812d-de96d33fa86d
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/17-11-2026_the
+ -last-internationale
+DESCRIPTION:The Last Internationale
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

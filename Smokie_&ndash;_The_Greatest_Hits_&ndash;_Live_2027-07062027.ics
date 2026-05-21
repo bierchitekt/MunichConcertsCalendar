@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260521T162310Z
+DTSTART:20270607T200000
+DTEND:20270607T220000
+SUMMARY:Smokie – The Greatest Hits – Live 2027
+TZID:Europe/Berlin
+UID:211c1bf3-2dac-4e2d-b9f8-e22cd9552318
+URL:https://bau.circus-krone.com/veranstaltungen/smokie-the-greatest-hits
+ -live-2027/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
