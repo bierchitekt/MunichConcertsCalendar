@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260523T162309Z
+DTSTART:20260709T193000
+DTEND:20260709T213000
+SUMMARY:Muovipussi
+TZID:Europe/Berlin
+UID:a31abcd7-5b10-4f18-b254-a3ac02d6401a
+URL:https://import-export.cc/event/muovipussi-faileri-failera/
+DESCRIPTION:Faileri Failera
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
