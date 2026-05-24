@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260524T162248Z
+DTSTART:20270620T190000
+DTEND:20270620T210000
+SUMMARY:We Salute You – World’s Biggest Tribute To Ac/dc
+TZID:Europe/Berlin
+UID:fbc3cdc4-38ad-4775-8258-28987e65d746
+URL:https://bau.circus-krone.com/veranstaltungen/we-salute-you-worlds-big
+ gest-tribute-to-ac-dc-2027/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

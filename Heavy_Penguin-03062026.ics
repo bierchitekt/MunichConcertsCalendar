@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260524T162248Z
+DTSTART:20260603T183000
+DTEND:20260603T203000
+SUMMARY:Heavy Penguin
+TZID:Europe/Berlin
+UID:4c33d19b-5cdf-4808-a388-2c6d60f68360
+URL:https://bewerben.stustaculum.de/media/ssc2026/question_uploads/Fricti
+ on_Album_Art_lnKSuDq.png
+DESCRIPTION:
+LOCATION:StuStaCulum
+END:VEVENT
+END:VCALENDAR
