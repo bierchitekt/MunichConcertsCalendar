@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260526T162252Z
+DTSTART:20270120T190000
+DTEND:20270120T210000
+SUMMARY:Nothing But Thieves
+TZID:Europe/Berlin
+UID:4b66a61c-ce9b-488e-b0b1-7378a85d09f2
+URL:https://www.olympiapark.de/de/veranstaltungen/nothing-but-thieves-n59
+ 12
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR
