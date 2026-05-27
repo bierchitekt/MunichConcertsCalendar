@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260527T162254Z
+DTSTART:20260811T190000
+DTEND:20260811T210000
+SUMMARY:Elie Zoé
+TZID:Europe/Berlin
+UID:c9e24572-b5f1-4d06-8568-dd78caa47e7c
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/11-08-2026_the
+ atron-elie-zoe-maria-de-val-greenwald
+DESCRIPTION:Elie Zoé\, Maria De Val\, greenwald
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

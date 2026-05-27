@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260527T162254Z
+DTSTART:20260812T190000
+DTEND:20260812T210000
+SUMMARY:Udo West
+TZID:Europe/Berlin
+UID:f423b440-7953-4ebb-a013-c400af402721
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/12-08-2026_the
+ atron-udo-west-lauraine
+DESCRIPTION:Udo West\, Lauraine
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

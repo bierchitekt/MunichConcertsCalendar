@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260527T162254Z
+DTSTART:20260818T190000
+DTEND:20260818T210000
+SUMMARY:Cousines like Shit
+TZID:Europe/Berlin
+UID:4ce531e5-5365-4ee7-99e8-18fc76438521
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/18-08-2026_the
+ atron-cousines-like-shit-oke-polar-noir
+DESCRIPTION:Cousines like Shit\, Oke\, Polar Noir
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

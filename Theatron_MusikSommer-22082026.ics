@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260527T162254Z
+DTSTART:20260822T170000
+DTEND:20260822T190000
+SUMMARY:Theatron MusikSommer
+TZID:Europe/Berlin
+UID:ade0b006-2ef7-446e-b0fa-4efa9971bb30
+URL:https://www.olympiapark.de/de/veranstaltungen/theatron-musiksommer--n
+ 5921
+DESCRIPTION:
+LOCATION:Theatron
+END:VEVENT
+END:VCALENDAR

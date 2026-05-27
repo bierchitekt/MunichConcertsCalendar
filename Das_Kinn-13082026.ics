@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260527T162254Z
+DTSTART:20260813T190000
+DTEND:20260813T210000
+SUMMARY:Das Kinn
+TZID:Europe/Berlin
+UID:83eb9ff9-83b8-46d7-979c-2f22b38a2c07
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/13-08-2026_the
+ atron-das-kinn-elektrokohle-soft-violet
+DESCRIPTION:Das Kinn\, Elektrokohle\, Soft Violet
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

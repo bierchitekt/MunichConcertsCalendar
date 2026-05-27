@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260527T162254Z
+DTSTART:20260814T190000
+DTEND:20260814T210000
+SUMMARY:Berglind
+TZID:Europe/Berlin
+UID:ca1bed8c-9879-4daa-8096-cd1e6c24d25f
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/14-08-2026_the
+ atron-berglind-felinio
+DESCRIPTION:Berglind\, Felinio
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
