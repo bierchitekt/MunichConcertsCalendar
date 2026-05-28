@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260528T162249Z
+DTSTART:20260809T163000
+DTEND:20260809T183000
+SUMMARY:Left To Die
+TZID:Europe/Berlin
+UID:bae28793-a854-481e-a8a2-5deb70ff28a8
+URL:https://www.backstage.eu/event/77d544f5-ca0f-4940-b8d7-aa0952d2338f
+DESCRIPTION:Vio-lence\, Angelus Apatrida\, Livløs\, Cutthroat | Free&easy
+  2026
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR
