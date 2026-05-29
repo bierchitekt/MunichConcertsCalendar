@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260529T162328Z
+DTSTART:20270611T200000
+DTEND:20270611T220000
+SUMMARY:Osan Yaran – Wollen Wir Beginnen?
+TZID:Europe/Berlin
+UID:3856dc6b-5749-4520-a6c2-beacd2f345a1
+URL:https://bau.circus-krone.com/veranstaltungen/osan-yaran-wollen-wir-be
+ ginnen/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

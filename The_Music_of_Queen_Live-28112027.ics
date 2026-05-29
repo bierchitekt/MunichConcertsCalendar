@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260529T162328Z
+DTSTART:20271128T190000
+DTEND:20271128T210000
+SUMMARY:The Music of Queen Live
+TZID:Europe/Berlin
+UID:fb0eb8f3-dc48-40d0-b921-2618111e2d5a
+URL:https://www.olympiapark.de/de/veranstaltungen/the-music-of-queen-live
+ --n5986
+DESCRIPTION:
+LOCATION:Kleine Olympiahalle
+END:VEVENT
+END:VCALENDAR

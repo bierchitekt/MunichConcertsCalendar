@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260529T162328Z
+DTSTART:20260726T173000
+DTEND:20260726T193000
+SUMMARY:Mark Foggo
+TZID:Europe/Berlin
+UID:13fc6cf3-a682-450e-8328-682870ad9f19
+URL:https://www.backstage.eu/event/9f4acfc1-dd4f-4af6-87b9-19321a446fea
+DESCRIPTION:The Raging Nathans\, Verse\, Chorus\, Inferno | Free&easy 202
+ 6
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
