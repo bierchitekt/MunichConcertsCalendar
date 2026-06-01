@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260601T162412Z
+DTSTART:20261127T180000
+DTEND:20261127T200000
+SUMMARY:VLMV
+TZID:Europe/Berlin
+UID:f8d547d4-b35c-4704-b534-93999d03eb11
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/27-11-2026_5nd
+ reas-postrock-festival-tag-1
+DESCRIPTION:VLMV\, jeffk\, MoYan\, One Last Moment
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260601T162412Z
+DTSTART:20260717T193000
+DTEND:20260717T213000
+SUMMARY:Aylin’s Soulgarden
+TZID:Europe/Berlin
+UID:4aa79744-a0b2-4e19-b185-a2d176378b46
+URL:https://import-export.cc/event/aylins-soulgarden-container-open-proje
+ ct-band/
+DESCRIPTION:Container „Open Project Band“
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
