@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260602T162325Z
+DTSTART:20261128T180000
+DTEND:20261128T200000
+SUMMARY:Lost in Kyiv
+TZID:Europe/Berlin
+UID:2606ad5e-3e6b-4637-a373-6eeaff394211
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/28-11-2026_5nd
+ reas-postrock-festival-tag-2
+DESCRIPTION:Lost in Kyiv\, Besides\, Soonago\, Lai delle Nubi\, Civil Ser
+ vice
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

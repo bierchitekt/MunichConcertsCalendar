@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260602T162325Z
+DTSTART:20260627T210000
+DTEND:20260627T230000
+SUMMARY:eos
+TZID:Europe/Berlin
+UID:b071a958-1e35-4f0f-b653-d12eb419d0b8
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/27-06-2026_sch
+ lecht-und-schwindlig-eos-arschflugkoerper-kloppstokk
+DESCRIPTION:eos\, Kloppstokk\, Arschflugkörper
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
