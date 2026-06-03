@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260603T162302Z
+DTSTART:20260915T200000
+DTEND:20260915T220000
+SUMMARY:Garth Erasmus Broken String Ensemble mit Gast Micha Acher
+TZID:Europe/Berlin
+UID:dc9651e9-a826-42b7-a493-e755044c433e
+URL:https://import-export.cc/event/garth-erasmus-broken-string-ensemble-m
+ it-gast-micha-acher/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
