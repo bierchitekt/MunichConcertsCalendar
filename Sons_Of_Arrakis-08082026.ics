@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260604T162311Z
+DTSTART:20260808T173000
+DTEND:20260808T193000
+SUMMARY:Sons Of Arrakis
+TZID:Europe/Berlin
+UID:d8154457-fb5e-4f1b-8bbe-cde2c138fbce
+URL:https://www.backstage.eu/event/8fbb5aa4-f22a-4bdd-93a7-83c1875dec5f
+DESCRIPTION:Evoken (us)\, Todomal (es) | Free&easy 2026
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
