@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260608T162321Z
+DTSTART:20260704T160000
+DTEND:20260704T180000
+SUMMARY:School Of Rock Usa Deutschland-sommertour Show #6 At Backstage Ha
+ lle
+TZID:Europe/Berlin
+UID:82eccd04-b07b-4121-b517-a292e94df67a
+URL:https://www.backstage.eu/event/779d3f2c-b0c1-49b8-afd4-7fe8d663c716
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

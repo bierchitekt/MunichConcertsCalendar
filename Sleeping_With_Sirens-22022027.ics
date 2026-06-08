@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260608T162321Z
+DTSTART:20270222T193000
+DTEND:20270222T213000
+SUMMARY:Sleeping With Sirens
+TZID:Europe/Berlin
+UID:f455cb86-cdf7-440a-9e6e-f4b54378a595
+URL:https://www.eventfabrik-muenchen.de/event/sleeping-with-sirens/
+DESCRIPTION:Acts Arm's Length \, Like Roses
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260608T162321Z
+DTSTART:20260730T180000
+DTEND:20260730T200000
+SUMMARY:Revenge Of The Synth: A Star Wars Show || A Live Electronic Space
+  Opera In A Galaxy Far Far Away… | Free&easy 2026
+TZID:Europe/Berlin
+UID:6d7dfeb7-9c93-4f88-900e-1389d94c879a
+URL:https://www.backstage.eu/event/d3221fd0-fbf8-490c-a496-8fc198084d29
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

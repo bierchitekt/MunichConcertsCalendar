@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260608T162321Z
+DTSTART:20270408T200000
+DTEND:20270408T220000
+SUMMARY:Ak Ausserkontrolle
+TZID:Europe/Berlin
+UID:fdbc633c-25a5-40e9-8d32-2e2910ebbd1d
+URL:https://www.eventfabrik-muenchen.de/event/ak-ausserkontrolle/
+DESCRIPTION:
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR
