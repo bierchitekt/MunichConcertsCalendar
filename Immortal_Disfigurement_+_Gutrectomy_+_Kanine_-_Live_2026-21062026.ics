@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260609T162305Z
+DTSTART:20260621T200000
+DTEND:20260621T220000
+SUMMARY:Immortal Disfigurement + Gutrectomy + Kanine - Live 2026
+TZID:Europe/Berlin
+UID:1d13bd57-bf7c-4db5-a1ad-73aded9590b0
+URL:https://www.backstage.eu/event/7e01393d-efff-4435-9533-2cf50eb74c1a
+DESCRIPTION:Kanine
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR
