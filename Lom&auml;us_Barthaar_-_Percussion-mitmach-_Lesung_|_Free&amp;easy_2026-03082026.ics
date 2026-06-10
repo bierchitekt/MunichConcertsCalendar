@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260610T162257Z
+DTSTART:20260803T143000
+DTEND:20260803T163000
+SUMMARY:Lomäus Barthaar - Percussion-mitmach- Lesung | Free&easy 2026
+TZID:Europe/Berlin
+UID:cd346d9d-e539-459b-98a8-d11ffb8e6fd3
+URL:https://www.backstage.eu/event/ad3bf930-b595-46ee-a113-81847ebbe2c6
+DESCRIPTION:
+LOCATION:Backstage Arena Süd Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

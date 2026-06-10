@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260610T162257Z
+DTSTART:20260912T203000
+DTEND:20260912T223000
+SUMMARY:Light Asylum
+TZID:Europe/Berlin
+UID:24751502-0eba-4aa8-a0d4-ab0feaa7564a
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/12-09-2026_kat
+ zenclub-light-asylum-automelodi
+DESCRIPTION:Light Asylum\, Automelodi
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
