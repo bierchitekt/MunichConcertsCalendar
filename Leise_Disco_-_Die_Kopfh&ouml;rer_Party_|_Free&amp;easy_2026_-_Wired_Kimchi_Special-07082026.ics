@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260611T162327Z
+DTSTART:20260807T200000
+DTEND:20260807T220000
+SUMMARY:Leise Disco - Die Kopfhörer Party | Free&easy 2026 - Wired Kimchi
+  Special
+TZID:Europe/Berlin
+UID:05a0e6df-2ae8-40ce-b9cc-5e377a399e74
+URL:https://www.backstage.eu/event/50ec839d-5cfb-4540-80f9-ea99bea57b51
+DESCRIPTION:
+LOCATION:Backyard
+END:VEVENT
+END:VCALENDAR

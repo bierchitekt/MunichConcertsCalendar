@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260611T162327Z
+DTSTART:20260614T170000
+DTEND:20260614T190000
+SUMMARY:Dikka – Boah Ist Das Krass Tour 2
+TZID:Europe/Berlin
+UID:371ac2c5-7bfd-446d-8e96-ebadc48794b7
+URL:https://bau.circus-krone.com/veranstaltungen/dikka-boah-ist-das-krass
+ -tour-2/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

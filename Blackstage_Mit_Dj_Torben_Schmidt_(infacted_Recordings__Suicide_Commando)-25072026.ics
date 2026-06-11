@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260611T162327Z
+DTSTART:20260725T215000
+DTEND:20260725T235000
+SUMMARY:Blackstage Mit Dj Torben Schmidt (infacted Recordings / Suicide C
+ ommando)
+TZID:Europe/Berlin
+UID:fc2ce562-d617-4c1f-a1ea-6f84ca5a8e49
+URL:https://www.backstage.eu/event/4318c2aa-cf7d-4adb-86d6-20841d8f1178
+DESCRIPTION:
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
