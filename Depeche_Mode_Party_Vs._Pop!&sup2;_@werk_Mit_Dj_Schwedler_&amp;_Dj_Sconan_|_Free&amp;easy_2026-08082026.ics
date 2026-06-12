@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260612T162315Z
+DTSTART:20260808T210000
+DTEND:20260808T230000
+SUMMARY:Depeche Mode Party Vs. Pop!² @werk Mit Dj Schwedler & Dj Sconan |
+  Free&easy 2026
+TZID:Europe/Berlin
+UID:542db1da-cd9f-4775-b98c-d6d2ffba99b2
+URL:https://www.backstage.eu/event/20e88994-f4ae-4ab2-b44b-13c5df41e211
+DESCRIPTION:
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

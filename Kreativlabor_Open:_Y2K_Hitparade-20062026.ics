@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260612T162314Z
+DTSTART:20260620T220000
+DTEND:20260621T000000
+SUMMARY:Kreativlabor Open: Y2K Hitparade
+TZID:Europe/Berlin
+UID:e0ef7419-b552-4033-b7f8-a579516efcaf
+URL:https://import-export.cc/event/kreativlabor-open-hitparade/
+DESCRIPTION:Spiegelplatz Programm
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
