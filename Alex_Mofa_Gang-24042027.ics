@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260615T162322Z
+DTSTART:20270424T200000
+DTEND:20270424T220000
+SUMMARY:Alex Mofa Gang
+TZID:Europe/Berlin
+UID:5e7a1644-600a-46bd-a34a-3946cb722ad1
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/24-04-2027_ale
+ x-mofa-gang-alex-mofa-gang-0
+DESCRIPTION:Alex Mofa Gang
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
