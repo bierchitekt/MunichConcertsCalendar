@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260616T162312Z
+DTSTART:20270123T193000
+DTEND:20270123T213000
+SUMMARY:Young Gun Silver Fox
+TZID:Europe/Berlin
+UID:e758c38c-f62d-4298-b6b8-38fdd17d519e
+URL:https://www.eventfabrik-muenchen.de/event/young-gun-silver-fox/
+DESCRIPTION:Smith & Liddle
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR
