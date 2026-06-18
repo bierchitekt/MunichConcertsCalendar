@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260618T162305Z
+DTSTART:20260709T160000
+DTEND:20260709T180000
+SUMMARY:Moskau78
+TZID:Europe/Berlin
+UID:55a280f4-95bc-4be1-b40f-f2aa800c6ed0
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/09-07-2026_boo
+ mbox-rocks-jugendkulturfestival-0
+DESCRIPTION:Moskau78\, Escape Silencio\, Emanate
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

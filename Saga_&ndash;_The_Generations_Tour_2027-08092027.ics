@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260618T162305Z
+DTSTART:20270908T200000
+DTEND:20270908T220000
+SUMMARY:Saga – The Generations Tour 2027
+TZID:Europe/Berlin
+UID:f2259e04-8e24-482c-b686-9f661314fa36
+URL:https://bau.circus-krone.com/veranstaltungen/saga-the-generations-tou
+ r-2027/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

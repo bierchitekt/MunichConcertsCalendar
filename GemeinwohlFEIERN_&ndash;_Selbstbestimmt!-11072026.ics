@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260618T162305Z
+DTSTART:20260711T150000
+DTEND:20260711T170000
+SUMMARY:GemeinwohlFEIERN – Selbstbestimmt!
+TZID:Europe/Berlin
+UID:df73d1cf-e43a-4ed8-80ca-69d6a3817ac5
+URL:https://import-export.cc/event/gemeinwohlfeiern-selbstbestimmt/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
