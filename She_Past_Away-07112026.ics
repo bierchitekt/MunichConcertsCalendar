@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T162302Z
+DTSTART:20261107T173000
+DTEND:20261107T193000
+SUMMARY:She Past Away
+TZID:Europe/Berlin
+UID:a948a49e-f3d8-4bd0-aabb-8a22998af82c
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/07-11-2026_kat
+ zenclub-festival-she-past-away-dina-summer-siie-vioflesh-die-toedin-veni
+ n-carmin
+DESCRIPTION:She Past Away\, Dina Summer\, Siie\, Vioflesh\, Die Tödin\, V
+ enin Carmin
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

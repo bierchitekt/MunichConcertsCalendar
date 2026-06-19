@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T162302Z
+DTSTART:20261015T210000
+DTEND:20261015T230000
+SUMMARY:unreleased München
+TZID:Europe/Berlin
+UID:2eaa8dff-7acd-4ccf-b524-dd12dd97597f
+URL:https://www.muffatwerk.de/de/events/view/8175/unreleased-muenchen
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR
