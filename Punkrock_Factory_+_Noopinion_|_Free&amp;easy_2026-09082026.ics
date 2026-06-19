@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100946Z
+DTSTART:20260809T173000
+DTEND:20260809T193000
+SUMMARY:Punkrock Factory + Noopinion | Free&easy 2026
+TZID:Europe/Berlin
+UID:c85e8bbd-9dda-4dd5-9933-2f900c0c2bb4
+URL:https://www.backstage.eu/event/6fe7d550-bb73-488d-a481-7e8eb263895a
+DESCRIPTION:Noopinion | Free&easy 2026
+LOCATION:Backstage Arena Süd Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

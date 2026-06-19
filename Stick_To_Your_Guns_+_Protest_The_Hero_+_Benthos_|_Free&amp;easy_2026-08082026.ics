@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100946Z
+DTSTART:20260808T170000
+DTEND:20260808T190000
+SUMMARY:Stick To Your Guns + Protest The Hero + Benthos | Free&easy 2026
+TZID:Europe/Berlin
+UID:0f97c1af-9cea-4d4a-bd8e-01d4094ae86b
+URL:https://www.backstage.eu/event/653e092e-5339-4f78-bca3-b649708cbb79
+DESCRIPTION:Protest The Hero\, Benthos
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100946Z
+DTSTART:20261208T180000
+DTEND:20261208T200000
+SUMMARY:Wednesday 13 + The Birthday Massacre - Cursed Blessing Tour Europ
+ e 2026 - Co Headline
+TZID:Europe/Berlin
+UID:8862e04b-c55f-4b26-8560-4978d93383c5
+URL:https://www.backstage.eu/event/79d999aa-33e2-4fa2-8bca-0f0b55b9e678
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

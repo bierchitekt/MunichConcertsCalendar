@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100945Z
+DTSTART:20260710T160000
+DTEND:20260710T180000
+SUMMARY:Powasser
+TZID:Europe/Berlin
+UID:6692a87a-60f5-4fcc-b1dc-11b287101df8
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/10-07-2026_boo
+ mbox-rocks-jugendkulturfestival-0
+DESCRIPTION:Powasser\, 4Perzent\, Ein Glas Wein\, Steve Bohem & Elias Bas
+ ed
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

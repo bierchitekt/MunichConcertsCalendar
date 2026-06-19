@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100945Z
+DTSTART:20260728T173000
+DTEND:20260728T193000
+SUMMARY:Sacred Reich + Sarcator + Sweeping Death + Pequod | Free&easy 202
+ 6
+TZID:Europe/Berlin
+UID:1c2b69d1-3634-46fb-b157-eddc056a4902
+URL:https://www.backstage.eu/event/af6b55ea-3490-482e-ac63-8ef3425795e8
+DESCRIPTION:Sarcator\, Sweeping Death\, Pequod | Free&easy 2026
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

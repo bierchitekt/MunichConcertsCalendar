@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100945Z
+DTSTART:20260803T174500
+DTEND:20260803T194500
+SUMMARY:Nobro + Melonball + De La Vega | Free&easy 2026 | leider Abgesagt
+TZID:Europe/Berlin
+UID:f8e7b192-5b08-4f35-80fc-073dbe503d93
+URL:https://www.backstage.eu/event/19b6dd1a-4401-49fc-be2d-d3e51d98193d
+DESCRIPTION:Melonball\, De La Vega | Free&easy 2026
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100945Z
+DTSTART:20260801T180000
+DTEND:20260801T200000
+SUMMARY:Vulvodynia + New Years Of Suffering | Free&easy 2026
+TZID:Europe/Berlin
+UID:dfb816e6-f7a8-4296-bda8-c918e3b7895d
+URL:https://www.backstage.eu/event/6ee2f5a0-bc6f-47d1-bbcc-3e84fa57a7ec
+DESCRIPTION:New Years Of Suffering | Free&easy 2026
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

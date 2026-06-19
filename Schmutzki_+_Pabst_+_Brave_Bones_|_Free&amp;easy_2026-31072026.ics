@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100945Z
+DTSTART:20260731T163000
+DTEND:20260731T183000
+SUMMARY:Schmutzki + Pabst + Brave Bones | Free&easy 2026
+TZID:Europe/Berlin
+UID:d8d31d51-b756-4c43-b4ac-ff3b67994ee3
+URL:https://www.backstage.eu/event/de27c768-8e35-4b6b-b45b-d6a79c53dea1
+DESCRIPTION:Pabst\, Brave Bones | Free&easy 2026
+LOCATION:Backstage Arena Süd Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

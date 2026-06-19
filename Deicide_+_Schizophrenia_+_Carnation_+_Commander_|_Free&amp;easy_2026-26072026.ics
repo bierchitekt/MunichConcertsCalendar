@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100945Z
+DTSTART:20260726T170000
+DTEND:20260726T190000
+SUMMARY:Deicide + Schizophrenia + Carnation + Commander | Free&easy 2026
+TZID:Europe/Berlin
+UID:6a4a4efe-38b8-429f-99f5-940316fe4e66
+URL:https://www.backstage.eu/event/1c5065f3-166b-4b55-a565-68575f15d32a
+DESCRIPTION:Schizophrenia\, Carnation\, Commander | Free&easy 2026
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

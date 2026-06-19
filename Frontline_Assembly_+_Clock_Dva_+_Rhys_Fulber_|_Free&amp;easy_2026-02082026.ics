@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100945Z
+DTSTART:20260802T170000
+DTEND:20260802T190000
+SUMMARY:Frontline Assembly + Clock Dva + Rhys Fulber | Free&easy 2026
+TZID:Europe/Berlin
+UID:c80fb23e-8618-4582-8f57-aa7e8355f728
+URL:https://www.backstage.eu/event/fadd1738-3c92-4624-a79e-07d675dac5a8
+DESCRIPTION:Frontline Assembly\, Rhys Fulber
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

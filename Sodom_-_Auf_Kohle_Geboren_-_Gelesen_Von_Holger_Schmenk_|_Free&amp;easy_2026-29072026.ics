@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100945Z
+DTSTART:20260729T163000
+DTEND:20260729T183000
+SUMMARY:Sodom - Auf Kohle Geboren - Gelesen Von Holger Schmenk | Free&eas
+ y 2026
+TZID:Europe/Berlin
+UID:0be95fb5-ce32-49a1-a381-bb3c1febe21e
+URL:https://www.backstage.eu/event/8d4382d5-a271-40c6-9eab-4ddf4fe82413
+DESCRIPTION:
+LOCATION:Backyard
+END:VEVENT
+END:VCALENDAR

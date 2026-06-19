@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100945Z
+DTSTART:20260806T180000
+DTEND:20260806T200000
+SUMMARY:Jupiter Jones + Peter Aus Der Mozartstrasse + Blÿte | Free&easy 2
+ 026
+TZID:Europe/Berlin
+UID:ed41eef0-bffd-42f9-bd8c-391dd377e4ec
+URL:https://www.backstage.eu/event/e8774262-3f73-45f5-801b-fa1ada33f6ec
+DESCRIPTION:Peter Aus Der Mozartstrasse | Free&easy 2026
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

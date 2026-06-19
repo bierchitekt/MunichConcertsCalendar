@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100945Z
+DTSTART:20260804T180000
+DTEND:20260804T200000
+SUMMARY:Nevermore + Kryn + Reverend Hound | Free&easy 2026
+TZID:Europe/Berlin
+UID:71c84ee7-5997-4a1c-8a28-9ec985a9bd65
+URL:https://www.backstage.eu/event/69f36fa0-f6e6-4f16-b2d7-374d60df721f
+DESCRIPTION:Kryn\, Reverend Hound | Free&easy 2026
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

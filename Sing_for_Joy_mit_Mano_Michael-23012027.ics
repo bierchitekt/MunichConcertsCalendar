@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260619T100946Z
+DTSTART:20270123T190000
+DTEND:20270123T210000
+SUMMARY:Sing for Joy mit Mano Michael
+TZID:Europe/Berlin
+UID:e9d1b447-1704-49d5-90e4-0e09cf9942d6
+URL:https://www.olympiapark.de/de/veranstaltungen/sing-for-joy-mit-mano-m
+ ichael-n6009
+DESCRIPTION:
+LOCATION:Kleine Olympiahalle
+END:VEVENT
+END:VCALENDAR
