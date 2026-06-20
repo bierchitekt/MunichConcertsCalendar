@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260620T162242Z
+DTSTART:20260620T215000
+DTEND:20260620T235000
+SUMMARY:Dritte Halbzeit - Die Fussball Afterspiel Party Mit Dj Mic Al
+TZID:Europe/Berlin
+UID:e05deb4f-ef86-4ba8-ae71-966d79ab909a
+URL:https://www.backstage.eu/event/0749e9dc-8eb6-44e2-82ec-1a0fdd7d1673
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR
