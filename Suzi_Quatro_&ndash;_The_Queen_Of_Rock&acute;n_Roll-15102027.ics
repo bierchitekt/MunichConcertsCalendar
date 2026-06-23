@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260623T162303Z
+DTSTART:20271015T200000
+DTEND:20271015T220000
+SUMMARY:Suzi Quatro – The Queen Of Rock´n Roll
+TZID:Europe/Berlin
+UID:c9eb3736-117b-47f2-9d57-4dcf1396a97e
+URL:https://bau.circus-krone.com/veranstaltungen/suzi-quatro-the-queen-of
+ -rockn-roll/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

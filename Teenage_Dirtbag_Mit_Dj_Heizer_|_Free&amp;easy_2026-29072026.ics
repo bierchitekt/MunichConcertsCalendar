@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260623T162302Z
+DTSTART:20260729T210000
+DTEND:20260729T230000
+SUMMARY:Teenage Dirtbag Mit Dj Heizer | Free&easy 2026
+TZID:Europe/Berlin
+UID:f9ceecfb-afa2-4afb-895e-fa1e4fc45af0
+URL:https://www.backstage.eu/event/d3dcea77-dc3f-4b1e-a0e1-2475c9018d28
+DESCRIPTION:
+LOCATION:Backstage Werkstatt
+END:VEVENT
+END:VCALENDAR

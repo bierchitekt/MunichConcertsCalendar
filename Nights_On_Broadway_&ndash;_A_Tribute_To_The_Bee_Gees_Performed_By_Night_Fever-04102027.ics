@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260623T162303Z
+DTSTART:20271004T200000
+DTEND:20271004T220000
+SUMMARY:Nights On Broadway – A Tribute To The Bee Gees Performed By Night
+  Fever
+TZID:Europe/Berlin
+UID:8ec23926-6e55-4193-a9d2-0b0b4b8dc492
+URL:https://bau.circus-krone.com/veranstaltungen/nights-on-broadway-a-tri
+ bute-to-the-bee-gees-performed-by-night-fever-2/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

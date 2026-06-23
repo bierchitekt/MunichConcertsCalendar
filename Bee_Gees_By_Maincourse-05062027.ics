@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260623T162303Z
+DTSTART:20270605T190000
+DTEND:20270605T210000
+SUMMARY:Bee Gees By Maincourse
+TZID:Europe/Berlin
+UID:10dfd6c5-03a4-4294-851d-9a5d16488cb4
+URL:https://bau.circus-krone.com/veranstaltungen/bee-gees-by-maincourse/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
