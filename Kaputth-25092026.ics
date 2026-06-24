@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260624T162302Z
+DTSTART:20260925T203000
+DTEND:20260925T223000
+SUMMARY:Kaputth
+TZID:Europe/Berlin
+UID:e914ae5c-8c7e-4069-84ca-98e80d564004
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/25-09-2026_cha
+ os-blast-kaputth-brandlast-todz
+DESCRIPTION:Kaputth\, Brandlast\, TØDZ
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
