@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260625T162254Z
+DTSTART:20261021T203000
+DTEND:20261021T223000
+SUMMARY:The Monsters
+TZID:Europe/Berlin
+UID:0cd5dd9a-1587-44f0-9d7c-0a66f8906e31
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/21-10-2026_the
+ -monsters
+DESCRIPTION:The Monsters
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

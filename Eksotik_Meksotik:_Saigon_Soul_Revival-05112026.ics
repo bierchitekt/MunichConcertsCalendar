@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260625T162254Z
+DTSTART:20261105T200000
+DTEND:20261105T220000
+SUMMARY:Eksotik Meksotik: Saigon Soul Revival
+TZID:Europe/Berlin
+UID:40fc3c2f-6490-472d-aace-463cda624c86
+URL:https://import-export.cc/event/eksotik-meksotik-saigon-soul-revival/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
