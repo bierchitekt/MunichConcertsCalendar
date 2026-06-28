@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260628T162249Z
+DTSTART:20260730T183000
+DTEND:20260730T203000
+SUMMARY:Schwarzes Fragment / 2 Dcat
+TZID:Europe/Berlin
+UID:d7df2736-1429-4b27-ba5e-38202fb38935
+URL:https://theater-drehleier.de/programm/event/20260730_schwarzes_fragme
+ nt__2_dcat
+DESCRIPTION:
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR

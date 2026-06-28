@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260628T162249Z
+DTSTART:20260710T183000
+DTEND:20260710T203000
+SUMMARY:Die Zechpreller / Fromage Am Arsch
+TZID:Europe/Berlin
+UID:0d852627-1d10-48e5-a34b-20e92135c95e
+URL:https://theater-drehleier.de/programm/event/20260710_die_zechpreller_
+ _fromage_am_arsch
+DESCRIPTION:
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR

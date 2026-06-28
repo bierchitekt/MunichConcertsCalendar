@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260628T162249Z
+DTSTART:20260704T183000
+DTEND:20260704T203000
+SUMMARY:A Night Full Of Core
+TZID:Europe/Berlin
+UID:2467f772-4b34-440d-8386-7298913dac08
+URL:https://theater-drehleier.de/programm/event/20260704_a_feast_for_crow
+ s__blind_mess___grindset
+DESCRIPTION:
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR
