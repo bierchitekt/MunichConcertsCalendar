@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260629T162254Z
+DTSTART:20260629T203000
+DTEND:20260629T223000
+SUMMARY:Deutschland Vs. Paraguay | Wm 2026 - Sechzehntelfinale
+TZID:Europe/Berlin
+UID:b198ef01-73af-497a-96d5-f55fc7c807bc
+URL:https://www.backstage.eu/event/3f2f8b85-cef5-4b1e-aa9c-fa4aa75a1ee2
+DESCRIPTION:
+LOCATION:Backstage All Area
+END:VEVENT
+END:VCALENDAR
