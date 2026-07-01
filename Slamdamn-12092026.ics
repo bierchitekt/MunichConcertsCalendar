@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260701T162300Z
+DTSTART:20260912T200000
+DTEND:20260912T220000
+SUMMARY:Slamdamn
+TZID:Europe/Berlin
+UID:181cfdc2-437c-4ddb-ac69-390f6078b4c0
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/12-09-2026_har
+ dcore-festival-tag-2-disqualification-the-raw-deals-rancors-slamdamn
+DESCRIPTION:Slamdamn\, Rancors\, The Raw Deals\, Disqualification\, DJ Wa
+ i-Kiki
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

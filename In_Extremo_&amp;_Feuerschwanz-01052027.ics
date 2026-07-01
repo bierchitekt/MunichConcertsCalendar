@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260701T162300Z
+DTSTART:20270501T183000
+DTEND:20270501T203000
+SUMMARY:In Extremo & Feuerschwanz
+TZID:Europe/Berlin
+UID:5873098a-4d62-4f06-aa47-5d82bb21251f
+URL:https://muenchen.motorworld.de/veranstaltungen/in-extremo-feuerschwan
+ z/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

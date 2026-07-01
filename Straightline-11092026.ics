@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260701T162300Z
+DTSTART:20260911T200000
+DTEND:20260911T220000
+SUMMARY:Straightline
+TZID:Europe/Berlin
+UID:2e4dd5db-f697-42e2-8af3-e265094eadd1
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/11-09-2026_har
+ dcore-festival-tag-1-roetten-shock-sonic-abuse-bale-straightline
+DESCRIPTION:Straightline\, Bale\, Sonic Abuse\, Rötten Shock
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

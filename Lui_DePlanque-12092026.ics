@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260701T162300Z
+DTSTART:20260912T190000
+DTEND:20260912T210000
+SUMMARY:Lui DePlanque
+TZID:Europe/Berlin
+UID:2c7868c7-ede8-415c-898d-95e8ba413992
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/12-09-2026_fei
+ erwerk-sessions-lui-deplanque-temere-nidheesh-satija
+DESCRIPTION:Lui DePlanque\, Temere\, Nidheesh Satija
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
