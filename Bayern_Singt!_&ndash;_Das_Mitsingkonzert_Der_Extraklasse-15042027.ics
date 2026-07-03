@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260703T162328Z
+DTSTART:20270415T200000
+DTEND:20270415T220000
+SUMMARY:Bayern Singt! – Das Mitsingkonzert Der Extraklasse
+TZID:Europe/Berlin
+UID:8bc16ff9-c099-4ddf-a1e3-79780adcce93
+URL:https://bau.circus-krone.com/veranstaltungen/bayern-singt-das-mitsing
+ konzert-der-extraklasse/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

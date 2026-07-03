@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260703T162328Z
+DTSTART:20260916T190000
+DTEND:20260916T210000
+SUMMARY:The Half Orphans
+TZID:Europe/Berlin
+UID:93b43b17-177b-45d4-9609-9df6554708ad
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/16-09-2026_spr
+ ungbrett-liveshow-i-0
+DESCRIPTION:The Half Orphans\, Ino Yin\, Noah Juan\, MondWild
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

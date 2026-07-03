@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260703T162328Z
+DTSTART:20260719T203000
+DTEND:20260719T223000
+SUMMARY:Emes
+TZID:Europe/Berlin
+UID:e810c3fd-6942-4c0d-aa8d-ce603360a526
+URL:https://www.kafekult.de/wordpress/event/emes-the-practice-of-wearing-
+ plastic-bags-for-helmets/
+DESCRIPTION:The Practice Of Wearing Plastic Bags For Helmets
+LOCATION:kafekult
+END:VEVENT
+END:VCALENDAR
