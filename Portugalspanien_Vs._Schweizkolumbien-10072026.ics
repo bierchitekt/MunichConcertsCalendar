@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260706T162315Z
+DTSTART:20260710T190000
+DTEND:20260710T210000
+SUMMARY:Portugal/spanien Vs. Schweiz/kolumbien
+TZID:Europe/Berlin
+UID:d6a307a5-fcc4-4aa0-8150-cf09b1d546be
+URL:https://www.backstage.eu/event/965c9f2d-1b47-43b2-a811-c564f86e59db
+DESCRIPTION:
+LOCATION:Backstage Arena Süd Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

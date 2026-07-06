@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260706T162315Z
+DTSTART:20260914T193000
+DTEND:20260914T213000
+SUMMARY:Baby Tyler Band
+TZID:Europe/Berlin
+UID:de40a428-6f13-4ca6-af06-6d628b8b27a6
+URL:https://www.kafekult.de/wordpress/event/baby-tyler-band-heather-the-j
+ erk/
+DESCRIPTION:Heather The Jerk
+LOCATION:kafekult
+END:VEVENT
+END:VCALENDAR

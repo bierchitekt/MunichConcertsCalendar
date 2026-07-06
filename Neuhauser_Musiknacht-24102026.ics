@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260706T162315Z
+DTSTART:20261024T200000
+DTEND:20261024T220000
+SUMMARY:Neuhauser Musiknacht
+TZID:Europe/Berlin
+UID:b55ab7fe-6deb-48e8-9a08-ee1467a191ef
+URL:https://www.kult9.de/veranstaltung/neuhauser-musiknacht-timerunner/
+DESCRIPTION:
+LOCATION:Kult9
+END:VEVENT
+END:VCALENDAR

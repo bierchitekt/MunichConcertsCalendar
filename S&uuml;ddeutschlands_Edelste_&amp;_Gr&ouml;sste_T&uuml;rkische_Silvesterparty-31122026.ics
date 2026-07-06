@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260706T162315Z
+DTSTART:20261231T200000
+DTEND:20261231T220000
+SUMMARY:Süddeutschlands Edelste & Grösste Türkische Silvesterparty
+TZID:Europe/Berlin
+UID:c45ac694-476c-4837-9a6b-9cafe7ea17a4
+URL:https://muenchen.motorworld.de/veranstaltungen/sueddeutschlands-edels
+ te-groesste-tuerkische-silvesterparty/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

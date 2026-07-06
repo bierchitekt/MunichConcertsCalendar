@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260706T162315Z
+DTSTART:20270507T200000
+DTEND:20270507T220000
+SUMMARY:Ólafur Arnalds – Falling Apart Together
+TZID:Europe/Berlin
+UID:e7386488-f9d0-4036-b54b-2fe7397e4828
+URL:https://bau.circus-krone.com/veranstaltungen/olafur-arnalds/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

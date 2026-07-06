@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260706T162315Z
+DTSTART:20260712T010000
+DTEND:20260712T030000
+SUMMARY:Argentinen/ägpten Vs. Schweiz/kolumbien
+TZID:Europe/Berlin
+UID:086155fc-3be2-4bd0-b857-d2752544c98b
+URL:https://www.backstage.eu/event/214cceb3-bee7-463e-abc6-fde5c88aa4f4
+DESCRIPTION:
+LOCATION:Backstage Arena Süd Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR
