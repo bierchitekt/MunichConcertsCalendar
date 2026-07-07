@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260707T162307Z
+DTSTART:20260714T190000
+DTEND:20260714T210000
+SUMMARY:Frankreich/marokko Vs. Spanien/belgien
+TZID:Europe/Berlin
+UID:ccc7a8fd-981b-4f0b-9680-c7e749e6cb88
+URL:https://www.backstage.eu/event/3d4febc0-1e29-40d0-9830-f9b86888a075
+DESCRIPTION:
+LOCATION:Backstage Arena Süd Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

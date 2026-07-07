@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260707T162307Z
+DTSTART:20260904T200000
+DTEND:20260904T220000
+SUMMARY:Kalte Knie
+TZID:Europe/Berlin
+UID:4fbc45c5-7039-4372-827a-3dc8b15c05ed
+URL:https://import-export.cc/event/kalte-knie-powasser-stresshotel-mutti/
+DESCRIPTION:Powasser
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
