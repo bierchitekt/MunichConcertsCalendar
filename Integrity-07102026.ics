@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260708T162318Z
+DTSTART:20261007T200000
+DTEND:20261007T220000
+SUMMARY:Integrity
+TZID:Europe/Berlin
+UID:fd3ee5a5-38ca-4091-806c-f8441cddd1eb
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/07-10-2026_int
+ egrity-ringworm-world-i-hate
+DESCRIPTION:Integrity\, Ringworm\, World I Hate
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

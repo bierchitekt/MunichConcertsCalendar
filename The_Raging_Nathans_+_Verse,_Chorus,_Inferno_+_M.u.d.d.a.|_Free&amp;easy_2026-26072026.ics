@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260708T162318Z
+DTSTART:20260726T173000
+DTEND:20260726T193000
+SUMMARY:The Raging Nathans + Verse\, Chorus\, Inferno + M.u.d.d.a.| Free&
+ easy 2026
+TZID:Europe/Berlin
+UID:d6494a46-d2ab-4c9f-9d6e-c579f00c22e9
+URL:https://www.backstage.eu/event/9f4acfc1-dd4f-4af6-87b9-19321a446fea
+DESCRIPTION:The Raging Nathans\, Verse\, Chorus\, Inferno | Free&easy 202
+ 6
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

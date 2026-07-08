@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260708T162318Z
+DTSTART:20260808T183000
+DTEND:20260808T203000
+SUMMARY:Klangschelle Festival 08.08.2026 Mit Ggmc\, Modär Und Dtaist
+TZID:Europe/Berlin
+UID:ad6b2870-4ddb-4dbc-b382-7c5f2c4d1d68
+URL:https://theater-drehleier.de/programm/event/20260808_
+DESCRIPTION:
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR

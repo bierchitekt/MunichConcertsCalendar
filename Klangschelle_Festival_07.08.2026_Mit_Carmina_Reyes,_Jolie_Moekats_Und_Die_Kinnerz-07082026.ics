@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260708T162318Z
+DTSTART:20260807T183000
+DTEND:20260807T203000
+SUMMARY:Klangschelle Festival 07.08.2026 Mit Carmina Reyes\, Jolie Moekat
+ s Und Die Kinnerz
+TZID:Europe/Berlin
+UID:65e931c4-6e3e-441f-b3df-5b59b7b96e49
+URL:https://theater-drehleier.de/programm/event/20260807_mit_carmina_reye
+ s_jolie_moekats_und_die_kinnerz
+DESCRIPTION:
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR

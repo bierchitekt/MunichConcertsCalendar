@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260708T162318Z
+DTSTART:20260723T183000
+DTEND:20260723T203000
+SUMMARY:Singsalong - Das Münchner Mitsing-konzert
+TZID:Europe/Berlin
+UID:1ebe8fdd-c89c-465b-85ec-b87291580a08
+URL:https://theater-drehleier.de/programm/event/20260723_sing_salong
+DESCRIPTION:
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR
