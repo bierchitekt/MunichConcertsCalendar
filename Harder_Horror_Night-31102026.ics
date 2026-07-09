@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260709T162309Z
+DTSTART:20261031T170000
+DTEND:20261031T190000
+SUMMARY:Harder Horror Night
+TZID:Europe/Berlin
+UID:f6f3bf1d-6dee-4eb4-9ce5-9414030752b8
+URL:https://muenchen.motorworld.de/veranstaltungen/harder-horror-night-2/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

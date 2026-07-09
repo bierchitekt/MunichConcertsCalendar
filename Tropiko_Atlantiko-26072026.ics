@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260709T162309Z
+DTSTART:20260726T150000
+DTEND:20260726T170000
+SUMMARY:Tropiko Atlantiko
+TZID:Europe/Berlin
+UID:a6baad12-bd76-476b-995c-2164f31f714b
+URL:https://import-export.cc/event/kalor-chucuxchucu-pres-tropiko-atlanti
+ ko/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
