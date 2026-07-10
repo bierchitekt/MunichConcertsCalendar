@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260710T162303Z
+DTSTART:20261011T103000
+DTEND:20261011T123000
+SUMMARY:Luft & Liebe Hochzeitsfestival München
+TZID:Europe/Berlin
+UID:c39d1a1a-8882-4aaf-9473-982eb28ed210
+URL:https://muenchen.motorworld.de/veranstaltungen/luft-liebe-hochzeitsfe
+ stival-muenchen/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260710T162303Z
+DTSTART:20260711T180000
+DTEND:20260711T200000
+SUMMARY:Deutsche Fussballnationalmannschaft Vs. Spanien | u19 Em Finale
+TZID:Europe/Berlin
+UID:7ae2e4f5-f9ac-4a42-a056-fa385aaf64d1
+URL:https://www.backstage.eu/event/26f0541a-1405-4481-9abd-5f840abce2c5
+DESCRIPTION:
+LOCATION:Backyard Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR
