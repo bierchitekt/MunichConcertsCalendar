@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260713T212011Z
+DTSTART:20261110T200000
+DTEND:20261110T220000
+SUMMARY:Achtung Abgesagt! Bonnie Tyler
+TZID:Europe/Berlin
+UID:ce0dd69d-f326-42ed-b265-f74d65609b42
+URL:https://bau.circus-krone.com/veranstaltungen/bonnie-tyler/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
