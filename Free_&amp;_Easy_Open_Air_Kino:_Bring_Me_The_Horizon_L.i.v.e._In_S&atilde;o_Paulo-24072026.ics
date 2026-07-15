@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260715T162253Z
+DTSTART:20260724T001500
+DTEND:20260724T021500
+SUMMARY:Free & Easy Open Air Kino: Bring Me The Horizon L.i.v.e. In São P
+ aulo
+TZID:Europe/Berlin
+UID:b00f2b58-ad35-4a7f-9aa4-1d7c7e969dc2
+URL:https://www.backstage.eu/event/19849340-eafc-433c-b648-545765008b21
+DESCRIPTION:
+LOCATION:Backyard Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

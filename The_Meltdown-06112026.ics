@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260715T162254Z
+DTSTART:20261106T200000
+DTEND:20261106T220000
+SUMMARY:The Meltdown
+TZID:Europe/Berlin
+UID:ef8cb9ab-b5cf-47f2-ab03-84a1f66103af
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/06-11-2026_the
+ -meltdown
+DESCRIPTION:The Meltdown
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

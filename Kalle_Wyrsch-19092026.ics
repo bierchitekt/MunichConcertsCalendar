@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260715T162254Z
+DTSTART:20260919T200000
+DTEND:20260919T220000
+SUMMARY:Kalle Wyrsch
+TZID:Europe/Berlin
+UID:8931e766-742d-4e72-b05c-af51e86d2d28
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/19-09-2026_ket
+ tenrasseln-vol-3-kalle-wyrsch-vollmondprozession-sword-breaker-obsidian-
+ temple
+DESCRIPTION:Kalle Wyrsch\, Vollmondprozession\, Sword Breaker\, Obsidian 
+ Temple
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
