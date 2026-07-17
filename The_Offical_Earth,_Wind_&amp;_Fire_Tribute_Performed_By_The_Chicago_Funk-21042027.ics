@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20270421T200000
+DTEND:20270421T220000
+SUMMARY:The Offical Earth\, Wind & Fire Tribute Performed By The Chicago 
+ Funk
+TZID:Europe/Berlin
+UID:c3f9f535-b44a-4db5-b97a-ca0be051fd77
+URL:https://bau.circus-krone.com/veranstaltungen/the-offical-earth-wind-f
+ ire-tribute/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

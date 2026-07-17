@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162310Z
+DTSTART:20260731T200000
+DTEND:20260731T220000
+SUMMARY:Leise Disco - Die Kopfhörer Party Mit Dj Dragstar & Dj Well | Fre
+ e & Easy 2026 Party
+TZID:Europe/Berlin
+UID:42953da9-fbef-4a12-9f0d-87053eeb0f0b
+URL:https://www.backstage.eu/event/2451e321-4c52-4fc2-b390-feb9af4d1d6b
+DESCRIPTION:
+LOCATION:Trashyard
+END:VEVENT
+END:VCALENDAR

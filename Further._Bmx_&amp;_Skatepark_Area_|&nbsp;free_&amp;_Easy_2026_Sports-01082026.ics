@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162310Z
+DTSTART:20260801T130000
+DTEND:20260801T150000
+SUMMARY:Further. Bmx & Skatepark Area | free & Easy 2026 Sports
+TZID:Europe/Berlin
+UID:cc3db5bd-e3ab-4e5f-ab2f-f3005ad7df22
+URL:https://www.backstage.eu/event/b4ea5568-7dca-4722-b32f-fe6f17b196ff
+DESCRIPTION:
+LOCATION:Backstage Arena
+END:VEVENT
+END:VCALENDAR

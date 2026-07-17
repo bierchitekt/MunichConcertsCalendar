@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260807T200000
+DTEND:20260807T220000
+SUMMARY:Leise Disco - Die Kopfhörer Party Mit Wired Kimchi\, Dj Dragstar 
+ & Dj Mic-al | Free & Easy 2026 Party
+TZID:Europe/Berlin
+UID:fa4b95f5-c7bb-4493-b59a-2ffd0348cf41
+URL:https://www.backstage.eu/event/50ec839d-5cfb-4540-80f9-ea99bea57b51
+DESCRIPTION:
+LOCATION:Backyard Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

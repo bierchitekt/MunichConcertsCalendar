@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260808T173000
+DTEND:20260808T193000
+SUMMARY:Milleniumkid + Yola + Aleyna + Mathi | Free & Easy 2026 Live
+TZID:Europe/Berlin
+UID:c0720738-9d21-4065-baa9-10ec4bae570b
+URL:https://www.backstage.eu/event/98bb839a-e6f2-4698-b61d-4afb8013a1cd
+DESCRIPTION:Gäste | Free&easy 2026
+LOCATION:Backstage Arena Süd Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

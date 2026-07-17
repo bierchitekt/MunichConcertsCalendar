@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162310Z
+DTSTART:20260726T183000
+DTEND:20260726T203000
+SUMMARY:An Evening With ‘blaze Bayley’ - Iron Maiden Anniversary Setlist 
+ | Free & Easy 2026 Live
+TZID:Europe/Berlin
+UID:29c51cde-ed25-40e0-ab4a-7cf638dc3fe6
+URL:https://www.backstage.eu/event/194136e7-3a55-422a-a56d-87bcbf049f7e
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

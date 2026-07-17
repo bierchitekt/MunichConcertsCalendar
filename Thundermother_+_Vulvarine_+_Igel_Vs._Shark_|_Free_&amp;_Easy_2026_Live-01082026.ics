@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260801T180000
+DTEND:20260801T200000
+SUMMARY:Thundermother + Vulvarine + Igel Vs. Shark | Free & Easy 2026 Liv
+ e
+TZID:Europe/Berlin
+UID:3e7b391a-583e-4488-b5ec-e2d6bef14d78
+URL:https://www.backstage.eu/event/a08b9197-c601-4439-9c4e-4ab159621d7a
+DESCRIPTION:Vulvarine\, Igel Vs. Shark | Free&easy 2026
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

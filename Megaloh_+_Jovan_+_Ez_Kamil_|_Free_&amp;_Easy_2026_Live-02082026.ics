@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260802T163000
+DTEND:20260802T183000
+SUMMARY:Megaloh + Jovan + Ez Kamil | Free & Easy 2026 Live
+TZID:Europe/Berlin
+UID:b187df38-634a-4045-8d85-e4cc3e5ba640
+URL:https://www.backstage.eu/event/b6e2f990-cbab-45d4-bd5d-c47d735ba32c
+DESCRIPTION:Jovan\, Ez Kamil | Free&easy 2026
+LOCATION:Backstage Arena Süd Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

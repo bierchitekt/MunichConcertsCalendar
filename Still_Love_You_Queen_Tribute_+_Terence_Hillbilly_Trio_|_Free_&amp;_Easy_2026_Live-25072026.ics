@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162310Z
+DTSTART:20260725T170000
+DTEND:20260725T190000
+SUMMARY:Still Love You Queen Tribute + Terence Hillbilly Trio | Free & Ea
+ sy 2026 Live
+TZID:Europe/Berlin
+UID:422ed8c3-ebbf-49a6-a15f-7d70b2f1d96e
+URL:https://www.backstage.eu/event/9b2ee349-9be3-4f19-8479-1f881af9e6eb
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

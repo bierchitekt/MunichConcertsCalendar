@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260806T163000
+DTEND:20260806T183000
+SUMMARY:Mr. Hurley & Die Pulveraffen + Bernsteyn | Free & Easy 2026 Live
+TZID:Europe/Berlin
+UID:0c88d3c5-c2aa-47e1-8868-7cbd079744a4
+URL:https://www.backstage.eu/event/9aeef0ac-e6ee-41c6-af03-2e014c116022
+DESCRIPTION:
+LOCATION:Backstage Arena Süd Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

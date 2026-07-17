@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20261130T193000
+DTEND:20261130T213000
+SUMMARY:Cabal
+TZID:Europe/Berlin
+UID:2f211591-4e3d-4d34-8991-b6d7bed97fcd
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/30-11-2026_cab
+ al-employed-to-serve-cold-culture
+DESCRIPTION:Cabal\, Employed To Serve\, Cold Culture
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

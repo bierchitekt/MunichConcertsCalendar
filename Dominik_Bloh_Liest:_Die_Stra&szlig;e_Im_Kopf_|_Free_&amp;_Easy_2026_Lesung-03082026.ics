@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260803T163000
+DTEND:20260803T183000
+SUMMARY:Dominik Bloh Liest: Die Straße Im Kopf | Free & Easy 2026 Lesung
+TZID:Europe/Berlin
+UID:cf3003fb-15db-44d6-94c1-a9e204d5e9d0
+URL:https://www.backstage.eu/event/f30b5633-f7eb-44b7-8074-c04ff035bafb
+DESCRIPTION:
+LOCATION:Backyard Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260909T200000
+DTEND:20260909T220000
+SUMMARY:Lord Finesse
+TZID:Europe/Berlin
+UID:08acf809-1898-4132-8b54-1a9d93383a47
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/09-09-2026_lor
+ d-finesse
+DESCRIPTION:Lord Finesse\, Retrogott & Hulk Hodn
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162310Z
+DTSTART:20260731T173000
+DTEND:20260731T193000
+SUMMARY:Still Talk + Letters Sent Home + Attic Stories + Love & Lose | Fr
+ ee & Easy 2026 Live
+TZID:Europe/Berlin
+UID:fe40b9c9-07ea-41ea-be39-1c337a60b9a3
+URL:https://www.backstage.eu/event/b2240de0-fb58-4f7f-bb60-c0e8ea4211cb
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

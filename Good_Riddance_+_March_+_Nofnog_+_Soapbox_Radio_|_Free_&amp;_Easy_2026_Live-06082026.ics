@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260806T165500
+DTEND:20260806T185500
+SUMMARY:Good Riddance + March + Nofnog + Soapbox Radio | Free & Easy 2026
+  Live
+TZID:Europe/Berlin
+UID:b50f26fd-e48d-4a7e-ac40-7273e50d55f6
+URL:https://www.backstage.eu/event/cb725e59-492e-4aa1-a044-0bbdeb44e538
+DESCRIPTION:March\, Nofnog\, Soapbox Radio | Free&easy 2026
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

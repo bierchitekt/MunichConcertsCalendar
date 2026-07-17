@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162310Z
+DTSTART:20260728T180000
+DTEND:20260728T200000
+SUMMARY:The Casualties + Erection + Rotten Future | Free & Easy 2026 Live
+TZID:Europe/Berlin
+UID:03ee5432-981b-403f-a65d-cbe5bd7abe3b
+URL:https://www.backstage.eu/event/5dcdc3f8-30a4-4119-820b-d5c823737f51
+DESCRIPTION:Erection\, Rotten Future | Free&easy 2026
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

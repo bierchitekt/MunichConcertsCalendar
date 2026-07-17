@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260809T170000
+DTEND:20260809T190000
+SUMMARY:H2o + Evergreen Terrace + Life Comes Closer + Bale | Free & Easy 
+ 2026 Live
+TZID:Europe/Berlin
+UID:d6d1c65e-ada3-4747-bc58-0cc56dee2d38
+URL:https://www.backstage.eu/event/74665dbf-990a-4a50-ba04-072a071d7284
+DESCRIPTION:Evergreen Terrace
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

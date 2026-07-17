@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20270508T200000
+DTEND:20270508T220000
+SUMMARY:Die Beste Led Zeppelin Show Der Welt! Letz Zep – Zeppelin’s Resur
+ rection
+TZID:Europe/Berlin
+UID:c9c3bbae-2625-4ab3-89b1-88f2e12971f8
+URL:https://bau.circus-krone.com/veranstaltungen/letz-zep/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

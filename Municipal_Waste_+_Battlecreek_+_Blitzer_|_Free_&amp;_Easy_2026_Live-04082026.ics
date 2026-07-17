@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260804T174000
+DTEND:20260804T194000
+SUMMARY:Municipal Waste + Battlecreek + Blitzer | Free & Easy 2026 Live
+TZID:Europe/Berlin
+UID:d5c0ef2e-288b-4373-80ff-fbdc99059a36
+URL:https://www.backstage.eu/event/c3acc946-2c71-4047-9168-1155cab89bc5
+DESCRIPTION:Battlecreek\, Blitzer | Free&easy 2026
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

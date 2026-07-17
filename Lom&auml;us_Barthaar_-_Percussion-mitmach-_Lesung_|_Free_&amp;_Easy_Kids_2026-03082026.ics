@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260803T143000
+DTEND:20260803T163000
+SUMMARY:Lomäus Barthaar - Percussion-mitmach- Lesung | Free & Easy Kids 2
+ 026
+TZID:Europe/Berlin
+UID:3fe1ebb6-24c5-44b7-91ad-c9cf1ab1724b
+URL:https://www.backstage.eu/event/ad3bf930-b595-46ee-a113-81847ebbe2c6
+DESCRIPTION:
+LOCATION:Backstage Arena Süd Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

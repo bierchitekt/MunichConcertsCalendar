@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260803T133000
+DTEND:20260803T153000
+SUMMARY:Rock & Roar Kinder Yoga Mit Stephanie Walter-seipt | free & Easy 
+ Kids 2026 Sports
+TZID:Europe/Berlin
+UID:dfd95d97-b1e6-4371-93a1-551b551c90ae
+URL:https://www.backstage.eu/event/7ef8d4d9-ce38-43f7-954b-50e52ecae7f7
+DESCRIPTION:
+LOCATION:Backyard Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

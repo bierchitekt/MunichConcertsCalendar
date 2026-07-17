@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162310Z
+DTSTART:20260801T160000
+DTEND:20260801T180000
+SUMMARY:Metal Yoga Mit Stephanie Walter-seipt - Stretch. Sweat. Scream. |
+  Free & Easy 2026 Sports
+TZID:Europe/Berlin
+UID:bf0a8a6b-9077-4c53-99e7-91b9cd0be787
+URL:https://www.backstage.eu/event/7028c24b-ff17-4be1-9e66-24f2a31c3684
+DESCRIPTION:
+LOCATION:Backyard Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR

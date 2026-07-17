@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260717T162311Z
+DTSTART:20260806T174500
+DTEND:20260806T194500
+SUMMARY:Patriarchy + Spit Mask + Bombstrap | Free & Easy 2026 Live
+TZID:Europe/Berlin
+UID:b37b2d95-8d85-415e-9d8d-6bce5d2c73d0
+URL:https://www.backstage.eu/event/5d21cc1e-a61f-42ed-ab69-b1eb4a0b8f7e
+DESCRIPTION:Spit Mask\, Bombstrap | Free&easy 2026
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
