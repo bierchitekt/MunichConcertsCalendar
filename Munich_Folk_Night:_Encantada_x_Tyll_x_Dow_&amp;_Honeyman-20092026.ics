@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260721T162259Z
+DTSTART:20260920T200000
+DTEND:20260920T220000
+SUMMARY:Munich Folk Night: Encantada x Tyll x Dow & Honeyman
+TZID:Europe/Berlin
+UID:643625fe-4846-470b-a0d9-5c689aeee823
+URL:https://import-export.cc/event/munich-folk-night-encantada-x-tyll-x-d
+ ow-honeyman/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

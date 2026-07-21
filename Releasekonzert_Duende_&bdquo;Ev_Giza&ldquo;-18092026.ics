@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260721T162259Z
+DTSTART:20260918T203000
+DTEND:20260918T223000
+SUMMARY:Releasekonzert Duende „Ev Giza“
+TZID:Europe/Berlin
+UID:e28d0716-9b84-4a8d-a4fc-b3cdfd665f23
+URL:https://import-export.cc/event/releasekonzert-duende-poeji-simon-popp
+ -enji-dj-darismus/
+DESCRIPTION:Poeji (Simon Popp
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
