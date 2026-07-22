@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260722T162253Z
+DTSTART:20261112T200000
+DTEND:20261112T220000
+SUMMARY:Taxi Salon: FUJI||||||||||TA
+TZID:Europe/Berlin
+UID:b2f67b6e-2f7e-406e-89b2-7a6a0ef78152
+URL:https://import-export.cc/event/taxi-salon-fujita-amina-hocine-mazen-k
+ erbaj/
+DESCRIPTION:Amina Hocine
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

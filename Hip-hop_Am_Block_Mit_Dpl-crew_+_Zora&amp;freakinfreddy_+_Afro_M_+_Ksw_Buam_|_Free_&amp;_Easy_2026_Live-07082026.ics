@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260722T162253Z
+DTSTART:20260807T174500
+DTEND:20260807T194500
+SUMMARY:Hip-hop Am Block Mit Dpl-crew + Zora&freakinfreddy + Afro M + Ksw
+  Buam | Free & Easy 2026 Live
+TZID:Europe/Berlin
+UID:6a40c0dc-7e0d-4ea0-9d3e-85dd998f11b7
+URL:https://www.backstage.eu/event/79e64438-8b6d-4f9d-8f3a-4c2a44b6b7f3
+DESCRIPTION:
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR
