@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260723T162305Z
+DTSTART:20260804T173000
+DTEND:20260804T193000
+SUMMARY:Antirope + The Cromptons + Doghag | Free & Easy 2026 Live
+TZID:Europe/Berlin
+UID:43d56149-9418-4962-9e8a-72db818faaa1
+URL:https://www.backstage.eu/event/4c1af750-9280-495b-8c02-60b6aed23735
+DESCRIPTION:The Cromptons\, Antirope\, Doghag | Free&easy 2026
+LOCATION:Backstage Club
+END:VEVENT
+END:VCALENDAR

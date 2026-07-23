@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260723T162304Z
+DTSTART:20260725T133000
+DTEND:20260725T153000
+SUMMARY:20. Deutsche Luftgitarrenmeisterschaft | Free&easy 2026 Live
+TZID:Europe/Berlin
+UID:c9cc8d3d-7247-4e03-8dc9-f30e824fb166
+URL:https://www.backstage.eu/event/69b9f7d0-7f07-42fc-97b9-ba15d2e34230
+DESCRIPTION:
+LOCATION:Halle (meisterschaft)\, Arena Süd\, Nachtbiergarten\, Backyard
+END:VEVENT
+END:VCALENDAR

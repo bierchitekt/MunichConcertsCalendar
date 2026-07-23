@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260723T162304Z
+DTSTART:20260725T170000
+DTEND:20260725T190000
+SUMMARY:Still Love You Queen Tribute + Penske File + Luftgitarrenmeisters
+ chaft | Free & Easy 2026 Live
+TZID:Europe/Berlin
+UID:6522b430-4f6a-4ab8-96f1-d6d73b91a63d
+URL:https://www.backstage.eu/event/9b2ee349-9be3-4f19-8479-1f881af9e6eb
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR
