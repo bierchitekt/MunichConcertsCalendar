@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260724T162258Z
+DTSTART:20261114T153000
+DTEND:20261114T173000
+SUMMARY:Lichterkinder – Live – Millionen Sterne Tour
+TZID:Europe/Berlin
+UID:2b2c4cf3-cf8d-43ac-a70a-550f2e876fc9
+URL:https://bau.circus-krone.com/veranstaltungen/lichterkinder-live-milli
+ onen-sterne-tour/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

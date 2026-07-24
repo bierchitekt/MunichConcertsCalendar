@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260724T162258Z
+DTSTART:20270416T200000
+DTEND:20270416T220000
+SUMMARY:Berlin\, Du Coole Sau – Eine Liebeserklärung
+TZID:Europe/Berlin
+UID:b707bdcd-f3b7-4f6e-acf8-9345ca239c91
+URL:https://bau.circus-krone.com/veranstaltungen/berlin-du-coole-sau-eine
+ -liebeserklaerung-2/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

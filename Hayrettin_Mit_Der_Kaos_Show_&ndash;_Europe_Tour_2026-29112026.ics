@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260724T162258Z
+DTSTART:20261129T200000
+DTEND:20261129T220000
+SUMMARY:Hayrettin Mit Der Kaos Show – Europe Tour 2026
+TZID:Europe/Berlin
+UID:1ba11fb3-1a81-4bb8-a5aa-e6444a44befb
+URL:https://muenchen.motorworld.de/veranstaltungen/hayrettin-mit-der-kaos
+ -show-europe-tour-2026/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR

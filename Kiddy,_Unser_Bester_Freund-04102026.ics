@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260724T162258Z
+DTSTART:20261004T150000
+DTEND:20261004T170000
+SUMMARY:Kiddy\, Unser Bester Freund
+TZID:Europe/Berlin
+UID:d9fdbd30-4799-45c7-8eb7-b838ea2506de
+URL:https://bau.circus-krone.com/veranstaltungen/kiddy-unser-bester-freun
+ d/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

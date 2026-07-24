@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260724T162258Z
+DTSTART:20261017T220000
+DTEND:20261018T000000
+SUMMARY:Udo Wiessmann
+TZID:Europe/Berlin
+UID:d87dd824-f069-4111-9ed6-7ed946415b73
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/17-10-2026_dar
+ k-infection-udo-wiessmann-yu-kawabata-victoria-fenbane-mephisto-sordid
+DESCRIPTION:Udo Wiessmann\, Yu Kawabata\, Victoria Fenbane\, Sordid\, Mep
+ histo
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
