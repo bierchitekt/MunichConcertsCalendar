@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260731T150237Z
+DTSTART:20260731T173000
+DTEND:20260731T193000
+SUMMARY:Still Talk + Letters Sent Home + Love & Lose | Free & Easy 2026 L
+ ive
+TZID:Europe/Berlin
+UID:7a7c42ec-e4a2-4ca8-830b-f380e4d5547b
+URL:https://www.backstage.eu/event/b2240de0-fb58-4f7f-bb60-c0e8ea4211cb
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR
