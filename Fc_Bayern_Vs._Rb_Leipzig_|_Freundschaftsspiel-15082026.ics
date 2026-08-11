@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260811T162309Z
+DTSTART:20260815T133000
+DTEND:20260815T153000
+SUMMARY:Fc Bayern Vs. Rb Leipzig | Freundschaftsspiel
+TZID:Europe/Berlin
+UID:0b0d80fa-ad6f-4bcd-8c5e-ac1ca07830a4
+URL:https://www.backstage.eu/event/901ffc1d-f8ba-42fa-b6a2-573e54f86ab7
+DESCRIPTION:
+LOCATION:Backyard Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR
