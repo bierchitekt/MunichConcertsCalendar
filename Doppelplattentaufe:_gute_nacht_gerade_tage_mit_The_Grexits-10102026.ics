@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260812T162306Z
+DTSTART:20261010T203000
+DTEND:20261010T223000
+SUMMARY:Doppelplattentaufe: gute nacht gerade tage mit The Grexits
+TZID:Europe/Berlin
+UID:ec02d3af-2b42-4049-af2c-406b84aa3dec
+URL:https://import-export.cc/event/doppelplattentaufe-gute-nacht-gerade-t
+ age-mit-the-grexits-g-rag-zelig-implosion-deluxxe/
+DESCRIPTION:g.rag/zelig implosion deluxxe
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

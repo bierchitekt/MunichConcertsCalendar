@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260812T162306Z
+DTSTART:20260905T183000
+DTEND:20260905T203000
+SUMMARY:Acht Bier Später
+TZID:Europe/Berlin
+UID:24472abe-6df2-4d0e-bc41-7b5053b6958f
+URL:https://theater-drehleier.de/programm/event/20260905_acht_bier_spaete
+ r__the_outpace__noceans
+DESCRIPTION:The Outpace \,  Noceans
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR
