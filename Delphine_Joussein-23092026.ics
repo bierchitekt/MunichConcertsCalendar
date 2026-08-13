@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260813T162258Z
+DTSTART:20260923T200000
+DTEND:20260923T220000
+SUMMARY:Delphine Joussein
+TZID:Europe/Berlin
+UID:ee8d6b60-1b74-45dd-8bec-0e0941182e02
+URL:https://import-export.cc/event/sonic-hypnosis-import-export-pres-delp
+ hine-joussein-enid-valu-anton-kaun-dj/
+DESCRIPTION:Enid Valu
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
