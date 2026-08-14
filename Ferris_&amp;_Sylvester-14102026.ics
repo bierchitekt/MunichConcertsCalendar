@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260814T162307Z
+DTSTART:20261014T200000
+DTEND:20261014T220000
+SUMMARY:Ferris & Sylvester
+TZID:Europe/Berlin
+UID:aa63494d-10cb-46c0-b341-1f35dab3c6cd
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/14-10-2026_fer
+ ris-und-sylvester
+DESCRIPTION:Ferris & Sylvester
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
