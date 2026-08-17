@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260817T162306Z
+DTSTART:20261030T210000
+DTEND:20261030T230000
+SUMMARY:The Mighty Tip-A-Tone Hi-Fi
+TZID:Europe/Berlin
+UID:ad8aef35-ac67-47a6-97a9-d320c5ad76d8
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/30-10-2026_rid
+ dim-disco-the-mighty-tip-a-tone-hi-fi-aba-shaka-mark-professor
+DESCRIPTION:The Mighty Tip-A-Tone Hi-Fi\, Aba Shaka\, Mark Professor
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

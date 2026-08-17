@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260817T162306Z
+DTSTART:20261021T200000
+DTEND:20261021T220000
+SUMMARY:L'Orne
+TZID:Europe/Berlin
+UID:5e763a6d-2fa1-4eda-90f6-ddaccb4c8a63
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/21-10-2026_lor
+ ne-moskau78-piteous
+DESCRIPTION:L'Orne\, Moskau78\, Piteous
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

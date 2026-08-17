@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260817T162306Z
+DTSTART:20261010T230000
+DTEND:20261011T010000
+SUMMARY:Irie Ira
+TZID:Europe/Berlin
+UID:03d942cb-6a96-4f73-9727-293fd0c3a2c5
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/10-10-2026_ome
+ ga-dub-circle-irie-ira-siren-sisters-soundsystem-mc-treasure-irie
+DESCRIPTION:Irie Ira\, Siren Sisters Soundsystem\, MC Treasure Irie
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
