@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260818T162254Z
+DTSTART:20261002T203000
+DTEND:20261002T223000
+SUMMARY:GÜNDALEIN
+TZID:Europe/Berlin
+UID:4c47cbf4-915c-4f20-b4a7-9292793a5c25
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/02-10-2026_rag
+ e-against-abschiebung
+DESCRIPTION:GÜNDALEIN\, Die Arschlöcherinnen\, Banda Ramua\, fab\, DJ a*\
+ , DJ Nadija
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
