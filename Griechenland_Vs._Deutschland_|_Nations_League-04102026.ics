@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260819T162249Z
+DTSTART:20261004T184500
+DTEND:20261004T204500
+SUMMARY:Griechenland Vs. Deutschland | Nations League
+TZID:Europe/Berlin
+UID:b7128bbe-ca0a-4163-b676-73c3dad31780
+URL:https://www.backstage.eu/event/daabdadb-01a1-4571-87f9-8a995b5568d6
+DESCRIPTION:
+LOCATION:Backyard Open Air (überdacht)
+END:VEVENT
+END:VCALENDAR
