@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260820T162245Z
+DTSTART:20261016T230000
+DTEND:20261017T010000
+SUMMARY:Re:growth
+TZID:Europe/Berlin
+UID:f322b2a1-504c-4f7a-a32b-df320bfc7418
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/16-10-2026_bre
+ ak-it-down-re-growth-tigra-cruel-kit-curse
+DESCRIPTION:Re:growth\, Tigra\, Cruel Culture\, Kit Curse
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
