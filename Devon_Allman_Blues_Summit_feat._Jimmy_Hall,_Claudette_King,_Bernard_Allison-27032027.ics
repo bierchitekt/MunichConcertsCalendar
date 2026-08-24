@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260824T162255Z
+DTSTART:20270327T200000
+DTEND:20270327T220000
+SUMMARY:Devon Allman Blues Summit feat. Jimmy Hall\, Claudette King\, Ber
+ nard Allison
+TZID:Europe/Berlin
+UID:0dc8e69e-db9d-47e8-8fd1-4718787647a0
+URL:https://www.muffatwerk.de/de/events/view/8239/devon-allman-blues-summ
+ it-feat-jimmy-hall-claudette-king-bernard-allison
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR
