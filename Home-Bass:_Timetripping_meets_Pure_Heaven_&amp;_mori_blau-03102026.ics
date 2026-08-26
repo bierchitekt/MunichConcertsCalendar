@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260826T162316Z
+DTSTART:20261003T210000
+DTEND:20261003T230000
+SUMMARY:Home-Bass: Timetripping meets Pure Heaven & mori blau
+TZID:Europe/Berlin
+UID:cc308c0d-1c34-48ae-9207-aa54e602e794
+URL:https://import-export.cc/event/home-bass-timetripping-meets-pure-heav
+ en-mori-blau/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
