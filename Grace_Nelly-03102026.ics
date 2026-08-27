@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260827T162326Z
+DTSTART:20261003T200000
+DTEND:20261003T220000
+SUMMARY:Grace Nelly
+TZID:Europe/Berlin
+UID:c842068e-bb36-4ba1-9f59-7587dda4ebbd
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/03-10-2026_sze
+ ne-check-0
+DESCRIPTION:Grace Nelly\, Pebblez\, Dr. Cairo\, Sonic Scandal
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
