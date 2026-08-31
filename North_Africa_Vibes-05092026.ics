@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260831T162310Z
+DTSTART:20260905T220000
+DTEND:20260906T000000
+SUMMARY:North Africa Vibes
+TZID:Europe/Berlin
+UID:5d65bc3d-03b6-420f-b439-a2a923210f34
+URL:https://import-export.cc/event/nichni-cabaret-night-north-africa-vibe
+ s/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
