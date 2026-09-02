@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260902T162310Z
+DTSTART:20260919T200000
+DTEND:20260919T220000
+SUMMARY:Black Stone Cherry - The Celebrate Tour | Ausverkauft
+TZID:Europe/Berlin
+UID:47c74363-b361-4847-92b8-46d52bd534eb
+URL:https://www.backstage.eu/event/062172af-3d79-4a47-9450-6049a47508c9
+DESCRIPTION:Hardest Working Band: Black Stone Cherry Kommen Erneut Nach D
+ eutschland! Sieben Shows Im September 2026!
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR
