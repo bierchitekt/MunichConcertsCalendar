@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260903T162304Z
+DTSTART:20270422T200000
+DTEND:20270422T220000
+SUMMARY:Versengold – Nacht Der Balladen
+TZID:Europe/Berlin
+UID:48fcc2d4-97e2-4f8b-b14a-79a55f2d1d0c
+URL:https://bau.circus-krone.com/veranstaltungen/versengold/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

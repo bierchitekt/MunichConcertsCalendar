@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260903T162304Z
+DTSTART:20261015T193000
+DTEND:20261015T213000
+SUMMARY:Profanity
+TZID:Europe/Berlin
+UID:bec69927-1d09-4a55-bc6f-b27844529676
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/15-10-2026_blo
+ odshed-and-beer-4-profanity-durgha-dark-indication
+DESCRIPTION:Profanity\, Durgha\, Dark Indication
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
