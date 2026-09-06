@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260906T162259Z
+DTSTART:20260918T180000
+DTEND:20260918T200000
+SUMMARY:Schaufel & Besen Records Musiker*innen Netzwerken
+TZID:Europe/Berlin
+UID:c779de8a-0f19-400d-b2ec-e3ecedfdb26d
+URL:https://www.kafekult.de/wordpress/event/schaufel-besen-records-musike
+ rinnen-netzwerken-jam-session/
+DESCRIPTION:Jam Session
+LOCATION:kafekult
+END:VEVENT
+END:VCALENDAR

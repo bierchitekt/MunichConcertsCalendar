@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260906T162259Z
+DTSTART:20261024T190000
+DTEND:20261024T210000
+SUMMARY:Scott Evil
+TZID:Europe/Berlin
+UID:cbaec16c-54d3-4081-a269-cc0dd3f8c3b7
+URL:https://www.kafekult.de/wordpress/event/scott-evil-ghost-ambulance-ho
+ spital-meat/
+DESCRIPTION:Ghost Ambulance \,  Hospital Meat
+LOCATION:kafekult
+END:VEVENT
+END:VCALENDAR
