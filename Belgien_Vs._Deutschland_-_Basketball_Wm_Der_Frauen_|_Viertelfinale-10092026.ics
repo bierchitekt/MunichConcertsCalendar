@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260910T171451Z
+DTSTART:20260910T154500
+DTEND:20260910T174500
+SUMMARY:Belgien Vs. Deutschland - Basketball Wm Der Frauen | Viertelfinal
+ e
+TZID:Europe/Berlin
+UID:83d09b79-56e1-4925-b50b-bfd67c253568
+URL:https://www.backstage.eu/event/13a563b2-e709-48ed-9d22-02d7b6d1f832
+DESCRIPTION:
+LOCATION:Backstage Biergarten
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260911T162319Z
+DTSTART:20261018T100000
+DTEND:20261018T120000
+SUMMARY:Dogworld® München – Hunde-lifestyle-messe & Erlebnisevent
+TZID:Europe/Berlin
+UID:5a8df253-12b7-4391-887d-106a31bbb095
+URL:https://muenchen.motorworld.de/veranstaltungen/dogworld-muenchen-hund
+ e-lifestyle-messe-erlebnisevent/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR
