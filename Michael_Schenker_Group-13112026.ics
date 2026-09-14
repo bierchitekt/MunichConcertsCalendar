@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260913T172455Z
+DTSTART:20261113T183000
+DTEND:20261113T203000
+SUMMARY:Michael Schenker Group
+TZID:Europe/Berlin
+UID:f6d01828-c267-4484-9907-009d59e7ffe9
+URL:https://www.nachtwerk.de//konzert/13-11-2026_michael-schenker-group-d
+ ont-sell-your-soul-2026/
+DESCRIPTION:
+LOCATION:Nachtwerk
+END:VEVENT
+END:VCALENDAR

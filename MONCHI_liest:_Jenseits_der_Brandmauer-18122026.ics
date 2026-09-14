@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260913T172455Z
+DTSTART:20261218T190000
+DTEND:20261218T210000
+SUMMARY:MONCHI liest: Jenseits der Brandmauer
+TZID:Europe/Berlin
+UID:72f7ba52-0bdb-4917-9689-8b17ed39c92e
+URL:https://www.nachtwerk.de//konzert/18-12-2026_monchi-liest-jenseits-de
+ r-brandmauer/
+DESCRIPTION:
+LOCATION:Nachtwerk
+END:VEVENT
+END:VCALENDAR

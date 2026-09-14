@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260913T172455Z
+DTSTART:20261203T183000
+DTEND:20261203T203000
+SUMMARY:WesGhost Ende des Jahres auf Tour
+TZID:Europe/Berlin
+UID:d055f8ed-0d63-4d35-8cf0-89a86a4ba501
+URL:https://www.nachtwerk.de//konzert/03-12-2026_wesghost-ende-des-jahres
+ -auf-tour/
+DESCRIPTION:
+LOCATION:Nachtwerk
+END:VEVENT
+END:VCALENDAR

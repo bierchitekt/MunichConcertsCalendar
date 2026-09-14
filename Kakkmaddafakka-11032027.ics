@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260913T172455Z
+DTSTART:20270311T190000
+DTEND:20270311T210000
+SUMMARY:Kakkmaddafakka
+TZID:Europe/Berlin
+UID:99a046e2-0b19-4445-b486-143dcd76bbbb
+URL:https://www.nachtwerk.de//konzert/11-03-2027_kakkmaddafakka-praesenti
+ ert-von-in-muenchen-und-rausgegangen-muenchen/
+DESCRIPTION:
+LOCATION:Nachtwerk
+END:VEVENT
+END:VCALENDAR
