@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260915T162258Z
+DTSTART:20270215T200000
+DTEND:20270215T220000
+SUMMARY:Almost Monday
+TZID:Europe/Berlin
+UID:d623c85a-a4ad-4156-ad87-3a019eb89d8a
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/15-02-2027_alm
+ ost-monday
+DESCRIPTION:Almost Monday
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
