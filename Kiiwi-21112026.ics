@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260917T162256Z
+DTSTART:20261121T190000
+DTEND:20261121T210000
+SUMMARY:Kiiwi
+TZID:Europe/Berlin
+UID:0fa26b31-f0c3-4228-bab7-1f0d51b64389
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/21-11-2026_fei
+ erwerk-sessions-kiiwi-temere
+DESCRIPTION:Kiiwi\, Diego and the Moon\, Temere
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
