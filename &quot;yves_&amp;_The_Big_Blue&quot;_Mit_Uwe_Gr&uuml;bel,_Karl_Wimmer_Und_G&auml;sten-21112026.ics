@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260920T162245Z
+DTSTART:20261121T183000
+DTEND:20261121T203000
+SUMMARY:"yves & The Big Blue" Mit Uwe Grübel\, Karl Wimmer Und Gästen
+TZID:Europe/Berlin
+UID:06e89fbd-a2fb-485d-8103-1072074de7f3
+URL:https://theater-drehleier.de/programm/event/20261121_
+DESCRIPTION:
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR
