@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260922T185426Z
+DTSTART:20261128T210000
+DTEND:20261128T230000
+SUMMARY:Jan Hegenberg
+TZID:Europe/Berlin
+UID:08024bc6-bfc6-4416-92bc-d488e62435f5
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/28-11-2026_jan
+ -hegenberg
+DESCRIPTION:Jan Hegenberg
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

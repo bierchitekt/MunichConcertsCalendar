@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260923T162258Z
+DTSTART:20270604T193000
+DTEND:20270604T213000
+SUMMARY:The Musical Box – … And Then There Was Phil
+TZID:Europe/Berlin
+UID:da3c3f17-92c2-445d-a768-f0feeb0d16a6
+URL:https://bau.circus-krone.com/veranstaltungen/the-musical-box-and-then
+ -there-was-phil/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

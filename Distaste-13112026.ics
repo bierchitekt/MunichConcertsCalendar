@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260923T162258Z
+DTSTART:20261113T203000
+DTEND:20261113T223000
+SUMMARY:Distaste
+TZID:Europe/Berlin
+UID:52ae3e76-b5e3-4b9b-8bb5-b6845b9a2d83
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/13-11-2026_cha
+ os-blast
+DESCRIPTION:Distaste\, Digest!\, Propagrinder
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
