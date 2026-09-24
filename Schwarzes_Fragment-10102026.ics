@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260924T162304Z
+DTSTART:20261010T183000
+DTEND:20261010T203000
+SUMMARY:Schwarzes Fragment
+TZID:Europe/Berlin
+UID:35822aba-42e3-47dc-b6af-d8ba3004f193
+URL:https://theater-drehleier.de/programm/event/20261010_schwarzes_fragme
+ nt__irrlicht
+DESCRIPTION:Irrlicht
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR

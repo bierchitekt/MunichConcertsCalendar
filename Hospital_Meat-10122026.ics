@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260924T162304Z
+DTSTART:20261210T190000
+DTEND:20261210T210000
+SUMMARY:Hospital Meat
+TZID:Europe/Berlin
+UID:007a1895-54bb-4b80-ade0-cf45fe2cc727
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/10-12-2026_spr
+ ungbrett-abschlussshow-0
+DESCRIPTION:Hospital Meat\, Noah Juan\, Powasser\, The Half Orphans
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

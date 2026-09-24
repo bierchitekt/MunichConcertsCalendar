@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260924T162304Z
+DTSTART:20261026T180000
+DTEND:20261026T200000
+SUMMARY:Decipher
+TZID:Europe/Berlin
+UID:b6c64c3a-579c-424f-b5f7-e31d6693e6be
+URL:https://theater-drehleier.de/programm/event/20261026_decipher__nachtk
+ rabb__chaos_reveald
+DESCRIPTION:Nachtkrabb \,  Chaos Reveald
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR
