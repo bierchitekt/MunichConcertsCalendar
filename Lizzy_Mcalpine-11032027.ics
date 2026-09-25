@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260925T162253Z
+DTSTART:20270311T200000
+DTEND:20270311T220000
+SUMMARY:Lizzy Mcalpine
+TZID:Europe/Berlin
+UID:196c2c60-914a-42bc-b3cf-34ab34bc8e6b
+URL:https://www.eventfabrik-muenchen.de/event/lizzy-mcalpine/
+DESCRIPTION:Worthitpurchase
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR

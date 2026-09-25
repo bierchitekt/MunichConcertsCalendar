@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260925T162253Z
+DTSTART:20270704T190000
+DTEND:20270704T210000
+SUMMARY:Schmidbauer & Kälberer Laden Ein: Dreiviertelblut
+TZID:Europe/Berlin
+UID:71dc8974-8d6d-4508-9e3d-28e614ea0c10
+URL:https://www.tollwood.de/veranstaltungen/2027/schmidbauer-kaelberer-la
+ den-ein-dreiviertelblut/
+DESCRIPTION:
+LOCATION:Tollwood
+END:VEVENT
+END:VCALENDAR
