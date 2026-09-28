@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260928T162314Z
+DTSTART:20270506T200000
+DTEND:20270506T220000
+SUMMARY:MFP Concerts presents Electric Light Orchestra Experience feat. P
+ hil Bates & Cutting Crew
+TZID:Europe/Berlin
+UID:9f85ff81-9dc8-4fc1-97c7-b2d9f0151b84
+URL:https://www.muffatwerk.de/de/events/view/8278/electric-light-orchestr
+ a-experience-feat-phil-bates-cutting-crew
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR

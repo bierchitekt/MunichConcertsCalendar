@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260928T162314Z
+DTSTART:20271030T193000
+DTEND:20271030T213000
+SUMMARY:Gert Steinbäcker – Schluss Jetzt
+TZID:Europe/Berlin
+UID:299e4756-54a7-42c5-8924-54d47b4cee63
+URL:https://bau.circus-krone.com/veranstaltungen/gert-steinbaecker/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
