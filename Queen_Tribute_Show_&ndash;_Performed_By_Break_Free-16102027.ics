@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260930T162304Z
+DTSTART:20271016T200000
+DTEND:20271016T220000
+SUMMARY:Queen Tribute Show – Performed By Break Free
+TZID:Europe/Berlin
+UID:bd0b2bbe-6817-4b74-a031-f4fce1d70579
+URL:https://bau.circus-krone.com/veranstaltungen/queen-tribute-show-perfo
+ rmed-by-break-free/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

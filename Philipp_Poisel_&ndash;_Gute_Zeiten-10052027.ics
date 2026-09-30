@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260930T162304Z
+DTSTART:20270510T190000
+DTEND:20270510T210000
+SUMMARY:Philipp Poisel – Gute Zeiten
+TZID:Europe/Berlin
+UID:da404929-515a-44b4-9d7d-974d133acf46
+URL:https://bau.circus-krone.com/veranstaltungen/philipp-poisel-gute-zeit
+ en/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

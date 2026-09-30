@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20260930T162304Z
+DTSTART:20271011T200000
+DTEND:20271011T220000
+SUMMARY:Höhner – Küss De Met
+TZID:Europe/Berlin
+UID:521b1bbe-f1d5-4f2b-a11f-ce45bcf0473f
+URL:https://bau.circus-krone.com/veranstaltungen/hoehner-kuess-de-met/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
