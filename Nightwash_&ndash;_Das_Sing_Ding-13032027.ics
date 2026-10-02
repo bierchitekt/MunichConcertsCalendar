@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261002T162254Z
+DTSTART:20270313T200000
+DTEND:20270313T220000
+SUMMARY:Nightwash – Das Sing Ding
+TZID:Europe/Berlin
+UID:4eb7ff6d-7125-46f6-b058-8a1082d51b34
+URL:https://www.eventfabrik-muenchen.de/event/nightwash-das-sing-ding/
+DESCRIPTION:
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR

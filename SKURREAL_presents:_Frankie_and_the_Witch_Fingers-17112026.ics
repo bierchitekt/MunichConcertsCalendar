@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261002T162254Z
+DTSTART:20261117T203000
+DTEND:20261117T223000
+SUMMARY:SKURREAL presents: Frankie and the Witch Fingers
+TZID:Europe/Berlin
+UID:b97798be-77d0-4b39-ab8d-2ec335d658e7
+URL:https://import-export.cc/event/skurreal-presents-frankie-and-the-witc
+ h-fingers-iguana-death-cult/
+DESCRIPTION:Iguana Death Cult
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
