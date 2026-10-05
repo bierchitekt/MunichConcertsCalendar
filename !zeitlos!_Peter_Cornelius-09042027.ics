@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261005T162341Z
+DTSTART:20270409T200000
+DTEND:20270409T220000
+SUMMARY:!zeitlos! Peter Cornelius
+TZID:Europe/Berlin
+UID:dd8d15da-21e3-4f88-93dc-456d4062fce0
+URL:https://bau.circus-krone.com/veranstaltungen/zeitlos-peter-cornelius/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

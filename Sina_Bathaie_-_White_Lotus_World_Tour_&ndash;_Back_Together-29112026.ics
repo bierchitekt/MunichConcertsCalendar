@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261005T162341Z
+DTSTART:20261129T190000
+DTEND:20261129T210000
+SUMMARY:Sina Bathaie - White Lotus World Tour – Back Together
+TZID:Europe/Berlin
+UID:eea88ab8-6588-49aa-99da-c84af5ff1945
+URL:https://www.backstage.eu/event/607ffffa-6bf2-4aaa-92d8-a552b11ae76a
+DESCRIPTION:
+LOCATION:Backstage Halle
+END:VEVENT
+END:VCALENDAR

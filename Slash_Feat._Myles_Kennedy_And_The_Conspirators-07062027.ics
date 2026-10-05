@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261005T162341Z
+DTSTART:20270607T190000
+DTEND:20270607T210000
+SUMMARY:Slash Feat. Myles Kennedy And The Conspirators
+TZID:Europe/Berlin
+UID:812dbca7-aa54-4193-9e71-70c0490cbfcf
+URL:https://muenchen.motorworld.de/veranstaltungen/slash-feat-myles-kenne
+ dy-and-the-conspirators/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR
