@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261006T162249Z
+DTSTART:20261219T183000
+DTEND:20261219T203000
+SUMMARY:Wild As Her - A Merry Wild Christmas – Das Konzert!
+TZID:Europe/Berlin
+UID:0152277d-8802-420f-9ee6-c9d1f97fd981
+URL:https://theater-drehleier.de/programm/event/20261219_wild_as_her
+DESCRIPTION:
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR
