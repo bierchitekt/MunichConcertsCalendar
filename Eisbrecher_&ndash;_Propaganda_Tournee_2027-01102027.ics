@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261007T162250Z
+DTSTART:20271001T200000
+DTEND:20271001T220000
+SUMMARY:Eisbrecher – Propaganda Tournee 2027
+TZID:Europe/Berlin
+UID:66900ca4-c5f1-4da5-bf25-7b218e93e23d
+URL:https://bau.circus-krone.com/veranstaltungen/eisbrecher/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
