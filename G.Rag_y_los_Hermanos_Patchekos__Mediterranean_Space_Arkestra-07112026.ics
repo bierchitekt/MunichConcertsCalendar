@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261008T162312Z
+DTSTART:20261107T210000
+DTEND:20261107T230000
+SUMMARY:G.Rag y los Hermanos Patchekos // Mediterranean Space Arkestra
+TZID:Europe/Berlin
+UID:00e57431-b826-44a0-b8bd-4c4764b67072
+URL:https://import-export.cc/event/g-rag-y-los-hermanos-patchekos-mediter
+ ranean-space-arkestra/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
