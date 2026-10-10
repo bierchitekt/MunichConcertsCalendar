@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261010T162236Z
+DTSTART:20270318T200000
+DTEND:20270318T220000
+SUMMARY:Kate Voegele
+TZID:Europe/Berlin
+UID:ca08b7e4-d43c-46de-945c-0c449befa8f2
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/18-03-2027_kat
+ e-voegele
+DESCRIPTION:Kate Voegele
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
