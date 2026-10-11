@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261011T162244Z
+DTSTART:20270416T193000
+DTEND:20270416T213000
+SUMMARY:Ein Rosenkavalier
+TZID:Europe/Berlin
+UID:a911990a-8398-47a6-ac45-e0a4681c154f
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/16-04-2027_ein
+ -rosenkavalier
+DESCRIPTION:Ein Rosenkavalier
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

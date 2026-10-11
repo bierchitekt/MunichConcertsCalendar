@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261011T162244Z
+DTSTART:20270420T200000
+DTEND:20270420T220000
+SUMMARY:The Good the Bad and the Zugly
+TZID:Europe/Berlin
+UID:96811694-6990-4488-b409-a73a6f4dae73
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/20-04-2027_the
+ -good-the-bad-and-the-zugly
+DESCRIPTION:The Good the Bad and the Zugly
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

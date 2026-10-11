@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261011T162244Z
+DTSTART:20270407T200000
+DTEND:20270407T220000
+SUMMARY:Alberta Cross
+TZID:Europe/Berlin
+UID:d4b79530-39ba-433b-9c8c-d55b2e7058a0
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/07-04-2027_alb
+ erta-cross
+DESCRIPTION:Alberta Cross
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
