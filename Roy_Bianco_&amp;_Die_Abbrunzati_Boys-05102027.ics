@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261012T162250Z
+DTSTART:20271005T180000
+DTEND:20271005T200000
+SUMMARY:Roy Bianco & Die Abbrunzati Boys
+TZID:Europe/Berlin
+UID:d80ce2d8-b3f7-4570-ad37-2c9822ee5d9a
+URL:https://www.olympiapark.de/de/veranstaltungen/roy-bianco-die-abbrunza
+ ti-boys-n6200
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR

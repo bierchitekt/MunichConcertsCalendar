@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261012T162250Z
+DTSTART:20261030T190000
+DTEND:20261030T210000
+SUMMARY:Spike and the Gimme Gimmes Support: Uh Batman
+TZID:Europe/Berlin
+UID:502b3fa9-4fdf-483f-ba0e-0c045f9758aa
+URL:https://www.nachtwerk.de/konzert/30-10-2026_spike-and-the-gimme-gimme
+ s/
+DESCRIPTION:Spike and the Gimme Gimmes Support: Uh Batman
+LOCATION:Nachtwerk
+END:VEVENT
+END:VCALENDAR
