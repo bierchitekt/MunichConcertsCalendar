@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261013T162301Z
+DTSTART:20270516T180000
+DTEND:20270516T200000
+SUMMARY:BBC Unser blauer Planet III
+TZID:Europe/Berlin
+UID:6efc585e-a096-40b6-b6da-3a35c4cad173
+URL:https://www.olympiapark.de/de/veranstaltungen/bbc-unser-blauer-planet
+ -iii-n6204
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR
