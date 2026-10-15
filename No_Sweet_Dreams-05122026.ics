@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261015T162248Z
+DTSTART:20261205T200000
+DTEND:20261205T220000
+SUMMARY:No Sweet Dreams
+TZID:Europe/Berlin
+UID:6266bf24-367f-43e0-944f-0859759785ab
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/05-12-2026_sze
+ ne-check-0
+DESCRIPTION:No Sweet Dreams\, Heavy Penguin\, Cindysiza\, Ein Glas Wein
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
