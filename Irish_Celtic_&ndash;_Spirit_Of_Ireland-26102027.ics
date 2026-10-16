@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261016T162236Z
+DTSTART:20271026T193000
+DTEND:20271026T213000
+SUMMARY:Irish Celtic – Spirit Of Ireland
+TZID:Europe/Berlin
+UID:c0536dca-9644-4203-a298-4a8a536f30aa
+URL:https://bau.circus-krone.com/veranstaltungen/irish-celtic-spirit-of-i
+ reland/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

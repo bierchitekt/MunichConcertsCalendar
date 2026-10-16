@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261016T162236Z
+DTSTART:20271018T200000
+DTEND:20271018T220000
+SUMMARY:Brit Floyd – Animals 50
+TZID:Europe/Berlin
+UID:87bc154d-4e4b-402b-b9dc-1db6d8757c57
+URL:https://bau.circus-krone.com/veranstaltungen/brit-floyd-animals-50/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
