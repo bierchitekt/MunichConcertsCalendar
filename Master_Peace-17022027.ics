@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261019T162234Z
+DTSTART:20270217T200000
+DTEND:20270217T220000
+SUMMARY:Master Peace
+TZID:Europe/Berlin
+UID:b0be83c8-dd1f-426a-bd60-80e302f552d6
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/17-02-2027_mas
+ ter-peace
+DESCRIPTION:Master Peace
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
