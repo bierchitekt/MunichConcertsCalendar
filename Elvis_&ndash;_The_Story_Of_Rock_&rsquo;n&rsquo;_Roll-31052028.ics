@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261022T162254Z
+DTSTART:20280531T200000
+DTEND:20280531T220000
+SUMMARY:Elvis – The Story Of Rock ’n’ Roll
+TZID:Europe/Berlin
+UID:7db85766-6bb3-4dad-85c2-9b943d2b40bc
+URL:https://bau.circus-krone.com/veranstaltungen/elvis-the-story-of-rock-
+ n-roll/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

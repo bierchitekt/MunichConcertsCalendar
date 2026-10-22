@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261021T173829Z
+DTSTART:20261025T183000
+DTEND:20261025T203000
+SUMMARY:Gypsy Swing Tage 2026 - Francisco Batista Presents: Django Orches
+ trated
+TZID:Europe/Berlin
+UID:c2dc39db-5775-4018-aa98-bd513e33fc37
+URL:https://theater-drehleier.de/programm/event/20261025_francisco_batist
+ a_presents_django_orchestrated
+DESCRIPTION:
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR
