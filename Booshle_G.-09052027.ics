@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261026T172246Z
+DTSTART:20270509T200000
+DTEND:20270509T220000
+SUMMARY:Booshle G.
+TZID:Europe/Berlin
+UID:ed0df824-a725-46f5-9693-e46ef349700c
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/09-05-2027_boo
+ shle-g-neon-dreams
+DESCRIPTION:Booshle G.\, Neon Dreams
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

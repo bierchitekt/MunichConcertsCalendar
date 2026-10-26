@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261026T172246Z
+DTSTART:20261106T193000
+DTEND:20261106T213000
+SUMMARY:PiYASA Vibes Vol. 5 mit Fenafillah
+TZID:Europe/Berlin
+UID:2f8cc5dd-679d-4726-94dc-efdfb31cac12
+URL:https://import-export.cc/event/piyasa-vibes-vol-5-mit-fenafillah/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

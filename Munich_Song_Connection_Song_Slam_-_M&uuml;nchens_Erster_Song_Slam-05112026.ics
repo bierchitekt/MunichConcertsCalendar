@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261026T172246Z
+DTSTART:20261105T183000
+DTEND:20261105T203000
+SUMMARY:Munich Song Connection Song Slam - Münchens Erster Song Slam
+TZID:Europe/Berlin
+UID:94b25756-f06b-43fd-88c6-4f6ad73885fb
+URL:https://theater-drehleier.de/programm/event/20261105_munich_song_conn
+ ection_song_slam__muenchens_erster_song_slam
+DESCRIPTION:
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR
