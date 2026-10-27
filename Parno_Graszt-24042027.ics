@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261027T172252Z
+DTSTART:20270424T200000
+DTEND:20270424T220000
+SUMMARY:Parno Graszt
+TZID:Europe/Berlin
+UID:eb94565d-52dd-4bdd-9429-e277b97ed187
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/24-04-2027_par
+ no-graszt
+DESCRIPTION:Parno Graszt
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

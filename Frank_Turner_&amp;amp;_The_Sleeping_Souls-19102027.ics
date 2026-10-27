@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261027T172252Z
+DTSTART:20271019T193000
+DTEND:20271019T213000
+SUMMARY:Frank Turner &amp\; The Sleeping Souls
+TZID:Europe/Berlin
+UID:c882217f-69e8-4a33-9a2e-42e4bc0f546f
+URL:https://www.eventfabrik-muenchen.de/event/frank-turner-the-sleeping-s
+ ouls/
+DESCRIPTION:Skinny Lister\, Beans On Toast
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR

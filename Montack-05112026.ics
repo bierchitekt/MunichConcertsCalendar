@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261027T172252Z
+DTSTART:20261105T183000
+DTEND:20261105T203000
+SUMMARY:Montack
+TZID:Europe/Berlin
+UID:bff8a9e1-0dbb-4137-a723-938b8e3d6f18
+URL:https://theater-drehleier.de/programm/event/20261105_montack__the_ult
+ imate_silverbeet
+DESCRIPTION:The Ultimate Silverbeet
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR
