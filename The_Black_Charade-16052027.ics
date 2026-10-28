@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261028T172237Z
+DTSTART:20270516T200000
+DTEND:20270516T220000
+SUMMARY:The Black Charade
+TZID:Europe/Berlin
+UID:543f3cf7-aca3-40c5-b05f-ab8c05a58733
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/16-05-2027_the
+ -black-charade
+DESCRIPTION:The Black Charade
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

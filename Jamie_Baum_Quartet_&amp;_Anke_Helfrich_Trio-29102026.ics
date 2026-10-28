@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261028T172236Z
+DTSTART:20261029T200000
+DTEND:20261029T220000
+SUMMARY:Jamie Baum Quartet & Anke Helfrich Trio
+TZID:Europe/Berlin
+UID:d1bc8c24-956b-4f38-905b-9a55f153a731
+URL:https://www.eventfabrik-muenchen.de/event/jamie-baum-quartet-anke-hel
+ frich-trio/
+DESCRIPTION:
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR

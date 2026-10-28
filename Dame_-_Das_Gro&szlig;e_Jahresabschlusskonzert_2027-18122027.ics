@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261028T172237Z
+DTSTART:20271218T190000
+DTEND:20271218T210000
+SUMMARY:Dame - Das Große Jahresabschlusskonzert 2027
+TZID:Europe/Berlin
+UID:361a95a7-fd51-49fc-9cb9-b73d662b252b
+URL:https://www.backstage.eu/event/18bd220b-ffbc-48ce-9f70-3ef68b9b292f
+DESCRIPTION:
+LOCATION:Tonhalle (werksviertel Mitte)
+END:VEVENT
+END:VCALENDAR

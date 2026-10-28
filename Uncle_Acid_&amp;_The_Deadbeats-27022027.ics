@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261028T172237Z
+DTSTART:20270227T200000
+DTEND:20270227T220000
+SUMMARY:Uncle Acid & The Deadbeats
+TZID:Europe/Berlin
+UID:624b4303-fadc-4e89-9913-27bbb12a6f83
+URL:https://www.eventfabrik-muenchen.de/event/uncle-acid-the-deadbeats/
+DESCRIPTION:Conan\, Earth Tongue
+LOCATION:EventFabrik
+END:VEVENT
+END:VCALENDAR
