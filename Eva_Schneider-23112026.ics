@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261030T172257Z
+DTSTART:20261123T190000
+DTEND:20261123T210000
+SUMMARY:Eva Schneider
+TZID:Europe/Berlin
+UID:43851ac7-5e4b-4673-85ba-94d2bbd6a860
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/23-11-2026_hau
+ nted-eva-schneider-vroni-schaller
+DESCRIPTION:Eva Schneider\, Vroni Schaller
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
