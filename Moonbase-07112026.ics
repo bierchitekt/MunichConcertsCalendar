@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261031T172233Z
+DTSTART:20261107T220000
+DTEND:20261108T000000
+SUMMARY:Moonbase
+TZID:Europe/Berlin
+UID:a7ebdfb5-354d-41c2-b990-8cea672772bb
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/07-11-2026_dub
+ town
+DESCRIPTION:Moonbase\, I&I Dubwise Soundsystem\, Watschnbass
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
