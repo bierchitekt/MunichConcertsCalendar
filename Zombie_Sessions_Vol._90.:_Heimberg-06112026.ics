@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261102T172303Z
+DTSTART:20261106T200000
+DTEND:20261106T220000
+SUMMARY:Zombie Sessions Vol. 90.: Heimberg
+TZID:Europe/Berlin
+UID:7340e38d-de96-48cf-aba3-ade2b3c2fa74
+URL:https://www.kafekult.de/wordpress/event/zombie-sessions-vol-90-heimbe
+ rg-vikowski-astern/
+DESCRIPTION:Vikowski \,  Astern
+LOCATION:kafekult
+END:VEVENT
+END:VCALENDAR
