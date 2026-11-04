@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261103T182628Z
+DTSTART:20270226T190000
+DTEND:20270226T210000
+SUMMARY:Mr. Hurley Und Die Pulveraffen - 40 Jahre Mr.hurley - Die Geburts
+ tagstour
+TZID:Europe/Berlin
+UID:1071e50b-4420-4b66-8183-79d532bf1f81
+URL:https://www.backstage.eu/event/2c51ec8b-cefb-4838-a5df-07ee51a090e1
+DESCRIPTION:
+LOCATION:Backstage Werk
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261104T172313Z
+DTSTART:20280120T200000
+DTEND:20280120T220000
+SUMMARY:DAS VPT interpretiert: Die drei ??? und der seltsame Wecker
+TZID:Europe/Berlin
+UID:f3d9e711-a09f-4749-8b1e-f31ff3778719
+URL:https://www.muffatwerk.de/de/events/view/8339/das-vpt-interpretiert-d
+ ie-drei-und-der-seltsame-wecker
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR
