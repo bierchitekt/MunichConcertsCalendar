@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261106T172251Z
+DTSTART:20271009T200000
+DTEND:20271009T220000
+SUMMARY:Barock – World´s #1 Ac/dc Tribute
+TZID:Europe/Berlin
+UID:00b2ba33-1522-478e-9afb-47c72878722a
+URL:https://bau.circus-krone.com/veranstaltungen/barock-worlds-1-ac-dc-tr
+ ibute/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR

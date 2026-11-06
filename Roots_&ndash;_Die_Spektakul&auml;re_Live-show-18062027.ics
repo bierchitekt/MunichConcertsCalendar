@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261106T172251Z
+DTSTART:20270618T200000
+DTEND:20270618T220000
+SUMMARY:Roots – Die Spektakuläre Live-show
+TZID:Europe/Berlin
+UID:b53ecfcb-6db0-46a3-a031-def92c75fb54
+URL:https://bau.circus-krone.com/veranstaltungen/roots-die-spektakulaere-
+ live-show/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
