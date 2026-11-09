@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261109T172250Z
+DTSTART:20270303T200000
+DTEND:20270303T220000
+SUMMARY:Jake Vaadeland and the Sturgeon River Boys
+TZID:Europe/Berlin
+UID:6db165ed-3018-4057-8126-f9d23870bd38
+URL:https://www.muffatwerk.de/de/events/view/8350/jake-vaadeland-and-the-
+ sturgeon-river-boys
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR

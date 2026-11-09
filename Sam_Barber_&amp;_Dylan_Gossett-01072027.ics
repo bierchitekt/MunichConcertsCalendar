@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261109T172250Z
+DTSTART:20270701T190000
+DTEND:20270701T210000
+SUMMARY:Sam Barber & Dylan Gossett
+TZID:Europe/Berlin
+UID:b7e154b8-8bf3-4c5d-afc4-993cbd6da008
+URL:https://muenchen.motorworld.de/veranstaltungen/dylan-gossett-sam-barb
+ er/
+DESCRIPTION:
+LOCATION:Zenith
+END:VEVENT
+END:VCALENDAR
