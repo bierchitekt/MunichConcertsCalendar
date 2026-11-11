@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261111T172324Z
+DTSTART:20261127T210000
+DTEND:20261127T230000
+SUMMARY:RITUALE FINALE – La Última del Rayo w/ Cosmica Bandida & Friends
+TZID:Europe/Berlin
+UID:4ce3d948-c1b6-4c4f-b5d6-094cf34e9d28
+URL:https://import-export.cc/event/chucuchucu-pres-rituale-finale-la-ulti
+ ma-del-rayo-w-cosmica-bandida-friends/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
