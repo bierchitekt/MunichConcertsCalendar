@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261112T172259Z
+DTSTART:20261218T190000
+DTEND:20261218T210000
+SUMMARY:Cold Silence
+TZID:Europe/Berlin
+UID:b2d79294-bccc-4d41-9479-dd2272e89c6c
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/18-12-2026_sil
+ ent-night-cold-silence-spitter-all-nine-yards-zero-day-exploit
+DESCRIPTION:Cold Silence\, Spitter\, All Nine Yards\, Zero Day Exploit
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

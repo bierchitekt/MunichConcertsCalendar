@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261112T172259Z
+DTSTART:20261123T200000
+DTEND:20261123T220000
+SUMMARY:verlegt auf unbekannt Dominik Hartz
+TZID:Europe/Berlin
+UID:264849f3-6bdd-4712-ad7c-61aedb60f453
+URL:https://www.muffatwerk.de/de/events/view/8341/dominik-hartz
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR

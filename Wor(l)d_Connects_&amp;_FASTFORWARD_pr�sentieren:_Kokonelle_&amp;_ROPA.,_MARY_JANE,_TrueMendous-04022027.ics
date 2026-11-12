@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261112T172259Z
+DTSTART:20270204T200000
+DTEND:20270204T220000
+SUMMARY:Wor(l)d Connects & FASTFORWARD pr�sentieren: Kokonelle & ROPA.\, 
+ MARY JANE\, TrueMendous
+TZID:Europe/Berlin
+UID:9e12adfd-3cd9-40af-91a8-838fa8a9d0af
+URL:https://www.muffatwerk.de/de/events/view/8363/kokonelle-ropa-mary-jan
+ e-truemendous
+DESCRIPTION:
+LOCATION:Muffathalle
+END:VEVENT
+END:VCALENDAR
