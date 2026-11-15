@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261115T172232Z
+DTSTART:20270513T200000
+DTEND:20270513T220000
+SUMMARY:Caramella & YDRA
+TZID:Europe/Berlin
+UID:35cb9012-e2c4-439a-b1f4-e810e69cea33
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/13-05-2027_car
+ amella-und-ydra
+DESCRIPTION:Caramella & YDRA
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
