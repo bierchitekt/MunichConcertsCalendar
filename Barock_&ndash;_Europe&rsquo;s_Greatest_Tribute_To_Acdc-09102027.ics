@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261118T172256Z
+DTSTART:20271009T200000
+DTEND:20271009T220000
+SUMMARY:Barock – Europe’s Greatest Tribute To Ac/dc
+TZID:Europe/Berlin
+UID:89b35bd7-1dc7-4c0c-b0b2-3611419a275c
+URL:https://bau.circus-krone.com/veranstaltungen/barock-worlds-1-ac-dc-tr
+ ibute/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
