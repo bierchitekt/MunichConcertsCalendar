@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261119T172235Z
+DTSTART:20261211T183000
+DTEND:20261211T203000
+SUMMARY:Beyond The Abyss
+TZID:Europe/Berlin
+UID:bad5fc41-8a06-48ba-95be-37b774960a40
+URL:https://theater-drehleier.de/programm/event/20261211_beyond_the_abyss
+ __aerbe
+DESCRIPTION:Aerbe
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR

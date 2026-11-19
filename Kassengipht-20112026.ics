@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261119T172235Z
+DTSTART:20261120T183000
+DTEND:20261120T203000
+SUMMARY:Kassengipht
+TZID:Europe/Berlin
+UID:7dbfe7f7-48fc-4b99-9e84-82faf97f13ad
+URL:https://theater-drehleier.de/programm/event/20261120_kassengipht__alt
+ stadt_standart__der_zwerch
+DESCRIPTION:Altstadt Standart \,  Der Zwerch
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR

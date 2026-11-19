@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261119T172235Z
+DTSTART:20270115T200000
+DTEND:20270115T220000
+SUMMARY:GG Soprano
+TZID:Europe/Berlin
+UID:fd24dc17-ac9c-4cdc-aa11-52db005f2d42
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/15-01-2027_gg-
+ soprano-release-show
+DESCRIPTION:GG Soprano
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
