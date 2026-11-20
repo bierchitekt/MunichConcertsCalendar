@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261120T172243Z
+DTSTART:20261121T183000
+DTEND:20261121T203000
+SUMMARY:Munich Speaker Night
+TZID:Europe/Berlin
+UID:dc627332-99d1-416c-acad-988cb61f40b1
+URL:https://theater-drehleier.de/programm/event/20261121_munich_speaker_n
+ ight
+DESCRIPTION:
+LOCATION:Theater Drehleier
+END:VEVENT
+END:VCALENDAR
