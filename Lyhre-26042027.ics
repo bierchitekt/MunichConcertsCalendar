@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261124T172251Z
+DTSTART:20270426T200000
+DTEND:20270426T220000
+SUMMARY:Lyhre
+TZID:Europe/Berlin
+UID:35f0b6cf-c9d2-4253-a2d0-64d50defe7f5
+URL:https://import-export.cc/event/heppel-ettlich-pres-lyhre-support-lumr
+ y/
+DESCRIPTION:Support: Lumry
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR
