@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261125T172322Z
+DTSTART:20261219T190000
+DTEND:20261219T210000
+SUMMARY:I Set Fire
+TZID:Europe/Berlin
+UID:cc10eae5-3b47-4985-b31a-633b10d268bd
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/19-12-2026_i-s
+ et-fire-release-chromantic-flash
+DESCRIPTION:I Set Fire\, Chromantic Flash
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

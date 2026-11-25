@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261125T172322Z
+DTSTART:20261220T200000
+DTEND:20261220T220000
+SUMMARY:Winter Basement Vol. 5
+TZID:Europe/Berlin
+UID:dcfd9fb6-2a13-4633-b185-cefd4c89ca40
+URL:https://import-export.cc/event/new-basement-pres-winter-basement-vol-
+ 5/
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

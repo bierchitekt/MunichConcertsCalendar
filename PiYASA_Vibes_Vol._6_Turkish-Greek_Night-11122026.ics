@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261125T172322Z
+DTSTART:20261211T203000
+DTEND:20261211T223000
+SUMMARY:PiYASA Vibes Vol. 6 Turkish-Greek Night
+TZID:Europe/Berlin
+UID:2cb15082-0ca4-43b3-a21c-b582b70cf16a
+URL:https://import-export.cc/event/piyasa-vibes-vol-6-turkish-greek-night
+ /
+DESCRIPTION:
+LOCATION:Import Export
+END:VEVENT
+END:VCALENDAR

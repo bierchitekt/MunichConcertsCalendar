@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261125T172322Z
+DTSTART:20270925T160000
+DTEND:20270925T180000
+SUMMARY:Within Temptation
+TZID:Europe/Berlin
+UID:bc00fb9a-86f7-43d1-9ffc-3dc44cad8936
+URL:https://www.olympiapark.de/de/veranstaltungen/within-temptation-n6306
+DESCRIPTION:
+LOCATION:Olympiahalle
+END:VEVENT
+END:VCALENDAR

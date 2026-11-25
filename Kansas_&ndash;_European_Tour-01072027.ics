@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261125T172322Z
+DTSTART:20270701T200000
+DTEND:20270701T220000
+SUMMARY:Kansas – European Tour
+TZID:Europe/Berlin
+UID:7af4a956-d6a6-4372-9abe-039248a2ac05
+URL:https://bau.circus-krone.com/veranstaltungen/kansas-european-tour/
+DESCRIPTION:
+LOCATION:Circus Krone
+END:VEVENT
+END:VCALENDAR
