@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261127T153133Z
+DTSTART:20270409T200000
+DTEND:20270409T220000
+SUMMARY:Felinio
+TZID:Europe/Berlin
+UID:039c65a6-253c-47af-bf6f-4312823729cb
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/09-04-2027_fel
+ inio-releasekonzert
+DESCRIPTION:Felinio
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR

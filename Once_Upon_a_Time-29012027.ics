@@ -1,0 +1,17 @@
+BEGIN:VCALENDAR
+PRODID:-//Events Calendar//iCal4j 1.0//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20261127T153133Z
+DTSTART:20270129T210000
+DTEND:20270129T230000
+SUMMARY:Once Upon a Time
+TZID:Europe/Berlin
+UID:cbb5eaa0-83fc-4f1e-a6f1-56a243add208
+URL:https://www.feierwerk.de/konzert-kulturprogramm/detail/29-01-2027_dee
+ p-down-and-dirty
+DESCRIPTION:Once Upon a Time\, Kliment\, Southwild\, Synthetik Chaos\, Tu
+ mult\, sG4rY\, Rhabia\, Jalaska\, Linedancer\, Chuha
+LOCATION:Feierwerk
+END:VEVENT
+END:VCALENDAR
